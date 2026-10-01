@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Wrapper from "../../shared/components/Wrapper";
 import SectionHeader from "../../shared/components/SectionHeader";
 import MediaCard, { MediaArticle } from "../components/MediaCard";
@@ -96,8 +97,8 @@ const Media: React.FC = () => {
                   conference organizers, and executive forums.
                 </p>
               </div>
-              <a
-                href="/contact"
+              <Link
+                to="/contact"
                 className="inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-5 py-2.5 text-sm font-medium tracking-wide transition-all hover:bg-brand-ink hover:shadow-soft"
               >
                 Get in touch
@@ -114,7 +115,7 @@ const Media: React.FC = () => {
                   <line x1="5" y1="12" x2="19" y2="12" />
                   <polyline points="12 5 19 12 12 19" />
                 </svg>
-              </a>
+              </Link>
             </div>
           </div>
         </Wrapper>

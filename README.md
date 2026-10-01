@@ -63,5 +63,9 @@ monogram fallbacks. You can drop these in at any time:
 
 ## Deployment
 
-Firebase Hosting is wired up — see `firebase.json` and `.firebaserc`.
+The live site is on GitHub Pages:
+[https://a2105z.github.io/anubhav-mittal-website/](https://a2105z.github.io/anubhav-mittal-website/).
+Pushes to `main` build and publish it through `.github/workflows/pages.yml`.
+
+Firebase Hosting is also wired up — see `firebase.json` and `.firebaserc`.
 After `npm run build`, run `firebase deploy`.

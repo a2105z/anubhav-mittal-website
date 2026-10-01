@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
+import { assetPath } from "../../shared/helpers/asset-path";
 
 export interface MediaArticle {
   publication: string;
@@ -48,7 +49,7 @@ const CoverArtInner: React.FC<CoverArtInnerProps> = ({
 
   return (
     <img
-      src={src}
+      src={assetPath(src)}
       alt={publicationLabel}
       onError={() => setErrored(true)}
       className="absolute inset-0 w-full h-full object-cover"

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { assetPath } from "../helpers/asset-path";
 
 interface LogoBlockProps {
   src?: string;
@@ -55,7 +56,7 @@ const LogoBlock: React.FC<LogoBlockProps> = ({
         </div>
       ) : (
         <img
-          src={src}
+          src={assetPath(src)}
           alt={alt}
           onError={() => setErrored(true)}
           className={`w-full h-full ${

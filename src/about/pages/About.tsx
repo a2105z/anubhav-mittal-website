@@ -6,6 +6,7 @@ import Expertise from "../components/Expertise";
 import Education from "../components/Education";
 import Credentials from "../components/Credentials";
 import Personal from "../components/Personal";
+import { assetPath } from "../../shared/helpers/asset-path";
 
 const PortraitFrame: React.FC = () => {
   const [errored, setErrored] = useState(false);
@@ -23,7 +24,7 @@ const PortraitFrame: React.FC = () => {
       <div className="relative aspect-[4/5] w-full rounded-2xl overflow-hidden border border-slate-200 shadow-soft bg-gradient-to-br from-brand-navy to-brand-slate">
         {!errored ? (
           <img
-            src="/images/anubhav.png"
+            src={assetPath("/images/anubhav.png")}
             alt="Anubhav Mittal"
             className="w-full h-full object-cover object-[center_18%]"
             onError={() => setErrored(true)}
