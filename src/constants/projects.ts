@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Finance & Strategic Initiatives",
+        title: "Senior Vice President, Corporate Finance and Strategic Initiatives",
         dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
