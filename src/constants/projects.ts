@@ -32,13 +32,13 @@ export const EXPERIENCES: Experience[] = [
     location:
       "Chicago, Illinois, United States | Glattpark, Zurich, Switzerland | East Hanover, New Jersey, United States",
     startDate: "2026",
-    endDate: "2041",
+    endDate: "2040",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and strategic initiatives, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and strategic initiatives, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2041",
+        dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
@@ -69,7 +69,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
-        dateRange: "2028 - 2030",
+        dateRange: "2027 - 2030",
         location: "Glattpark, Zurich, Switzerland",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$15B Mondelez Europe from Glattpark — the European headquarters — and deliver ~+6% organic net revenue growth, with volume positive in chocolate and biscuits across the region.",
@@ -82,7 +82,7 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title: "Senior Vice President, Corporate Finance and Strategic Initiatives",
-        dateRange: "2026 - 2028",
+        dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead corporate finance and strategic initiatives for Mondelez International from Chicago, directing a small team on investment analysis, capital reviews, and follow-through for selected major investments.",
