@@ -145,7 +145,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Corporate Development and M&A",
+        title: "Vice President, Corporate Development and Mergers & Acquisitions",
         dateRange: "2017 - 2023",
         location: "Chicago, Illinois, United States",
         highlights: [
