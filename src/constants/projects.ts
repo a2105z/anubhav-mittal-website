@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a global snacking company — Senior Vice President, Global Finance Transformation in Chicago, then Senior Vice President, Finance (Chief Financial Officer) of the North America Region in East Hanover, New Jersey, then Senior Vice President, Finance (Chief Financial Officer) of the AMEA Region in HarbourFront, Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
+      "Fifteen years of senior finance leadership at a global snacking company — Senior Vice President, Global Finance Transformation in Chicago, then Senior Vice President, Finance (Chief Financial Officer) of the North America Region in East Hanover, New Jersey, then Senior Vice President, Finance (Chief Financial Officer) of the Asia Pacific, Middle East and Africa Region in HarbourFront, Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -42,7 +42,7 @@ export const EXPERIENCES: Experience[] = [
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
-          "Partner with the CEO, Executive Leadership Team, and Board on the operating plan and monthly review across North America, Europe, AMEA, and Latin America — cocoa, pricing, mix, and productivity held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
+          "Partner with the CEO, Executive Leadership Team, and Board on the operating plan and monthly review across North America, Europe, Asia Pacific, Middle East and Africa, and Latin America — cocoa, pricing, mix, and productivity held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
           "Lead capital allocation of annual CapEx and brand investment against Year-3 lookbacks — biscuits, chocolate, and baked snacks that have to earn their cost of capital, not only hold share.",
           "Lead working-capital programs across inventory, receivables, and payables in a global cocoa, biscuit, and chocolate network — releasing cash without starving emerging-market service or peak-season chocolate.",
           "Partner with Treasury on the debt stack, liquidity, and credit rating through cocoa and foreign-exchange cycles — refinancing that funds the dividend and brand investment without an emergency raise.",
@@ -53,16 +53,16 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - AMEA Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Asia Pacific, Middle East and Africa Region",
         dateRange: "2031 - 2033",
         location: "HarbourFront, Central Region, Singapore",
         highlights: [
-          "Lead finance for the AMEA region from Singapore — Asia Pacific, the Middle East, and Africa, an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
+          "Lead finance for the Asia Pacific, Middle East and Africa region from HarbourFront — an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
           "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
-          "Partner with the AMEA president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
+          "Partner with the Asia Pacific, Middle East and Africa president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
           "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
           "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
-          "Build the AMEA finance bench and a close that consolidates the region onto the global planning stack put in place during the two-year Chicago transformation.",
+          "Build the Asia Pacific, Middle East and Africa finance bench and a close that consolidates the region onto the global planning stack put in place during the two-year Chicago transformation.",
         ],
       },
       {
@@ -85,11 +85,11 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead global finance transformation for Mondelez International from Chicago — the planning cadence, close, and finance operating model used by the corporate center and North America, Europe, AMEA, and Latin America.",
+          "Lead global finance transformation for Mondelez International from Chicago — the planning cadence, close, and finance operating model used by the corporate center and North America, Europe, Asia Pacific, Middle East and Africa, and Latin America.",
           "Partner with the Chief Financial Officer and the regional finance leaders to replace parallel plans with one driver-based operating plan, rolling forecast, and long-range plan across the two years.",
           "Redesign management reporting — one KPI set for pricing, mix, trade spend, cocoa, and cash that a Chicago review and a market review can both run.",
           "Stand up the monthly operating review the regions inherit — variance versus plan, forecast, and prior year, with ownership in the market rather than a corporate pack.",
-          "Put the close, consolidation, and planning stack onto one system so North America, and later AMEA, start from a model that is already live rather than a second implementation.",
+          "Put the close, consolidation, and planning stack onto one system so North America, and later Asia Pacific, Middle East and Africa, start from a model that is already live rather than a second implementation.",
           "Build the transformation office with Finance, IT, and the regions — approval gates, a two-year delivery plan, and adoption measured by whether the markets actually run the new cadence.",
         ],
       },
