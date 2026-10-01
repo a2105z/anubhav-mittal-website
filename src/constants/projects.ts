@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a global snacking company — Senior Vice President, Global Finance Transformation in Chicago, then Senior Vice President, Finance (Chief Financial Officer) of the North America Region in East Hanover, New Jersey, then Senior Vice President, Finance (Chief Financial Officer) of the Asia Pacific, Middle East and Africa Region in HarbourFront, Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning global finance transformation, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
