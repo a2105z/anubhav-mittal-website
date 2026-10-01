@@ -13,9 +13,9 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[clamp(0.46rem,1.4vw,1.1rem)] tracking-wide whitespace-nowrap"
       >
-        CPG Finance Operator & Investor
+        CPG Finance Executive
         <span className="text-brand-gold"> | </span>
-        Three-Time Public-Company Chief Financial Officer
+        Public-Company Chief Financial Officer
       </motion.p>
 
       <motion.p

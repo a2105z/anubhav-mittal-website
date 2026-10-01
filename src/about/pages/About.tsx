@@ -66,12 +66,12 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Operating Partner, Consumer and Retail
-                  Portfolio Group at Bain Capital, LP. He has more
-                  than 30 years of experience in senior finance across food,
-                  beverages, ingredients, and agribusiness, including
-                  service as a business-unit chief financial officer and as
-                  chief financial officer of publicly traded companies.
+                  Anubhav Mittal is Executive Vice President and Chief
+                  Financial Officer of Cresco Labs Inc. He has more than 30
+                  years of experience in senior finance across food,
+                  beverages, ingredients, and agribusiness, including service
+                  as a business-unit chief financial officer and as chief
+                  financial officer of a publicly traded company.
                 </motion.p>
 
                 <motion.p
@@ -81,11 +81,8 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Cresco Labs Inc., The Campbell&rsquo;s Company,
-                  Colgate-Palmolive Company, and Bain Capital, LP.
-                  At Kellogg, he led
-                  FP&amp;A and strategy for North America, a business of
-                  approximately{" "}
+                  Company, and Cresco Labs Inc. At Kellogg, he led FP&amp;A
+                  and strategy for North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
                   </span>
@@ -95,28 +92,13 @@ const About: React.FC = () => {
                     $8&nbsp;billion
                   </span>
                   ) and of Global Pet Solutions, and later led global
-                  business development and strategic finance. He was
-                  Executive Vice President and Chief Financial Officer of
-                  Cresco Labs Inc.
-                  (approximately{" "}
+                  business development and strategic finance. He is Executive
+                  Vice President and Chief Financial Officer of Cresco Labs
+                  Inc. (approximately{" "}
                   <span className="text-brand-ink font-semibold">
-                    $2&nbsp;billion
+                    $1&nbsp;billion
                   </span>
-                  ). He then served as Executive Vice President and Chief
-                  Financial Officer of The Campbell&rsquo;s Company
-                  (approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $10&nbsp;billion
-                  </span>
-                  ), as Executive Vice President &amp; Chief Financial
-                  Officer of Colgate-Palmolive Company (approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $20&nbsp;billion
-                  </span>
-                  ), and is now Operating Partner, Consumer and Retail
-                  Portfolio Group at Bain Capital, LP, working with
-                  portfolio CEOs and CFOs on value creation, growth, and
-                  exit readiness.
+                  ).
                 </motion.p>
 
                 <motion.p
@@ -159,7 +141,7 @@ const About: React.FC = () => {
                 className="mt-10 grid grid-cols-3 gap-4 sm:gap-6 border-t border-slate-200 pt-8"
               >
                 {[
-                  { value: "$20B", label: "Enterprise as CFO" },
+                  { value: "$8B", label: "Division as CFO" },
                   { value: "$12B+", label: "Transactions led" },
                   { value: "30+", label: "Years of experience" },
                 ].map((stat) => (

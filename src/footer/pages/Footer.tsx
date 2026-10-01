@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Anubhav Mittal, CFA, CPA, CMA
             </p>
             <p className="mt-0.5 text-[12.5px] text-slate-500">
-              Operating Partner, Consumer and Retail Portfolio Group · {LOCATION}
+              Executive Vice President and Chief Financial Officer, Cresco Labs · {LOCATION}
             </p>
           </div>
 
