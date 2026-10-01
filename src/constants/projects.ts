@@ -25,6 +25,41 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Mondelez International (NASDAQ : MDLZ)",
+    monogram: "MZ",
+    logo: "/icons/organizations/mondelez.png",
+    location:
+      "Chicago, Illinois, United States | East Hanover, New Jersey, United States",
+    startDate: "2026",
+    endDate: "2030",
+    summary:
+      "Four years of senior finance leadership at a global snacking company — one year leading global finance transformation from Chicago, then three years as Chief Financial Officer of the North America region from East Hanover, New Jersey.",
+    roles: [
+      {
+        title:
+          "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
+        dateRange: "2027 - 2030",
+        location: "East Hanover, New Jersey, United States",
+        highlights: [
+          "Lead finance for Mondelez North America from East Hanover — the regional operating plan, forecast, capital allocation, and monthly review across the U.S. and Canada snacking portfolio.",
+          "Partner with the North America president and commercial and supply-chain leaders on pricing, mix, trade spend, and productivity so growth and margin show up in the regional P&L.",
+          "Own working capital, cash conversion, and plant and customer economics across the North America network, with a cadence the global CFO and the region can both run.",
+          "Lead the regional finance team — FP&A, commercial finance, supply-chain finance, and controllership — on one driver-based plan and one close.",
+        ],
+      },
+      {
+        title: "Senior Vice President, Global Finance Transformation",
+        dateRange: "2026 - 2027",
+        location: "Chicago, Illinois, United States",
+        highlights: [
+          "Lead global finance transformation for Mondelez International from Chicago — the planning cadence, close, and finance operating model used by the corporate center and the regions.",
+          "Partner with the Chief Financial Officer and regional finance leaders to put a common driver-based plan, forecast, and management reporting stack in place within the year.",
+          "Leave the North America finance seat a transformation that is already running, so the regional CFO role starts from a shared system rather than a parallel one.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",

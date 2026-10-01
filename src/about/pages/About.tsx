@@ -66,12 +66,11 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Global Business
-                  Development and Strategic Finance at Archer-Daniels-Midland
-                  Company. He has more than 30 years of experience in senior
-                  finance across food, beverages, ingredients, and
-                  agribusiness, including service as a business-unit chief
-                  financial officer.
+                  Anubhav Mittal is Senior Vice President, Global Finance
+                  Transformation at Mondelez International in Chicago. He has
+                  more than 30 years of experience in senior finance across
+                  food, beverages, ingredients, and agribusiness, including
+                  service as a business-unit chief financial officer.
                 </motion.p>
 
                 <motion.p
@@ -80,9 +79,10 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
-                  His career includes Kellogg Company and
-                  Archer-Daniels-Midland Company. At Kellogg, he led FP&amp;A
-                  and strategy for North America, a business of approximately{" "}
+                  His career includes Kellogg Company, Archer-Daniels-Midland
+                  Company, and Mondelez International. At Kellogg, he led
+                  FP&amp;A and strategy for North America, a business of
+                  approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
                   </span>
@@ -92,7 +92,10 @@ const About: React.FC = () => {
                     $8&nbsp;billion
                   </span>
                   ) and of Global Pet Solutions, and later led global
-                  business development and strategic finance.
+                  business development and strategic finance. At Mondelez, he
+                  leads global finance transformation from Chicago, then
+                  serves as Chief Financial Officer of the North America
+                  region from East Hanover, New Jersey.
                 </motion.p>
 
                 <motion.p

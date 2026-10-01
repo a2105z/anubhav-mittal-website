@@ -93,6 +93,11 @@ const ExperienceItem: React.FC<ExperienceItemProps> = ({
                 {role.dateRange}
               </p>
             </div>
+            {role.location && (
+              <p className="mt-1 text-[11.5px] uppercase tracking-eyebrow text-slate-400">
+                {role.location}
+              </p>
+            )}
 
             <ul className="mt-2.5 space-y-1.5 text-[14px] leading-[1.65] text-slate-600 list-disc list-outside pl-4">
               {role.highlights.map((bullet, i) => (
