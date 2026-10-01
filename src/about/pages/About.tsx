@@ -67,7 +67,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
                   Anubhav Mittal is Senior Vice President, Corporate Finance
-                  and Strategic Initiatives at Mondelez International in
+                  and Assistant Treasurer at Mondelez International in
                   Chicago. He has
                   more than 30 years of experience in senior finance across
                   food, beverages, ingredients, and agribusiness, including
@@ -95,7 +95,7 @@ const About: React.FC = () => {
                   ) and of Global Pet Solutions, and later led global
                   business development and strategic finance. At Mondelez, he
                   serves as Senior Vice President, Corporate Finance and
-                  Strategic Initiatives in Chicago, then as Senior Vice President,
+                  Assistant Treasurer in Chicago, then as Senior Vice President,
                   Finance (Chief Financial Officer) of the Europe Region in
                   Glattpark, Zurich, then as Senior Vice President, Finance
                   (Chief Financial Officer) of the North America Region in

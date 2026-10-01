@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2040",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and strategic initiatives, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -54,7 +54,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2030 - 2033",
+        dateRange: "2031 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",
@@ -69,7 +69,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
-        dateRange: "2027 - 2030",
+        dateRange: "2028 - 2031",
         location: "Glattpark, Zurich, Switzerland",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$15B Mondelez Europe from Glattpark — the European headquarters — and deliver ~+6% organic net revenue growth, with volume positive in chocolate and biscuits across the region.",
@@ -81,11 +81,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Finance and Strategic Initiatives",
-        dateRange: "2026 - 2027",
+        title: "Senior Vice President, Corporate Finance and Assistant Treasurer",
+        dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead corporate finance and strategic initiatives for Mondelez International from Chicago, directing a small team on investment analysis, capital reviews, and follow-through for selected major investments.",
+          "Lead corporate finance as Assistant Treasurer for Mondelez International from Chicago, directing a small team on investment analysis, capital reviews, and follow-through for selected major investments.",
           "Own the financial assessment on each case — expected sales, margins, cash returns, risks, and the alternatives set aside — so capital is recommended on returns, not on the loudest request.",
           "Compare those opportunities across businesses and recommend to the Chief Financial Officer where capital should go, holding every case to return thresholds and to the cash the enterprise can deploy.",
           "Partner with Corporate Development on the financial case for selected acquisitions, including the assumptions behind expected returns, synergies, and downside cash.",
