@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and strategic initiatives, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -81,11 +81,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Finance",
+        title: "Senior Vice President, Corporate Finance & Strategic Initiatives",
         dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead corporate finance for Mondelez International from Chicago, directing a small team on investment analysis, capital reviews, and follow-through for selected major investments.",
+          "Lead corporate finance and strategic initiatives for Mondelez International from Chicago, directing a small team on investment analysis, capital reviews, and follow-through for selected major investments.",
           "Own the financial assessment on each case — expected sales, margins, cash returns, risks, and the alternatives set aside — so capital is recommended on returns, not on the loudest request.",
           "Compare those opportunities across businesses and recommend to the Chief Financial Officer where capital should go, holding every case to return thresholds and to the cash the enterprise can deploy.",
           "Partner with Corporate Development on the financial case for selected acquisitions, including the assumptions behind expected returns, synergies, and downside cash.",
