@@ -60,11 +60,6 @@ const ExperienceItem: React.FC<ExperienceItemProps> = ({
           <h3 className="text-brand-ink text-lg sm:text-xl font-semibold tracking-tight">
             {experience.company}
           </h3>
-          {experience.location && (
-            <p className="mt-0.5 text-[12.5px] uppercase tracking-eyebrow text-slate-400">
-              {experience.location}
-            </p>
-          )}
           <p className="mt-3 text-[14.5px] leading-relaxed text-slate-600">
             {experience.summary}
           </p>
