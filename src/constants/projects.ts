@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning global finance transformation, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -81,11 +81,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Global Finance Transformation",
+        title: "Senior Vice President, Corporate Finance",
         dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead global finance transformation for Mondelez International from Chicago and, inside one year, put Europe, North America, Asia Pacific, Middle East and Africa, and Latin America on one driver-based plan, forecast, and long-range plan.",
+          "Lead corporate finance for Mondelez International from Chicago and, inside one year, put Europe, North America, Asia Pacific, Middle East and Africa, and Latin America on one driver-based plan, forecast, and long-range plan.",
           "Take the global close down by three days and retire the parallel regional reporting packs, so consolidation is one system rather than a second close in each region.",
           "Cut enterprise forecast error roughly in half on pricing, mix, cocoa, and cash — one KPI set a Chicago review and a market review can both run.",
           "Deliver ~$45M of run-rate cost out of the finance operating model — shared close, fewer manual bridges, and a cadence the markets actually use, not a toolkit that sits on a shelf.",

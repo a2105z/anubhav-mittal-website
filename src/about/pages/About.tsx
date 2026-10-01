@@ -66,8 +66,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Senior Vice President, Global Finance
-                  Transformation at Mondelez International in Chicago. He has
+                  Anubhav Mittal is Senior Vice President, Corporate Finance
+                  at Mondelez International in Chicago. He has
                   more than 30 years of experience in senior finance across
                   food, beverages, ingredients, and agribusiness, including
                   service as a business-unit chief financial officer.
@@ -93,8 +93,8 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions, and later led global
                   business development and strategic finance. At Mondelez, he
-                  serves as Senior Vice President, Global Finance
-                  Transformation in Chicago, then as Senior Vice President,
+                  serves as Senior Vice President, Corporate Finance in
+                  Chicago, then as Senior Vice President,
                   Finance (Chief Financial Officer) of the Europe Region in
                   Glattpark, Zurich, then as Senior Vice President, Finance
                   (Chief Financial Officer) of the North America Region in
