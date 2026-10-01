@@ -29,12 +29,33 @@ export const EXPERIENCES: Experience[] = [
     monogram: "MZ",
     logo: "/icons/organizations/mondelez.png",
     location:
-      "Chicago, Illinois, United States | East Hanover, New Jersey, United States",
+      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | Singapore",
     startDate: "2026",
-    endDate: "2030",
+    endDate: "2040",
     summary:
-      "Four years of senior finance leadership at a global snacking company — one year leading global finance transformation from Chicago, then three years as Chief Financial Officer of the North America region from East Hanover, New Jersey.",
+      "Fourteen years of senior finance leadership at a global snacking company — global finance transformation in Chicago, Chief Financial Officer of North America in East Hanover, finance leadership of the AMEA region in Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
     roles: [
+      {
+        title: "Executive Vice President & Chief Financial Officer",
+        dateRange: "2032 - 2040",
+        location: "Chicago, Illinois, United States",
+        highlights: [
+          "Return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International — enterprise finance for the global snacking company after the North America and AMEA seats.",
+          "Lead treasury, capital structure, FP&A, controllership, tax, and investor relations, and the operating plan the CEO, executive team, and Board run.",
+          "Hold the regions to one capital-allocation standard and one monthly review, with North America and AMEA already on the transformation built in the first year.",
+          "Partner with the Board on dividend, leverage, and the equity narrative so the enterprise print matches the regional plans.",
+        ],
+      },
+      {
+        title: "Senior Vice President, Finance of the AMEA Region",
+        dateRange: "2030 - 2032",
+        location: "Singapore",
+        highlights: [
+          "Lead finance for the AMEA region from Singapore — Asia Pacific, the Middle East, and Africa — the regional operating plan, forecast, and monthly review across that footprint.",
+          "Partner with the AMEA president and commercial and supply-chain leaders on pricing, mix, and productivity so growth in emerging markets shows up in cash as well as sales.",
+          "Run the regional finance team from the AMEA headquarters at HarbourFront, on the same driver-based plan used in North America and at the corporate center.",
+        ],
+      },
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
