@@ -30,14 +30,14 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location:
-      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | Singapore",
+      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
     startDate: "2026",
     endDate: "2040",
     summary:
       "Fourteen years of senior finance leadership at a global snacking company — global finance transformation in Chicago, Chief Financial Officer of North America in East Hanover, finance leadership of the AMEA region in Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
     roles: [
       {
-        title: "Executive Vice President & Chief Financial Officer",
+        title: "Executive Vice President and Chief Financial Officer",
         dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
@@ -55,7 +55,7 @@ export const EXPERIENCES: Experience[] = [
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - AMEA Region",
         dateRange: "2031 - 2033",
-        location: "Singapore",
+        location: "HarbourFront, Central Region, Singapore",
         highlights: [
           "Lead finance for the AMEA region from Singapore — Asia Pacific, the Middle East, and Africa, an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
           "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",

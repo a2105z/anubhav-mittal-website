@@ -97,7 +97,7 @@ const About: React.FC = () => {
                   serves as Chief Financial Officer of the North America
                   region from East Hanover, New Jersey, then as Senior Vice
                   President, Finance (Chief Financial Officer) of the AMEA
-                  region from Singapore, and
+                  region from HarbourFront, Singapore, and
                   returns to Chicago as Executive Vice President and Chief
                   Financial Officer of Mondelez International.
                 </motion.p>
