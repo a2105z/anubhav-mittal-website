@@ -166,10 +166,10 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2013",
     endDate: "2017",
     summary:
-      "Four years of senior finance and strategy leadership at a Fortune 250 global consumer foods leader — spanning corporate development, and North America FP&A and Strategy leadership reporting to the President of Kellogg North America.",
+      "Four years of senior finance and strategy leadership at a Fortune 250 global consumer foods leader — spanning corporate development, and North America Financial Planning & Analysis leadership reporting to the President of Kellogg North America.",
     roles: [
       {
-        title: "Vice President, FP&A and Strategy - North America Region",
+        title: "Vice President, Financial Planning & Analysis - North America Region",
         dateRange: "2015 - 2017",
         location: "Battle Creek, Michigan, United States",
         highlights: [
