@@ -25,34 +25,6 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Cresco Labs Inc. (NASDAQ : CRLBF)",
-    monogram: "CL",
-    logo: "/icons/organizations/cresco.png",
-    location: "Chicago, Illinois, United States",
-    startDate: "2026",
-    endDate: "2030",
-    summary:
-      "Four years of senior enterprise finance leadership at a publicly traded multi-state operator — serving as Executive Vice President and Chief Financial Officer, rebuilding the accounting function, compliance, and ERP, putting Claude Workspace into the finance stack, and leading the company's NASDAQ listing.",
-    roles: [
-      {
-        title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2026 - 2030",
-        location: "Chicago, Illinois, United States",
-        highlights: [
-          "Serve as Executive Vice President and Chief Financial Officer of Cresco Labs Inc., a publicly traded multi-state operator with ~$1B of revenue — a modern Accounting + Strategic CFO mandate across the books, the systems, and the finance that funded growth.",
-          "Lead accounting remediation — rebuilding the close, consolidations, account reconciliations, journal-entry governance, inventory and cost accounting, and U.S. GAAP financial statements so the books could scale with the footprint and meet U.S. listing standards.",
-          "Reorganize the accounting function — a new controllership operating model, clearer ownership across state entities, and a monthly / quarterly close designed for a public multi-state operator.",
-          "Rebuild compliance end-to-end — SOX / ICFR, internal controls, multi-jurisdiction sales, excise, and income-tax reporting, external audit, and the reporting stack required for a U.S. exchange listing.",
-          "Introduce new ERP systems to replace fragmented books — a unified close, consolidation, inventory, and reporting stack, with controllership redesigned around the new systems.",
-          "Introduce Claude Workspace into accounting, compliance, and FP&A — for close support, account analysis, technical-accounting research, reporting drafts, and control documentation.",
-          "Lead Cresco Labs Inc.'s NASDAQ listing (NASDAQ : CRLBF) — the registration statement, PCAOB-quality financials, exchange governance, underwriter and counsel workstreams, and the investor roadshow of moving from the Canadian Securities Exchange to a U.S. national market.",
-          "Build the public-markets architecture for a NASDAQ-listed issuer — SEC reporting, MD&A, earnings cadence, sell-side coverage, and an equity narrative that can support a U.S. listing without losing control of the books.",
-          "Partner with the CEO and Board as Strategic CFO — working capital, cash conversion, facility-level unit economics, Investor Relations, capital structure around listing, and the reporting needed to fund new markets, capacity, and M&A without losing control of the books.",
-        ],
-      },
-    ],
-  },
-  {
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",

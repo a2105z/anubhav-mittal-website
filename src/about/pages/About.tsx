@@ -66,12 +66,12 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Executive Vice President and Chief
-                  Financial Officer of Cresco Labs Inc. He has more than 30
-                  years of experience in senior finance across food,
-                  beverages, ingredients, and agribusiness, including service
-                  as a business-unit chief financial officer and as chief
-                  financial officer of a publicly traded company.
+                  Anubhav Mittal is Vice President, Global Business
+                  Development and Strategic Finance at Archer-Daniels-Midland
+                  Company. He has more than 30 years of experience in senior
+                  finance across food, beverages, ingredients, and
+                  agribusiness, including service as a business-unit chief
+                  financial officer.
                 </motion.p>
 
                 <motion.p
@@ -80,8 +80,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
-                  His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, and Cresco Labs Inc. At Kellogg, he led FP&amp;A
+                  His career includes Kellogg Company and
+                  Archer-Daniels-Midland Company. At Kellogg, he led FP&amp;A
                   and strategy for North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -92,13 +92,7 @@ const About: React.FC = () => {
                     $8&nbsp;billion
                   </span>
                   ) and of Global Pet Solutions, and later led global
-                  business development and strategic finance. He is Executive
-                  Vice President and Chief Financial Officer of Cresco Labs
-                  Inc. (approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $1&nbsp;billion
-                  </span>
-                  ).
+                  business development and strategic finance.
                 </motion.p>
 
                 <motion.p

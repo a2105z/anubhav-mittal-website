@@ -8,10 +8,6 @@ assets.
 
 | Filename            | Used for                                          |
 | ------------------- | ------------------------------------------------- |
-| `bain-capital.png`  | Bain Capital — Experience page                    |
-| `colgate-palmolive.png` | Colgate-Palmolive Company — Experience page     |
-| `campbells.png`     | The Campbell's Company — Experience page          |
-| `cresco.png`        | Cresco Labs — Experience page                     |
 | `adm.png`           | ADM (Archer Daniels Midland) — Experience page    |
 | `kellogg.png`       | Kellogg Company — Experience page                 |
 | `booz.png`          | Booz & Company — Experience page                  |
