@@ -38,7 +38,7 @@ export const EXPERIENCES: Experience[] = [
     roles: [
       {
         title: "Executive Vice President & Chief Financial Officer",
-        dateRange: "2032 - 2040",
+        dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
@@ -52,8 +52,9 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Finance of the AMEA Region",
-        dateRange: "2030 - 2032",
+        title:
+          "Senior Vice President, Finance (Chief Financial Officer) - AMEA Region",
+        dateRange: "2031 - 2033",
         location: "Singapore",
         highlights: [
           "Lead finance for the AMEA region from Singapore — Asia Pacific, the Middle East, and Africa, an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
@@ -61,13 +62,13 @@ export const EXPERIENCES: Experience[] = [
           "Partner with the AMEA president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
           "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
           "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
-          "Build the AMEA finance bench and a close that consolidates the region onto the global planning stack put in place during the Chicago transformation year.",
+          "Build the AMEA finance bench and a close that consolidates the region onto the global planning stack put in place during the two-year Chicago transformation.",
         ],
       },
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2027 - 2030",
+        dateRange: "2028 - 2031",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of Mondelez North America from East Hanover — an ~$11B U.S. and Canada snacking portfolio across biscuits, chocolate, gum, and candy — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
@@ -76,20 +77,20 @@ export const EXPERIENCES: Experience[] = [
           "Drive working capital across the biscuit and chocolate network — inventory, receivables, and payables — releasing cash without starving peak-season service.",
           "Establish monthly business reviews and variance versus plan, forecast, and prior year so a plant review and an East Hanover review tell the same story.",
           "Lead cocoa and input-cost exposure with Supply Chain and Procurement — pricing realization and productivity that protect gross margin when the commodity moves.",
-          "Build the North America finance team on the transformation stack from the Chicago year — one close, one set of KPIs, and a bench that can move to the center.",
+          "Build the North America finance team on the transformation stack from the two Chicago years — one close, one set of KPIs, and a bench that can move to the center.",
         ],
       },
       {
         title: "Senior Vice President, Global Finance Transformation",
-        dateRange: "2026 - 2027",
+        dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead global finance transformation for Mondelez International from Chicago — the planning cadence, close, and finance operating model used by the corporate center and North America, Europe, AMEA, and Latin America.",
-          "Partner with the Chief Financial Officer and the regional finance leaders to replace parallel plans with one driver-based operating plan, rolling forecast, and long-range plan inside the year.",
+          "Partner with the Chief Financial Officer and the regional finance leaders to replace parallel plans with one driver-based operating plan, rolling forecast, and long-range plan across the two years.",
           "Redesign management reporting — one KPI set for pricing, mix, trade spend, cocoa, and cash that a Chicago review and a market review can both run.",
           "Stand up the monthly operating review the regions inherit — variance versus plan, forecast, and prior year, with ownership in the market rather than a corporate pack.",
           "Put the close, consolidation, and planning stack onto one system so North America, and later AMEA, start from a model that is already live rather than a second implementation.",
-          "Build the transformation office with Finance, IT, and the regions — approval gates, a one-year delivery plan, and adoption measured by whether the markets actually run the new cadence.",
+          "Build the transformation office with Finance, IT, and the regions — approval gates, a two-year delivery plan, and adoption measured by whether the markets actually run the new cadence.",
         ],
       },
     ],
