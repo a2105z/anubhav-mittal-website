@@ -32,13 +32,13 @@ export const EXPERIENCES: Experience[] = [
     location:
       "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
     startDate: "2026",
-    endDate: "2040",
+    endDate: "2041",
     summary:
-      "Fourteen years of senior finance leadership at a global snacking company — global finance transformation in Chicago, Chief Financial Officer of North America in East Hanover, finance leadership of the AMEA region in Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
+      "Fifteen years of senior finance leadership at a global snacking company — global finance transformation in Chicago, Chief Financial Officer of North America in East Hanover, finance leadership of the AMEA region in Singapore, then a return to Chicago as Executive Vice President and Chief Financial Officer of Mondelez International.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2040",
+        dateRange: "2033 - 2041",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
