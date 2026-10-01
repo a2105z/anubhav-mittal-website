@@ -30,11 +30,11 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location:
-      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
+      "Chicago, Illinois, United States | Glattpark, Zurich, Switzerland | East Hanover, New Jersey, United States",
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning global finance transformation, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning global finance transformation, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -48,27 +48,13 @@ export const EXPERIENCES: Experience[] = [
           "Partner with Treasury on the debt stack, liquidity, and credit rating through cocoa and foreign-exchange cycles — refinancing that funds the dividend and brand investment without an emergency raise.",
           "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a snacking compounding story the Street can own through a commodity spike.",
           "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
-          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, East Hanover, and Singapore.",
-        ],
-      },
-      {
-        title:
-          "Senior Vice President, Finance (Chief Financial Officer) - Asia Pacific, Middle East and Africa Region",
-        dateRange: "2031 - 2033",
-        location: "HarbourFront, Central Region, Singapore",
-        highlights: [
-          "Lead finance for an ~$8B Asia Pacific, Middle East and Africa region from HarbourFront — 70+ markets — and deliver ~+9% organic net revenue growth over two years while holding service across peak season.",
-          "Take operating margin up ~+100 bps through pricing realization, mix into Oreo and Cadbury, and plant productivity, with cocoa and currency called in the forecast rather than explained after the print.",
-          "Release ~$160M of cash from inventory and distributor terms without pulling volume out of India, Southeast Asia, or the Middle East.",
-          "Cut regional forecast error roughly in half — driver-based plans tied to S&OP — so a HarbourFront review and a market review stop telling two stories.",
-          "Lift trade and route-to-market return in the priority markets, taking unproductive spend out of the P&L and putting it behind the brands that were actually growing.",
-          "Put the region on the Chicago planning stack inside the first year and close it on the global calendar, with a finance bench that can move between markets and the center.",
+          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, Glattpark, and East Hanover.",
         ],
       },
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2028 - 2031",
+        dateRange: "2030 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",
@@ -81,16 +67,30 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
+        title:
+          "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
+        dateRange: "2027 - 2030",
+        location: "Glattpark, Zurich, Switzerland",
+        highlights: [
+          "Lead finance as Chief Financial Officer of an ~$15B Mondelez Europe from Glattpark — the European headquarters — and deliver ~+6% organic net revenue growth, with volume positive in chocolate and biscuits across the region.",
+          "Expand operating margin ~+90 bps through pricing realization on Milka, Cadbury, Toblerone, Oreo, and LU, and plant productivity that stays in the P&L after cocoa and energy move.",
+          "Release ~$240M of working capital across inventory, receivables, and payables without missing peak chocolate season in the priority markets.",
+          "Cut regional forecast error roughly in half — driver-based plans tied to S&OP — so a Glattpark review and a market review land on the same number.",
+          "Lift trade-spend return and take unproductive promotional spend out of the plan, putting it behind the brands that were earning their cost.",
+          "Improve regional ROIC ~+110 bps by holding CapEx to a Year-3 lookback, and run Europe on the Chicago planning stack from the first quarter.",
+        ],
+      },
+      {
         title: "Senior Vice President, Global Finance Transformation",
-        dateRange: "2026 - 2028",
+        dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead global finance transformation for Mondelez International from Chicago and, inside two years, put North America, Europe, Asia Pacific, Middle East and Africa, and Latin America on one driver-based plan, forecast, and long-range plan.",
+          "Lead global finance transformation for Mondelez International from Chicago and, inside one year, put Europe, North America, Asia Pacific, Middle East and Africa, and Latin America on one driver-based plan, forecast, and long-range plan.",
           "Take the global close down by three days and retire the parallel regional reporting packs, so consolidation is one system rather than a second close in each region.",
           "Cut enterprise forecast error roughly in half on pricing, mix, cocoa, and cash — one KPI set a Chicago review and a market review can both run.",
           "Deliver ~$45M of run-rate cost out of the finance operating model — shared close, fewer manual bridges, and a cadence the markets actually use, not a toolkit that sits on a shelf.",
-          "Stand up the monthly operating review the regions inherit, with variance versus plan, forecast, and prior year owned in the market. By the end of year two, every region is live on it.",
-          "Hand North America, and then Asia Pacific, Middle East and Africa, a stack that is already in production, so those CFO seats start from a working model instead of a second implementation.",
+          "Stand up the monthly operating review the regions inherit, with variance versus plan, forecast, and prior year owned in the market. By the end of the year, every region is live on it.",
+          "Hand Europe, and then North America, a stack that is already in production, so those CFO seats start from a working model instead of a second implementation.",
         ],
       },
     ],
