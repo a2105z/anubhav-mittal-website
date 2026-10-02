@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2040",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and AMEA, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -53,16 +53,16 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - AMEA Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Asia Pacific, Middle East and Africa Region",
         dateRange: "2031 - 2034",
         location: "HarbourFront, Central Region, Singapore",
         highlights: [
-          "Lead finance as Chief Financial Officer of the AMEA region from HarbourFront — Asia Pacific, the Middle East, and Africa, an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
+          "Lead finance as Chief Financial Officer of the Asia Pacific, Middle East and Africa region from HarbourFront — an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
           "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
-          "Partner with the AMEA president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
+          "Partner with the Asia Pacific, Middle East and Africa president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
           "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
           "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
-          "Build the AMEA finance bench and a close that consolidates the region onto the global planning stack.",
+          "Build the Asia Pacific, Middle East and Africa finance bench and a close that consolidates the region onto the global planning stack.",
         ],
       },
       {
