@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2040",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning global capital markets and corporate finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets and corporate finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Global Capital Markets and Assistant Treasurer",
+        title: "Senior Vice President, Treasury Capital Markets and Assistant Treasurer",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
