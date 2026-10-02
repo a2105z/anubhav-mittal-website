@@ -119,7 +119,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance (Chief Financial Officer) - Nutrition Business Segment",
+        title: "Vice President, Finance (Chief Financial Officer) - Nutrition Business Unit",
         dateRange: "2023 - 2025",
         location: "Chicago, Illinois, United States",
         highlights: [
@@ -133,7 +133,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance (Chief Financial Officer) - Global Pet Solutions Business Unit",
+        title: "Vice President, Finance (Chief Financial Officer) - Global Pet Solutions Business Subunit",
         dateRange: "2021 - 2023",
         location: "Chicago, Illinois, United States",
         highlights: [

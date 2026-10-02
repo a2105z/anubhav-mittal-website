@@ -88,11 +88,11 @@ const About: React.FC = () => {
                     $9&nbsp;billion
                   </span>
                   . At ADM, he served as Chief Financial Officer of the
-                  Nutrition Business Segment (approximately{" "}
+                  Nutrition Business Unit (approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $8&nbsp;billion
                   </span>
-                  ) and of Global Pet Solutions, and later led global
+                  ) and of Global Pet Solutions Business Subunit, and later led global
                   business development and strategic finance. At Mondelez, he
                   serves as Senior Vice President, Treasury Capital Markets and
                   Assistant Treasurer in Chicago, then as Senior Vice President,
