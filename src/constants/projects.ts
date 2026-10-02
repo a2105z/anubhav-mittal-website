@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2041",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and assistant treasury, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury and Corporate Finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -81,11 +81,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Finance & Assistant Treasury",
+        title: "Senior Vice President, Treasury Corporate Finance and Assistant Treasurer",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead Corporate Finance and Assistant Treasury for Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
+          "Lead Treasury and Corporate Finance as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
           "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, Glattpark, and East Hanover, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
           "Lead debt capital markets — issuance, refinancing, and the fixed-versus-floating mix — lengthening the maturity profile and holding the credit rating through cocoa and currency cycles, with capacity left for the dividend and brand investment.",
           "Set foreign-exchange and interest-rate policy as a treasury book tied to the operating plan: hedges sized to exposures in Europe, North America, and emerging markets, marked to that plan, and closed when the exposure is gone.",
