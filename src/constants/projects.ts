@@ -34,7 +34,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2040",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning treasury, capital markets, and corporate finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -81,16 +81,16 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Finance and Assistant Treasurer",
+        title: "Senior Vice President, Treasury, Capital Markets and Assistant Treasurer",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead treasury, corporate finance, and strategic finance as Assistant Treasurer for Mondelez International from Chicago — cash, debt, foreign exchange, and the special projects the Chief Financial Officer assigns.",
-          "Run global liquidity for a ~$39B snacking company — cash pooling across Chicago, Glattpark, and East Hanover, commercial paper, and the revolving credit facility — so cocoa purchases and peak-season chocolate are funded from a plan, not an emergency draw.",
-          "Own the debt calendar with the Chief Financial Officer: refinancing, maturity, and the fixed-versus-floating mix that protects the credit rating through cocoa and foreign-exchange cycles and still leaves room for the dividend and brand investment.",
-          "Set foreign-exchange and interest-rate policy across Europe, North America, and emerging markets — hedges tied to the operating plan, reported against that plan, and closed out when the exposure is gone.",
-          "Lead corporate and strategic finance on where capital goes — investment cases, return thresholds, and a recommendation to the Chief Financial Officer, including the alternatives set aside.",
-          "Take special projects from brief to a decision — financing a selected acquisition, a capital-structure review, a dividend or repurchase question — and hand the receiving region a funding plan with named owners and a test of whether the cash in the case arrives.",
+          "Lead Treasury, Capital Markets, and corporate finance as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
+          "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, Glattpark, and East Hanover, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
+          "Lead debt capital markets — issuance, refinancing, and the fixed-versus-floating mix — lengthening the maturity profile and holding the credit rating through cocoa and currency cycles, with capacity left for the dividend and brand investment.",
+          "Set foreign-exchange and interest-rate policy as a treasury book tied to the operating plan: hedges sized to exposures in Europe, North America, and emerging markets, marked to that plan, and closed when the exposure is gone.",
+          "Lead corporate finance on the uses of cash — investment cases held to a return threshold and to cash the company actually has — and recommend to the Chief Financial Officer where capital goes, including the alternatives turned down.",
+          "Own the treasury case on corporate finance decisions: acquisition financing, capital structure, dividend capacity, and share repurchase, each leaving Chicago with a funding plan, a rating case, and a named owner.",
         ],
       },
     ],
