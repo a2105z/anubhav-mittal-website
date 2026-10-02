@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Treasury Capital Markets and Assistant Treasurer",
+        title: "Senior Vice President, Treasury Capital Markets and Assistant Treasurer",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
