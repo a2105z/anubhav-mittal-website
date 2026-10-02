@@ -32,13 +32,13 @@ export const EXPERIENCES: Experience[] = [
     location:
       "Chicago, Illinois, United States | Glattpark, Zurich, Switzerland | East Hanover, New Jersey, United States",
     startDate: "2026",
-    endDate: "2040",
+    endDate: "2041",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury and Corporate Finance as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
+      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning corporate finance and assistant treasury, regional Chief Financial Officer leadership across Europe and North America, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2040",
+        dateRange: "2034 - 2041",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
@@ -53,8 +53,8 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2031 - 2033",
+          "Senior Vice President, Finance (Chief Financial Officer) - North America",
+        dateRange: "2031 - 2034",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",
@@ -68,7 +68,7 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Europe",
         dateRange: "2028 - 2031",
         location: "Glattpark, Zurich, Switzerland",
         highlights: [
@@ -81,11 +81,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Treasury Corporate Finance and Assistant Treasurer",
+        title: "Senior Vice President, Corporate Finance & Assistant Treasury",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead Treasury and Corporate Finance as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
+          "Lead Corporate Finance and Assistant Treasury for Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
           "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, Glattpark, and East Hanover, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
           "Lead debt capital markets — issuance, refinancing, and the fixed-versus-floating mix — lengthening the maturity profile and holding the credit rating through cocoa and currency cycles, with capacity left for the dividend and brand investment.",
           "Set foreign-exchange and interest-rate policy as a treasury book tied to the operating plan: hedges sized to exposures in Europe, North America, and emerging markets, marked to that plan, and closed when the exposure is gone.",
