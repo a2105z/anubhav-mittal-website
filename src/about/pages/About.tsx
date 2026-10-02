@@ -88,7 +88,7 @@ const About: React.FC = () => {
                     $9&nbsp;billion
                   </span>
                   . At ADM, he served as Chief Financial Officer of the
-                  Nutrition division (approximately{" "}
+                  Nutrition Business Segment (approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $8&nbsp;billion
                   </span>
