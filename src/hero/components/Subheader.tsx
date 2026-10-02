@@ -28,9 +28,9 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
       >
         Mondelez International
         <span className="mx-2 text-brand-gold/80">·</span>
-        ADM
+        Archer-Daniels-Midland Company
         <span className="mx-2 text-brand-gold/80">·</span>
-        Kellogg
+        Kellogg Company
       </motion.p>
 
       <motion.p
