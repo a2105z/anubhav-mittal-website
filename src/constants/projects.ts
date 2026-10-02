@@ -119,7 +119,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance (Chief Financial Officer) - Nutrition Division",
+        title: "Vice President, Finance (Chief Financial Officer) - Nutrition Business Segment",
         dateRange: "2023 - 2025",
         location: "Chicago, Illinois, United States",
         highlights: [
