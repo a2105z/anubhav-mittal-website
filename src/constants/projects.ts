@@ -31,10 +31,10 @@ export const EXPERIENCES: Experience[] = [
     logoFull: true,
     location:
       "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
-    startDate: "2026",
+    startDate: "2027",
     endDate: "2040",
     summary:
-      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
+      "Thirteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -82,7 +82,7 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title: "Senior Vice President, Treasury Capital Markets and Assistant Treasurer",
-        dateRange: "2026 - 2028",
+        dateRange: "2027 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead Treasury and Capital Markets as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
