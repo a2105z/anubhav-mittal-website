@@ -96,10 +96,10 @@ const About: React.FC = () => {
                   business development and strategic finance. At Mondelez, he
                   serves as Vice President, Treasury Capital Markets and
                   Assistant Treasurer in Chicago, then as Senior Vice President,
-                  Finance (Chief Financial Officer) of Europe in
-                  Glattpark, Zurich, then as Senior Vice President, Finance
-                  (Chief Financial Officer) of North America in
-                  East Hanover, New Jersey, and returns to Chicago as
+                  Finance (Chief Financial Officer) of the North America Region in
+                  East Hanover, New Jersey, then as Senior Vice President, Finance
+                  (Chief Financial Officer) of Europe in
+                  Glattpark, Zurich, and returns to Chicago as
                   Executive Vice President and Chief Financial Officer of
                   Mondelez International.
                 </motion.p>
