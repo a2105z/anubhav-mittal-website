@@ -7,7 +7,7 @@ const TILES: { title: string; description: string }[] = [
       "The finance mandate at scale — capital, cash, the operating plan, and the conversation with the CEO and the board.",
   },
   {
-    title: "Financial Planning & Analysis",
+    title: "Financial Planning and Analysis",
     description:
       "Annual operating plans, rolling forecasts, long-range plans, and monthly performance reviews.",
   },
