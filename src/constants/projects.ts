@@ -162,6 +162,7 @@ export const EXPERIENCES: Experience[] = [
     company: "Kellogg Company (NYSE : K)",
     monogram: "K",
     logo: "/icons/organizations/kellogg.png",
+    logoFull: true,
     location: "Battle Creek, Michigan, United States",
     startDate: "2013",
     endDate: "2017",
