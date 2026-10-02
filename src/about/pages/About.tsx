@@ -66,7 +66,7 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Senior Vice President, Treasury, Capital
+                  Anubhav Mittal is Senior Vice President, Global Capital
                   Markets and Assistant Treasurer at Mondelez International in
                   Chicago. He has
                   more than 30 years of experience in senior finance across
@@ -94,7 +94,7 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions, and later led global
                   business development and strategic finance. At Mondelez, he
-                  serves as Senior Vice President, Treasury, Capital Markets and
+                  serves as Senior Vice President, Global Capital Markets and
                   Assistant Treasurer in Chicago, then as Senior Vice President,
                   Finance (Chief Financial Officer) of the Europe Region in
                   Glattpark, Zurich, then as Senior Vice President, Finance
