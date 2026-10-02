@@ -98,8 +98,8 @@ const About: React.FC = () => {
                   Assistant Treasurer in Chicago, then as Senior Vice President,
                   Finance (Chief Financial Officer) of the North America Region in
                   East Hanover, New Jersey, then as Senior Vice President, Finance
-                  (Chief Financial Officer) of Europe in
-                  Glattpark, Zurich, and returns to Chicago as
+                  (Chief Financial Officer) of the AMEA Region in
+                  HarbourFront, Singapore, and returns to Chicago as
                   Executive Vice President and Chief Financial Officer of
                   Mondelez International.
                 </motion.p>

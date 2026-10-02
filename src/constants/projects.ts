@@ -30,15 +30,15 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location:
-      "Chicago, Illinois, United States | Glattpark, Zurich, Switzerland | East Hanover, New Jersey, United States",
+      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
     startDate: "2026",
-    endDate: "2041",
+    endDate: "2040",
     summary:
-      "Fifteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and Europe, and enterprise Chief Financial Officer leadership.",
+      "Fourteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and AMEA, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2034 - 2041",
+        dateRange: "2034 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Mondelez International, a Nasdaq-listed global snacking company with ~$39B of net revenue — Oreo, Ritz, Cadbury, Milka, and Toblerone — treasury, capital structure, FP&A, controllership, tax, and Investor Relations.",
@@ -48,21 +48,21 @@ export const EXPERIENCES: Experience[] = [
           "Partner with Treasury on the debt stack, liquidity, and credit rating through cocoa and foreign-exchange cycles — refinancing that funds the dividend and brand investment without an emergency raise.",
           "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a snacking compounding story the Street can own through a commodity spike.",
           "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
-          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, Glattpark, and East Hanover.",
+          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, East Hanover, and HarbourFront.",
         ],
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - Europe",
+          "Senior Vice President, Finance (Chief Financial Officer) - AMEA Region",
         dateRange: "2031 - 2034",
-        location: "Glattpark, Zurich, Switzerland",
+        location: "HarbourFront, Central Region, Singapore",
         highlights: [
-          "Lead finance as Chief Financial Officer of an ~$15B Mondelez Europe from Glattpark — the European headquarters — and deliver ~+6% organic net revenue growth, with volume positive in chocolate and biscuits across the region.",
-          "Expand operating margin ~+90 bps through pricing realization on Milka, Cadbury, Toblerone, Oreo, and LU, and plant productivity that stays in the P&L after cocoa and energy move.",
-          "Release ~$240M of working capital across inventory, receivables, and payables without missing peak chocolate season in the priority markets.",
-          "Cut regional forecast error roughly in half — driver-based plans tied to S&OP — so a Glattpark review and a market review land on the same number.",
-          "Lift trade-spend return and take unproductive promotional spend out of the plan, putting it behind the brands that were earning their cost.",
-          "Improve regional ROIC ~+110 bps by holding CapEx and acquisitions to a Year-3 lookback against the cases approved in Chicago.",
+          "Lead finance as Chief Financial Officer of the AMEA region from HarbourFront — Asia Pacific, the Middle East, and Africa, an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
+          "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
+          "Partner with the AMEA president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
+          "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
+          "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
+          "Build the AMEA finance bench and a close that consolidates the region onto the global planning stack.",
         ],
       },
       {
@@ -86,7 +86,7 @@ export const EXPERIENCES: Experience[] = [
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead Treasury and Capital Markets as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
-          "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, Glattpark, and East Hanover, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
+          "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, East Hanover, and HarbourFront, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
           "Lead debt capital markets — issuance, refinancing, and the fixed-versus-floating mix — lengthening the maturity profile and holding the credit rating through cocoa and currency cycles, with capacity left for the dividend and brand investment.",
           "Set foreign-exchange and interest-rate policy as a treasury book tied to the operating plan: hedges sized to exposures in Europe, North America, and emerging markets, marked to that plan, and closed when the exposure is gone.",
           "Lead corporate finance on the uses of cash — investment cases held to a return threshold and to cash the company actually has — and recommend to the Chief Financial Officer where capital goes, including the alternatives turned down.",
