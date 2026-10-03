@@ -98,8 +98,8 @@ const About: React.FC = () => {
                   President, Finance (Chief Financial Officer) of Mondelez
                   North America in East Hanover, New Jersey for three years,
                   and then Senior Vice President, Finance (Chief Financial
-                  Officer) of Mondelez Europe, Middle East and Africa in
-                  Zurich for three years.
+                  Officer) of Mondelez Asia Pacific, Middle East and Africa in
+                  HarbourFront, Singapore for three years.
                 </motion.p>
 
                 <motion.p

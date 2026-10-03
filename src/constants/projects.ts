@@ -30,25 +30,24 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location:
-      "East Hanover, New Jersey, United States | Zurich, Switzerland",
+      "East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
     startDate: "2029",
     endDate: "2035",
     summary:
-      "Six years as regional Chief Financial Officer of a Fortune 500 global snacking company — three years leading North America from East Hanover, then three years leading Europe, Middle East and Africa from Zurich.",
+      "Six years as regional Chief Financial Officer of a Fortune 500 global snacking company — three years leading North America from East Hanover, then three years leading Asia Pacific, Middle East and Africa from HarbourFront.",
     roles: [
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - Europe, Middle East and Africa Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Asia Pacific, Middle East and Africa Region",
         dateRange: "2032 - 2035",
-        location: "Zurich, Switzerland",
+        location: "HarbourFront, Central Region, Singapore",
         highlights: [
-          "Lead finance as Chief Financial Officer of Mondelez Europe, Middle East and Africa from the European headquarters in Zurich — an ~$15B Europe book across the UK, DACH, France, and the Nordics, with Middle East and Africa on the same close from Dubai — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
-          "Put volume back ahead of price after cocoa-led increases on Cadbury, Milka, Toblerone, and Oreo, and hold organic growth with the gallon and the bar, not the price list alone.",
-          "Expand gross margin ~+100 bps and operating margin ~+70 bps off the cocoa trough — pricing that holds with European retailers and Gulf distributors, mix into chocolate and biscuits, and productivity that stays in the P&L after the bean moves.",
-          "Release ~$360M of working capital across inventory, receivables, and payables without missing Easter or Christmas service in the UK or Germany, or peak demand in the Gulf.",
-          "Cut forecast error by about half through a driver-based operating plan tied to S&OP and to the euro, sterling, and dirham, so a UK plant review, a Dubai review, and a Zurich review land on the same number.",
-          "Improve regional ROIC ~+120 bps by holding CapEx and customer investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
-          "Hold Europe, Middle East and Africa investments and acquisitions to the cases approved in Chicago — revenue, margin, and cash — and build a finance bench the center can draw from.",
+          "Lead finance as Chief Financial Officer of the Asia Pacific, Middle East and Africa region from HarbourFront — an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
+          "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
+          "Partner with the Asia Pacific, Middle East and Africa president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
+          "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
+          "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
+          "Build the Asia Pacific, Middle East and Africa finance bench and a close that consolidates the region onto the global planning stack.",
         ],
       },
       {
