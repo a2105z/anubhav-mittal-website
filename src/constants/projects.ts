@@ -25,6 +25,43 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Ag Growth International Inc. (TSX : AFN · OTC : AGGZF)",
+    monogram: "AGI",
+    logo: "/icons/organizations/agi.png",
+    logoFull: true,
+    location: "Winnipeg, Manitoba, Canada",
+    startDate: "2026",
+    endDate: "2032",
+    summary:
+      "Six years at Ag Growth International Inc., a Winnipeg company with ~C$1.4B of revenue that designs and builds equipment to store, handle, and process grain, seed, fertilizer, feed, and food. For the first three years he led corporate development and strategy. For the last two years he held that seat together with the global food and feed P&L.",
+    roles: [
+      {
+        title: "Senior Vice President, Global Food and Feed",
+        dateRange: "2030 - 2032",
+        location: "Winnipeg, Manitoba, Canada",
+        highlights: [
+          "Hold the global food and feed P&L from Winnipeg as a dual role with Corporate Development and Strategy — equipment and engineering for food processors, feed mills, and grain handlers, inside a ~C$1.4B company listed on the Toronto Stock Exchange.",
+          "Own price, mix, project margin, and working capital for the food and feed book across Canada, the United States, and the international commercial business, including Brazil and EMEA, on one monthly review against plan, forecast, and prior year.",
+          "Turn the order book into delivered projects — storage, handling, and processing systems — without the cost overruns that have shown up on equipment-only jobs, and hold warranty and bad-debt charges to the case that was approved.",
+          "Pair the P&L with the corporate-development seat, so an acquisition, a product transfer, or a new plant is underwritten against the food and feed returns it has to earn, not against a standalone deal memo.",
+          "Build a food and feed growth plan the Chief Executive Officer can take to the board — Canada feed equipment, international commercial projects, and the Farm cycle kept as separate drivers rather than one blended number.",
+        ],
+      },
+      {
+        title: "Senior Vice President, Corporate Development and Strategy",
+        dateRange: "2026 - 2032",
+        location: "Winnipeg, Manitoba, Canada",
+        highlights: [
+          "Lead corporate development and strategy for Ag Growth International from Winnipeg — a TSX-listed equipment company (TSX : AFN, OTC : AGGZF) with ~C$1.4B of revenue, manufacturing in Canada, the United States, Brazil, India, France, and Italy.",
+          "Own acquisitions, divestitures, joint ventures, and product-line transfers from the first screen through close and the Year-3 lookback, with return thresholds set against the Farm and Commercial portfolios rather than a single hurdle rate.",
+          "Set the strategy for where the company grows: international commercial projects in grain, food, and feed, versus a North American Farm market that stays cyclical, and put that choice in front of the Chief Executive Officer and the board as one capital plan.",
+          "Hold the investment review for CapEx, new capacity, and the international project book — business case, downside, and a named owner for value capture after close.",
+          "Keep strategy and, from 2030, the global food and feed P&L in one office, so the deal thesis and the operating result are the same conversation.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",
