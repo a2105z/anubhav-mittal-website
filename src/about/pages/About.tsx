@@ -99,8 +99,7 @@ const About: React.FC = () => {
                   International, Inc. North America in East Hanover, New Jersey
                   from 2029 to 2033, and then Executive Vice President and
                   Chief Financial Officer of Ingredion, Inc. in
-                  Westchester, Illinois from 2033 through 2040, the year he
-                  turns 65.
+                  Westchester, Illinois from 2033 through 2040.
                 </motion.p>
 
                 <motion.p
