@@ -8,7 +8,8 @@ assets.
 
 | Filename            | Used for                                          |
 | ------------------- | ------------------------------------------------- |
-| `mondelez.png`      | Mondelez International — Experience page          |
+| `ingredion.png`     | Ingredion Incorporated — Experience page          |
+| `mondelez.png`      | Mondelez International, Inc. — Experience page    |
 | `jacoby.png`        | T. C. Jacoby & Company — Experience page          |
 | `adm.png`           | ADM (Archer Daniels Midland) — Experience page    |
 | `kellogg.png`       | Kellogg Company — Experience page                 |

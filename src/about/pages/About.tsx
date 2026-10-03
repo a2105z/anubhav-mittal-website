@@ -67,7 +67,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
                   Anubhav Mittal is President and Chief Financial Officer of T. C.
-                  Jacoby &amp; Company in St. Louis. He has more than 30 years
+                  Jacoby &amp; Company, Inc. in St. Louis. He has more than 30 years
                   of experience in senior finance across consumer goods and
                   agribusiness, including service as a business-unit chief
                   financial officer.
@@ -80,8 +80,8 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, T. C. Jacoby &amp; Company, and Mondelez
-                  International. At Kellogg, he led FP&amp;A and strategy for
+                  Company, T. C. Jacoby &amp; Company, Inc., Mondelez
+                  International, Inc., and Ingredion Incorporated. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -94,9 +94,13 @@ const About: React.FC = () => {
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. He is
                   President and Chief Financial Officer of T. C. Jacoby &amp;
-                  Company in St. Louis from 2026 to 2029, then Senior Vice
+                  Company, Inc. in St. Louis from 2026 to 2029, then Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
-                  North America in East Hanover, New Jersey from 2029 to 2033.
+                  International, Inc. North America in East Hanover, New Jersey
+                  from 2029 to 2033, and then Executive Vice President and
+                  Chief Financial Officer of Ingredion Incorporated in
+                  Westchester, Illinois from 2033 through 2040, the year he
+                  turns 65.
                 </motion.p>
 
                 <motion.p

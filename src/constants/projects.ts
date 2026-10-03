@@ -25,7 +25,35 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Mondelez International (NASDAQ : MDLZ)",
+    company: "Ingredion Incorporated (NYSE : INGR)",
+    monogram: "INGR",
+    logo: "/icons/organizations/ingredion.png",
+    logoFull: true,
+    location: "Westchester, Illinois, United States",
+    startDate: "2033",
+    endDate: "2040",
+    summary:
+      "Seven years as Executive Vice President and Chief Financial Officer of a global ingredient-solutions company.",
+    roles: [
+      {
+        title: "Executive Vice President and Chief Financial Officer",
+        dateRange: "2033 - 2040",
+        location: "Westchester, Illinois, United States",
+        highlights: [
+          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Ingredion Incorporated, a New York Stock Exchange company with ~$7.2B of net sales — texture systems, starches, and sweeteners from grains, fruits, and vegetables, sold into food, beverage, animal nutrition, brewing, and industrial customers in nearly 120 countries.",
+          "Partner with the Chief Executive Officer and the Board on the operating plan and monthly review across Texture & Healthful Solutions and the food and industrial ingredient businesses — corn, tapioca, pricing, and mix held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
+          "Shift the sales mix toward specialty texture and healthful solutions and expand gross margin ~+80 bps and operating margin ~+50 bps, with the gain staying in the P&L after corn and currency move.",
+          "Release ~$170M of working capital across inventory, receivables, and payables in a global plant network without missing a customer's run.",
+          "Lead treasury, liquidity, and the debt stack through agricultural and foreign-exchange cycles — refinancing that funds the dividend and specialty capacity without an emergency raise.",
+          "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a specialty-ingredients compounding story the Street can own through a commodity year.",
+          "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
+          "Hold CapEx and Idea Labs investment to a Year-3 lookback, improve company ROIC ~+100 bps, and fund the growth plan from cash the company generates.",
+        ],
+      },
+    ],
+  },
+  {
+    company: "Mondelez International, Inc. (NASDAQ : MDLZ)",
     monogram: "MZ",
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
@@ -33,7 +61,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2029",
     endDate: "2033",
     summary:
-      "Four years as Chief Financial Officer of Mondelez North America, a Fortune 500 snacking business, from East Hanover.",
+      "Four years as Chief Financial Officer of North America for a global snacking company.",
     roles: [
       {
         title:
@@ -61,7 +89,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2029",
     summary:
-      "Three years as President and Chief Financial Officer of a privately held, family-owned dairy product merchant — treasury, controllership, internal controls, information technology, and the operating discipline behind a physical dairy book.",
+      "Three years as President and Chief Financial Officer of a privately held dairy product merchant.",
     roles: [
       {
         title: "President and Chief Financial Officer",
@@ -88,7 +116,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years of senior finance and corporate development leadership at a Fortune 100 global agribusiness and nutrition company — spanning corporate development and M&A, and Business Unit CFO leadership across Nutrition and Global Pet Solutions.",
+      "Nine years in senior finance and corporate development at a global agribusiness and nutrition company.",
     roles: [
       {
         title:
@@ -152,7 +180,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2013",
     endDate: "2017",
     summary:
-      "Four years of senior finance and strategy leadership at a Fortune 250 global consumer foods leader — spanning corporate development, and North America Financial Planning and Analysis leadership reporting to the President of Kellogg North America.",
+      "Four years in senior finance and strategy at a global consumer foods company.",
     roles: [
       {
         title: "Vice President, Financial Planning and Analysis - North America Region",
@@ -188,7 +216,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2007",
     endDate: "2013",
     summary:
-      "Six years in top-tier strategy consulting (the commercial arm of Booz Allen Hamilton, now Strategy&) advising Fortune 500 clients, sovereign wealth funds, and global PE firms on M&A, corporate strategy, and operational restructuring across the US, MENA, and Asia.",
+      "Six years advising on strategy and mergers at a global management consultancy.",
     roles: [
       {
         title: "Senior Engagement Manager, Consumer and Retail",
@@ -236,7 +264,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2006",
     endDate: "2006",
     summary:
-      "Summer associate engagement during HBS — at a defining stage of Google's commercial scaling — focused on business, sales, and operations strategy with statistical quality systems work behind the scenes.",
+      "One summer in business, sales, and operations at a global technology company.",
     roles: [
       {
         title: "Business, Sales and Operations Intern",
@@ -260,7 +288,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1999",
     endDate: "2005",
     summary:
-      "Six years in the Indian Civil Services across the Ministries of Home Affairs and Telecom — entering through the national civil service examination (one of the most selective in the world) and exiting as a senior federal officer to attend Harvard Business School.",
+      "Six years as a senior civil service officer in home affairs and telecom.",
     roles: [
       {
         title: "Assistant Director, Ministry of Home Affairs",
@@ -309,7 +337,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1997",
     endDate: "1999",
     summary:
-      "Began his career on Hindustan Unilever's flagship rotational leadership program — one of the most selective entry programs in Indian industry — gaining cross-functional exposure across consumer goods.",
+      "Two years as a management trainee at a global consumer goods company.",
     roles: [
       {
         title: "Management Trainee",
