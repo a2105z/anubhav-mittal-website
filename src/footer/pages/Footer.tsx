@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
-import { LINKEDIN_LINK, LOCATION } from "../../constants/links";
+import { LINKEDIN_LINK } from "../../constants/links";
 
 const Footer: React.FC = () => {
   const year = new Date().getFullYear();
@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Anubhav Mittal, CFA, CPA, CMA
             </p>
             <p className="mt-0.5 text-[12.5px] text-slate-500">
-              Senior Vice President, Treasury Capital Markets and Assistant Treasurer, Mondelez · {LOCATION}
+              President and Chief Financial Officer, T. C. Jacoby & Company · St. Louis, Missouri
             </p>
           </div>
 

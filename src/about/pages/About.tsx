@@ -56,7 +56,7 @@ const About: React.FC = () => {
             <div className="md:col-span-7 lg:col-span-8">
               <SectionHeader
                 eyebrow="About"
-                title="30 years in CPG finance"
+                title="30 years in CPG and Agribusiness Finance"
               />
 
               <div className="mt-8 space-y-5 text-[16px] sm:text-[17px] leading-[1.75] text-slate-700">
@@ -66,12 +66,11 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Senior Vice President, Treasury Capital
-                  Markets and Assistant Treasurer at Mondelez International in
-                  Chicago. He has
-                  more than 30 years of experience in senior finance across
-                  food, beverages, ingredients, and agribusiness, including
-                  service as a business-unit chief financial officer.
+                  Anubhav Mittal is President and Chief Financial Officer of T. C.
+                  Jacoby &amp; Company in St. Louis. He has more than 30 years
+                  of experience in senior finance across consumer goods and
+                  agribusiness, including service as a business-unit chief
+                  financial officer.
                 </motion.p>
 
                 <motion.p
@@ -81,9 +80,9 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, and Mondelez International. At Kellogg, he led
-                  FP&amp;A and strategy for North America, a business of
-                  approximately{" "}
+                  Company, T. C. Jacoby &amp; Company, and Mondelez
+                  International. At Kellogg, he led FP&amp;A and strategy for
+                  North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
                   </span>
@@ -92,16 +91,15 @@ const About: React.FC = () => {
                   <span className="text-brand-ink font-semibold">
                     $8&nbsp;billion
                   </span>
-                  ) and of Global Pet Solutions Business Subunit, and later led global
-                  business development and strategic finance. At Mondelez, he
-                  serves as Senior Vice President, Treasury Capital Markets and
-                  Assistant Treasurer in Chicago, then as Senior Vice President,
-                  Finance (Chief Financial Officer) of the Europe Region in
-                  Zurich, then as Senior Vice President, Finance
-                  (Chief Financial Officer) of the Asia Pacific, Middle East and Africa Region in
-                  HarbourFront, Singapore, and returns to Chicago as
-                  Executive Vice President and Chief Financial Officer of
-                  Mondelez International.
+                  ) and of Global Pet Solutions Business Subunit, and later led
+                  global business development and strategic finance. He is
+                  President and Chief Financial Officer of T. C. Jacoby &amp;
+                  Company in St. Louis from 2026 to 2029, then Senior Vice
+                  President, Finance (Chief Financial Officer) of Mondelez
+                  North America in East Hanover, New Jersey for three years,
+                  and then Senior Vice President, Finance (Chief Financial
+                  Officer) of Mondelez Europe, Middle East and Africa in
+                  Zurich for three years.
                 </motion.p>
 
                 <motion.p
