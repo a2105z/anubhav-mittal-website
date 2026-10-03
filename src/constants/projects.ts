@@ -25,29 +25,53 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Ingredion, Inc. (NYSE : INGR)",
-    monogram: "INGR",
-    logo: "/icons/organizations/ingredion.png",
-    logoFull: true,
-    location: "Westchester, Illinois, United States",
-    startDate: "2033",
+    company: "The Campbell's Company (NASDAQ : CPB)",
+    monogram: "CPB",
+    logo: "/icons/organizations/campbells.png",
+    location: "Camden, New Jersey, United States",
+    startDate: "2035",
     endDate: "2040",
     summary:
-      "Seven years as Executive Vice President and Chief Financial Officer of Ingredion, Inc., a global ingredient-solutions company with ~$7.2B of net sales in texture systems, starches, and sweeteners. He led treasury, controllership, capital allocation, and Investor Relations from Westchester, Illinois.",
+      "Five years as Executive Vice President and Chief Financial Officer of The Campbell's Company, a North American packaged-food company with ~$10B of net sales across meals, beverages, and snacks. He led treasury, controllership, capital allocation, and Investor Relations from Camden, New Jersey.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2040",
-        location: "Westchester, Illinois, United States",
+        dateRange: "2035 - 2040",
+        location: "Camden, New Jersey, United States",
         highlights: [
-          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Ingredion, Inc., a New York Stock Exchange company with ~$7.2B of net sales — texture systems, starches, and sweeteners from grains, fruits, and vegetables, sold into food, beverage, animal nutrition, brewing, and industrial customers in nearly 120 countries.",
-          "Partner with the Chief Executive Officer and the Board on the operating plan and monthly review across Texture & Healthful Solutions and the food and industrial ingredient businesses — corn, tapioca, pricing, and mix held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
-          "Shift the sales mix toward specialty texture and healthful solutions and expand gross margin ~+80 bps and operating margin ~+50 bps, with the gain staying in the P&L after corn and currency move.",
-          "Release ~$170M of working capital across inventory, receivables, and payables in a global plant network without missing a customer's run.",
-          "Lead treasury, liquidity, and the debt stack through agricultural and foreign-exchange cycles — refinancing that funds the dividend and specialty capacity without an emergency raise.",
-          "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a specialty-ingredients compounding story the Street can own through a commodity year.",
-          "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
-          "Hold CapEx and Idea Labs investment to a Year-3 lookback, improve company ROIC ~+100 bps, and fund the growth plan from cash the company generates.",
+          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of The Campbell's Company from Camden — a North American packaged-food company with ~$10B of net sales across Meals & Beverages and Snacks, including Campbell's, Goldfish, Snyder's of Hanover, Pepperidge Farm, Rao's, and Prego.",
+          "Partner with the Chief Executive Officer and the Board on one operating plan for soup, sauces, and snacks — pricing, mix, and productivity held to the same variance cadence versus plan, forecast, and prior year.",
+          "Return organic net sales growth to about +3%, with volume positive in snacks and meals rather than price alone, and expand gross margin ~+90 bps and operating margin ~+60 bps.",
+          "Release ~$240M of working capital across inventory, receivables, and payables without missing peak soup season or a snack promotion.",
+          "Lift trade-spend return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and customers that were earning their cost.",
+          "Lead treasury, the debt stack, and Investor Relations through a commodity year — earnings quality, non-GAAP bridges, and a North American CPG story the Street can own.",
+          "Lead controllership and SOX / ICFR, hold CapEx to a Year-3 lookback, and improve company ROIC ~+110 bps, funding the plan from cash the company generates.",
+        ],
+      },
+    ],
+  },
+  {
+    company: "The Simply Good Foods Company (NASDAQ : SMPL)",
+    monogram: "SMPL",
+    logo: "/icons/organizations/simply-good.png",
+    location: "Denver, Colorado, United States",
+    startDate: "2032",
+    endDate: "2035",
+    summary:
+      "Three years as Executive Vice President and Chief Financial Officer of The Simply Good Foods Company, a North American nutritional snacking company with ~$1.5B of net sales across Quest, Atkins, and OWYN. He led treasury, controllership, planning, and Investor Relations from Denver, Colorado.",
+    roles: [
+      {
+        title: "Executive Vice President and Chief Financial Officer",
+        dateRange: "2032 - 2035",
+        location: "Denver, Colorado, United States",
+        highlights: [
+          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of The Simply Good Foods Company from Denver — Quest, Atkins, and OWYN, about $1.5B of net sales in protein bars, chips, shakes, and powders sold through mass, club, and e-commerce.",
+          "Partner with the Chief Executive Officer on the operating plan for a North American nutritional-snacking portfolio — price, mix, and marketing investment held to one set of return thresholds and one monthly review.",
+          "Hold organic net sales growth near +8%, led by Quest and OWYN rather than price alone, and expand gross margin ~+70 bps as the mix shifts into protein.",
+          "Release ~$35M of working capital across inventory, receivables, and payables in a co-manufactured network without missing a Walmart or Amazon reset.",
+          "Cut forecast error by about half through a driver-based plan tied to retailer shipments, so a co-manufacturer review and a Denver review land on the same number.",
+          "Lead treasury, liquidity, and Investor Relations for a Nasdaq-listed company — earnings quality, the acquisition case, and a protein-snacking story that holds when a brand slows.",
+          "Lead controllership and internal controls, hold brand investment and acquisitions to a Year-3 lookback, and improve company ROIC ~+120 bps.",
         ],
       },
     ],
@@ -59,14 +83,14 @@ export const EXPERIENCES: Experience[] = [
     logoFull: true,
     location: "East Hanover, New Jersey, United States",
     startDate: "2029",
-    endDate: "2033",
+    endDate: "2032",
     summary:
-      "Four years as Chief Financial Officer of Mondelez North America, an ~$11B snacking business in biscuits and chocolate. He led commercial finance, planning, working capital, and the regional operating cadence from East Hanover, New Jersey.",
+      "Three years as Chief Financial Officer of Mondelez North America, an ~$11B snacking business in biscuits and chocolate. He led commercial finance, planning, working capital, and the regional operating cadence from East Hanover, New Jersey.",
     roles: [
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2029 - 2033",
+        dateRange: "2029 - 2032",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",
@@ -89,14 +113,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2029",
     summary:
-      "Three years as President and Chief Financial Officer of T. C. Jacoby & Company, Inc., a privately held merchant of fluid milk, cream, butter, cheese, and milk powders. He led treasury, controllership, internal controls, and the trading and ERP systems from St. Louis, Missouri.",
+      "Three years as Executive Vice President and Chief Financial Officer of T. C. Jacoby & Company, Inc., a privately held dairy merchant with ~$60M of sales in fluid milk, cream, butter, cheese, and milk powders. He led treasury, controllership, internal controls, and the trading and ERP systems from St. Louis, Missouri.",
     roles: [
       {
-        title: "President and Chief Financial Officer",
+        title: "Executive Vice President and Chief Financial Officer",
         dateRange: "2026 - 2029",
         location: "St. Louis, Missouri, United States",
         highlights: [
-          "Lead T. C. Jacoby & Company as President and Chief Financial Officer from St. Louis, reporting to the Chief Executive Officer — Accounting and Finance, Treasury, Controllership, Risk Management, Software Development and Information Technology, and enterprise reporting for a third-generation merchant trading fluid milk, cream, butter, cheese, whey, and milk powders.",
+          "Lead T. C. Jacoby & Company as Executive Vice President and Chief Financial Officer from St. Louis, reporting to the Chief Executive Officer — Accounting and Finance, Treasury, Controllership, Risk Management, Software Development and Information Technology, and enterprise reporting for a third-generation merchant trading fluid milk, cream, butter, cheese, whey, and milk powders.",
           "Own controllership for the physical book — mark-to-market, consolidations across subsidiaries, joint ventures, and cooperative structures, related-entity transactions, tax, and currency — and cut the monthly close from 11 business days to 4, with statements ownership and lenders can use without a second pass.",
           "Lead treasury against Chicago Mercantile Exchange and Federal Milk Marketing Order settlements — customer credit, inventory financing, and payables — releasing ~$14M of working capital and cutting credit losses about 30% without missing a load.",
           "Hold internal controls, the audit, and lender reporting to one standard — material post-close adjustments taken to zero, a clean audit opinion, and the ownership package out in two days instead of eight.",

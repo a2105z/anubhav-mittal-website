@@ -1,22 +1,11 @@
 import Wrapper from "../../shared/components/Wrapper";
-import SectionHeader from "../../shared/components/SectionHeader";
 import ExperienceItem from "../components/ExperienceItem";
 import { EXPERIENCES } from "../../constants/projects";
 
 const Experience: React.FC = () => {
   return (
     <div className="bg-white">
-      <section className="pt-28 sm:pt-36 pb-12 sm:pb-16">
-        <Wrapper>
-          <SectionHeader
-            eyebrow="Career"
-            title="Where he has worked."
-            nowrap
-          />
-        </Wrapper>
-      </section>
-
-      <section className="pb-24 sm:pb-32">
+      <section className="pt-28 sm:pt-36 pb-24 sm:pb-32">
         <Wrapper>
           <ol className="relative">
             {EXPERIENCES.map((experience, index) => {

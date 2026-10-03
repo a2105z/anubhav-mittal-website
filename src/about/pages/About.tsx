@@ -56,7 +56,7 @@ const About: React.FC = () => {
             <div className="md:col-span-7 lg:col-span-8">
               <SectionHeader
                 eyebrow="About"
-                title="30 years in CPG and Agribusiness Finance"
+                title="North American CPG and agribusiness finance"
               />
 
               <div className="mt-8 space-y-5 text-[16px] sm:text-[17px] leading-[1.75] text-slate-700">
@@ -66,11 +66,11 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is President and Chief Financial Officer of T. C.
+                  Anubhav Mittal is Executive Vice President and Chief Financial Officer of T. C.
                   Jacoby &amp; Company, Inc. in St. Louis. He has more than 30 years
-                  of experience in senior finance across consumer goods and
-                  agribusiness, including service as a business-unit chief
-                  financial officer.
+                  of experience in senior finance across North American consumer
+                  packaged goods and agribusiness, including service as a
+                  business-unit chief financial officer.
                 </motion.p>
 
                 <motion.p
@@ -81,7 +81,8 @@ const About: React.FC = () => {
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
                   Company, T. C. Jacoby &amp; Company, Inc., Mondelez
-                  International, Inc., and Ingredion, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  International, Inc., The Simply Good Foods Company, and The
+                  Campbell's Company. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -93,13 +94,15 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. He is
-                  President and Chief Financial Officer of T. C. Jacoby &amp;
+                  Executive Vice President and Chief Financial Officer of T. C. Jacoby &amp;
                   Company, Inc. in St. Louis from 2026 to 2029, then Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
                   International, Inc. North America in East Hanover, New Jersey
-                  from 2029 to 2033, and then Executive Vice President and
-                  Chief Financial Officer of Ingredion, Inc. in
-                  Westchester, Illinois from 2033 through 2040.
+                  from 2029 to 2032, then Executive Vice President and Chief
+                  Financial Officer of The Simply Good Foods Company in Denver,
+                  Colorado from 2032 to 2035, and then Executive Vice President
+                  and Chief Financial Officer of The Campbell's Company in
+                  Camden, New Jersey from 2035 to 2040.
                 </motion.p>
 
                 <motion.p
