@@ -30,11 +30,11 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location:
-      "Chicago, Illinois, United States | East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
+      "Chicago, Illinois, United States | Zurich, Switzerland | HarbourFront, Central Region, Singapore",
     startDate: "2027",
     endDate: "2040",
     summary:
-      "Thirteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across North America and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
+      "Thirteen years of senior finance leadership at a Fortune 500 global snacking company — spanning Treasury Capital Markets as Assistant Treasurer, regional Chief Financial Officer leadership across Europe and Asia Pacific, Middle East and Africa, and enterprise Chief Financial Officer leadership.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -48,7 +48,7 @@ export const EXPERIENCES: Experience[] = [
           "Partner with Treasury on the debt stack, liquidity, and credit rating through cocoa and foreign-exchange cycles — refinancing that funds the dividend and brand investment without an emergency raise.",
           "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a snacking compounding story the Street can own through a commodity spike.",
           "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
-          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, East Hanover, and HarbourFront.",
+          "Lead the global finance operating model the regions already run — common KPIs, a shared close, and a bench that can move between Chicago, Zurich, and HarbourFront.",
         ],
       },
       {
@@ -60,24 +60,24 @@ export const EXPERIENCES: Experience[] = [
           "Lead finance as Chief Financial Officer of the Asia Pacific, Middle East and Africa region from HarbourFront — an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
           "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
           "Partner with the Asia Pacific, Middle East and Africa president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
-          "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
+          "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as Europe.",
           "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
           "Build the Asia Pacific, Middle East and Africa finance bench and a close that consolidates the region onto the global planning stack.",
         ],
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
         dateRange: "2028 - 2031",
-        location: "East Hanover, New Jersey, United States",
+        location: "Zurich, Switzerland",
         highlights: [
-          "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",
-          "Expand gross margin ~+120 bps and operating margin ~+80 bps — pricing realization, mix into Oreo, Ritz, and chocolate, and productivity that stays in the P&L after cocoa moves.",
-          "Release ~$280M of working capital across inventory, receivables, and payables without missing peak-season service in the U.S. or Canada.",
-          "Lift trade-spend return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and customers that were earning their cost.",
-          "Cut forecast error by about half through a driver-based operating plan tied to S&OP, so a plant review and an East Hanover review land on the same number.",
-          "Improve regional ROIC ~+140 bps by holding CapEx and slotting investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
-          "Hold North America's major investments and acquisitions to the cases approved in Chicago — revenue, margin, and cash — and build a finance bench the center can draw from.",
+          "Lead finance as Chief Financial Officer of an ~$15B Mondelez Europe from Zurich — the company's largest region, Cadbury, Milka, Toblerone, and Oreo across the UK, DACH, France, and the Nordics — and put volume back ahead of price after cocoa-led increases.",
+          "Expand gross margin ~+100 bps and operating margin ~+70 bps off the cocoa trough — pricing that holds with European retailers, mix into chocolate and biscuits, and productivity that stays in the P&L after the bean moves.",
+          "Release ~$380M of working capital across inventory, receivables, and payables without missing Easter or Christmas service in the UK or Germany.",
+          "Lift customer-investment return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and retailers that were earning their cost, including the discounters.",
+          "Cut forecast error by about half through a driver-based operating plan tied to S&OP and to the euro and sterling, so a UK plant review and a Zurich review land on the same number.",
+          "Improve regional ROIC ~+120 bps by holding CapEx and customer investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
+          "Hold Europe's major investments and acquisitions to the cases approved in Chicago — revenue, margin, and cash — and build a finance bench the center can draw from.",
         ],
       },
       {
@@ -86,7 +86,7 @@ export const EXPERIENCES: Experience[] = [
         location: "Chicago, Illinois, United States",
         highlights: [
           "Lead Treasury and Capital Markets as Assistant Treasurer of Mondelez International from Chicago — global cash, the debt markets, foreign exchange, and the balance sheet the Chief Financial Officer takes to the Board.",
-          "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, East Hanover, and HarbourFront, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
+          "Run liquidity for a ~$39B snacking company: one cash pool across Chicago, Zurich, and HarbourFront, a commercial paper program, and a committed revolving credit facility, so cocoa purchases and peak-season chocolate are funded without an emergency raise.",
           "Lead debt capital markets — issuance, refinancing, and the fixed-versus-floating mix — lengthening the maturity profile and holding the credit rating through cocoa and currency cycles, with capacity left for the dividend and brand investment.",
           "Set foreign-exchange and interest-rate policy as a treasury book tied to the operating plan: hedges sized to exposures in Europe, North America, and emerging markets, marked to that plan, and closed when the exposure is gone.",
           "Lead corporate finance on the uses of cash — investment cases held to a return threshold and to cash the company actually has — and recommend to the Chief Financial Officer where capital goes, including the alternatives turned down.",
