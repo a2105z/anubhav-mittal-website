@@ -25,7 +25,7 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Ingredion Incorporated (NYSE : INGR)",
+    company: "Ingredion, Inc. (NYSE : INGR)",
     monogram: "INGR",
     logo: "/icons/organizations/ingredion.png",
     logoFull: true,
@@ -33,14 +33,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2033",
     endDate: "2040",
     summary:
-      "Seven years as Executive Vice President and Chief Financial Officer of a global ingredient-solutions company.",
+      "Seven years as Executive Vice President and Chief Financial Officer of Ingredion, Inc., a global ingredient-solutions company with ~$7.2B of net sales in texture systems, starches, and sweeteners. He led treasury, controllership, capital allocation, and Investor Relations from Westchester through age 65.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
         dateRange: "2033 - 2040",
         location: "Westchester, Illinois, United States",
         highlights: [
-          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Ingredion Incorporated, a New York Stock Exchange company with ~$7.2B of net sales — texture systems, starches, and sweeteners from grains, fruits, and vegetables, sold into food, beverage, animal nutrition, brewing, and industrial customers in nearly 120 countries.",
+          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Ingredion, Inc., a New York Stock Exchange company with ~$7.2B of net sales — texture systems, starches, and sweeteners from grains, fruits, and vegetables, sold into food, beverage, animal nutrition, brewing, and industrial customers in nearly 120 countries.",
           "Partner with the Chief Executive Officer and the Board on the operating plan and monthly review across Texture & Healthful Solutions and the food and industrial ingredient businesses — corn, tapioca, pricing, and mix held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
           "Shift the sales mix toward specialty texture and healthful solutions and expand gross margin ~+80 bps and operating margin ~+50 bps, with the gain staying in the P&L after corn and currency move.",
           "Release ~$170M of working capital across inventory, receivables, and payables in a global plant network without missing a customer's run.",
@@ -61,7 +61,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2029",
     endDate: "2033",
     summary:
-      "Four years as Chief Financial Officer of North America for a global snacking company.",
+      "Four years as Chief Financial Officer of Mondelez North America, an ~$11B snacking business in biscuits and chocolate. He led commercial finance, planning, working capital, and the regional operating cadence from East Hanover.",
     roles: [
       {
         title:
@@ -89,7 +89,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2029",
     summary:
-      "Three years as President and Chief Financial Officer of a privately held dairy product merchant.",
+      "Three years as President and Chief Financial Officer of T. C. Jacoby & Company, Inc., a privately held merchant of fluid milk, cream, butter, cheese, and milk powders. He led treasury, controllership, internal controls, and the trading and ERP systems from St. Louis.",
     roles: [
       {
         title: "President and Chief Financial Officer",
@@ -116,7 +116,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years in senior finance and corporate development at a global agribusiness and nutrition company.",
+      "Nine years in senior finance and corporate development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company. He served as chief financial officer of Nutrition and Global Pet Solutions, then led enterprise capital allocation and mergers and acquisitions.",
     roles: [
       {
         title:
@@ -180,7 +180,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2013",
     endDate: "2017",
     summary:
-      "Four years in senior finance and strategy at a global consumer foods company.",
+      "Four years in senior finance and strategy at Kellogg Company, a global consumer foods company. He led North America financial planning for an ~$9B business and corporate development, including mergers and a global restructuring program.",
     roles: [
       {
         title: "Vice President, Financial Planning and Analysis - North America Region",
@@ -216,7 +216,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2007",
     endDate: "2013",
     summary:
-      "Six years advising on strategy and mergers at a global management consultancy.",
+      "Six years advising Fortune 500 companies, sovereign wealth funds, and private equity firms on strategy, mergers, and operational restructuring at Booz & Company, across the United States, the Middle East, and Asia.",
     roles: [
       {
         title: "Senior Engagement Manager, Consumer and Retail",
@@ -264,7 +264,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2006",
     endDate: "2006",
     summary:
-      "One summer in business, sales, and operations at a global technology company.",
+      "One summer in business, sales, and operations at Google LLC during Harvard Business School, rebuilding quality review and scoring so online sales operations could scale.",
     roles: [
       {
         title: "Business, Sales and Operations Intern",
@@ -288,7 +288,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1999",
     endDate: "2005",
     summary:
-      "Six years as a senior civil service officer in home affairs and telecom.",
+      "Six years as a senior officer in the Indian Civil Services, across the Ministries of Home Affairs and Telecom, from national selection through federal policy, elections, and finance.",
     roles: [
       {
         title: "Assistant Director, Ministry of Home Affairs",
@@ -337,7 +337,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1997",
     endDate: "1999",
     summary:
-      "Two years as a management trainee at a global consumer goods company.",
+      "Two years as a management trainee at Hindustan Unilever Limited, a global consumer goods company, rotating through marketing, sales, manufacturing, and finance.",
     roles: [
       {
         title: "Management Trainee",

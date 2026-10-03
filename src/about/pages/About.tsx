@@ -81,7 +81,7 @@ const About: React.FC = () => {
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
                   Company, T. C. Jacoby &amp; Company, Inc., Mondelez
-                  International, Inc., and Ingredion Incorporated. At Kellogg, he led FP&amp;A and strategy for
+                  International, Inc., and Ingredion, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -98,7 +98,7 @@ const About: React.FC = () => {
                   President, Finance (Chief Financial Officer) of Mondelez
                   International, Inc. North America in East Hanover, New Jersey
                   from 2029 to 2033, and then Executive Vice President and
-                  Chief Financial Officer of Ingredion Incorporated in
+                  Chief Financial Officer of Ingredion, Inc. in
                   Westchester, Illinois from 2033 through 2040, the year he
                   turns 65.
                 </motion.p>
