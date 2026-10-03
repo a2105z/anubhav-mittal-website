@@ -51,6 +51,30 @@ export const EXPERIENCES: Experience[] = [
     ],
   },
   {
+    company: "Clarity Investment Partners",
+    monogram: "CIP",
+    logo: "/icons/organizations/clarity.jpg",
+    location: "Chicago, Illinois, United States",
+    startDate: "2026",
+    endDate: "Present",
+    summary:
+      "Since 2026 as Co-Founder and Managing Partner of Clarity Investment Partners, a Chicago real estate private equity firm with ~$150M of annual revenue and about $1.2B of assets. He acquires distressed and underutilized properties, repositions them, and holds them for rent or sells them after the value is created.",
+    roles: [
+      {
+        title: "Co-Founder and Managing Partner",
+        dateRange: "2026 - Present",
+        location: "Chicago, Illinois, United States",
+        highlights: [
+          "Co-founded and lead Clarity Investment Partners from Chicago, a value-add real estate private equity firm that buys distressed and underutilized properties, renovates and repositions them, and then holds them for rental income or sells them.",
+          "Underwrite acquisitions, capital structure, and the hold-versus-sell case — leverage sized to the asset, not to a target IRR on a spreadsheet — and bring in outside capital alongside the firm's own equity.",
+          "Build a portfolio of about $1.2B of real estate and ~$150M of annual revenue across rental income and dispositions, with realized exits at about a 2.0x equity multiple and a high-teens net IRR.",
+          "Run asset management after close: renovation budgets, lease-up, operating costs, and the decision to hold or sell, each with a named owner and a lookback against the case that was approved.",
+          "Keep the firm as a principal-investing platform alongside the corporate finance career — capital allocation, underwriting, and asset management practiced as an owner, from Chicago.",
+        ],
+      },
+    ],
+  },
+  {
     company: "The Simply Good Foods Company (NASDAQ : SMPL)",
     monogram: "SMPL",
     logo: "/icons/organizations/simply-good.png",
