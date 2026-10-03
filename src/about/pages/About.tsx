@@ -66,7 +66,7 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Executive Vice President and Chief Financial Officer of T. C.
+                  Anubhav Mittal is President and Chief Financial Officer of T. C.
                   Jacoby &amp; Company, Inc. in St. Louis. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
@@ -94,7 +94,7 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. He is
-                  Executive Vice President and Chief Financial Officer of T. C. Jacoby &amp;
+                  President and Chief Financial Officer of T. C. Jacoby &amp;
                   Company, Inc. in St. Louis from 2026 to 2029, then Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
                   International, Inc. North America in East Hanover, New Jersey

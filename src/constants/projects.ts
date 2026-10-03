@@ -137,14 +137,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2029",
     summary:
-      "Three years as Executive Vice President and Chief Financial Officer of T. C. Jacoby & Company, Inc., a privately held dairy merchant with ~$60M of sales in fluid milk, cream, butter, cheese, and milk powders. He led treasury, controllership, internal controls, and the trading and ERP systems from St. Louis, Missouri.",
+      "Three years as President and Chief Financial Officer of T. C. Jacoby & Company, Inc., a privately held dairy merchant with ~$60M of sales in fluid milk, cream, butter, cheese, and milk powders. He led treasury, controllership, internal controls, and the trading and ERP systems from St. Louis, Missouri.",
     roles: [
       {
-        title: "Executive Vice President and Chief Financial Officer",
+        title: "President and Chief Financial Officer",
         dateRange: "2026 - 2029",
         location: "St. Louis, Missouri, United States",
         highlights: [
-          "Lead T. C. Jacoby & Company as Executive Vice President and Chief Financial Officer from St. Louis, reporting to the Chief Executive Officer — Accounting and Finance, Treasury, Controllership, Risk Management, Software Development and Information Technology, and enterprise reporting for a third-generation merchant trading fluid milk, cream, butter, cheese, whey, and milk powders.",
+          "Lead T. C. Jacoby & Company as President and Chief Financial Officer from St. Louis, reporting to the Chief Executive Officer — Accounting and Finance, Treasury, Controllership, Risk Management, Software Development and Information Technology, and enterprise reporting for a third-generation merchant trading fluid milk, cream, butter, cheese, whey, and milk powders.",
           "Own controllership for the physical book — mark-to-market, consolidations across subsidiaries, joint ventures, and cooperative structures, related-entity transactions, tax, and currency — and cut the monthly close from 11 business days to 4, with statements ownership and lenders can use without a second pass.",
           "Lead treasury against Chicago Mercantile Exchange and Federal Milk Marketing Order settlements — customer credit, inventory financing, and payables — releasing ~$14M of working capital and cutting credit losses about 30% without missing a load.",
           "Hold internal controls, the audit, and lender reporting to one standard — material post-close adjustments taken to zero, a clean audit opinion, and the ownership package out in two days instead of eight.",
