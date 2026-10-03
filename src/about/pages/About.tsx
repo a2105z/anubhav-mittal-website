@@ -66,8 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is President and Chief Financial Officer of T. C.
-                  Jacoby &amp; Company, Inc. in St. Louis. He has more than 30 years
+                  Anubhav Mittal is Vice President, Global Business Development
+                  and Strategic Finance at Archer-Daniels-Midland Company in
+                  Chicago. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -79,10 +80,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
-                  His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, T. C. Jacoby &amp; Company, Inc., Mondelez
-                  International, Inc., The Simply Good Foods Company, The
-                  Campbell's Company. At Kellogg, he led FP&amp;A and strategy for
+                  His career includes Kellogg Company and Archer-Daniels-Midland
+                  Company. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -93,16 +92,7 @@ const About: React.FC = () => {
                     $8&nbsp;billion
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
-                  global business development and strategic finance. He is
-                  President and Chief Financial Officer of T. C. Jacoby &amp;
-                  Company, Inc. in St. Louis from 2026 to 2029, then Senior Vice
-                  President, Finance (Chief Financial Officer) of Mondelez
-                  International, Inc. North America in East Hanover, New Jersey
-                  from 2029 to 2032, then Executive Vice President and Chief
-                  Financial Officer of The Simply Good Foods Company in Denver,
-                  Colorado from 2032 to 2035, and then Executive Vice President
-                  and Chief Financial Officer of The Campbell's Company in
-                  Camden, New Jersey from 2035 to 2040.
+                  global business development and strategic finance.
                 </motion.p>
 
                 <motion.p
