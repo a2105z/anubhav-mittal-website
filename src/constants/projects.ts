@@ -29,31 +29,16 @@ export const EXPERIENCES: Experience[] = [
     monogram: "MZ",
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
-    location:
-      "East Hanover, New Jersey, United States | HarbourFront, Central Region, Singapore",
+    location: "East Hanover, New Jersey, United States",
     startDate: "2029",
-    endDate: "2035",
+    endDate: "2033",
     summary:
-      "Six years as regional Chief Financial Officer of a Fortune 500 global snacking company — three years leading North America from East Hanover, then three years leading Asia Pacific, Middle East and Africa from HarbourFront.",
+      "Four years as Chief Financial Officer of Mondelez North America, a Fortune 500 snacking business, from East Hanover.",
     roles: [
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - Asia Pacific, Middle East and Africa Region",
-        dateRange: "2032 - 2035",
-        location: "HarbourFront, Central Region, Singapore",
-        highlights: [
-          "Lead finance as Chief Financial Officer of the Asia Pacific, Middle East and Africa region from HarbourFront — an ~$8B net-revenue footprint across 70+ markets — Commercial Finance, Supply Chain Finance, FP&A, and Controllership.",
-          "Lead financial planning across Southeast Asia, Australia and New Zealand, India, China, and the Middle East and Africa — annual operating plan, rolling forecasts, long-range planning, and S&OP alignment through cocoa, currency, and emerging-market volume swings.",
-          "Partner with the Asia Pacific, Middle East and Africa president, Commercial, and Sales on pricing, mix, and route-to-market for Oreo, Cadbury, and local brands — growth that shows up in margin and cash, not only in reported sales.",
-          "Drive working capital and plant performance across a long multi-country network — inventory, distributor terms, and manufacturing cost held to the same standards as North America.",
-          "Establish the regional operating cadence — monthly business reviews, KPI dashboards, and variance versus plan, forecast, and prior year — with corrective action owned in the market, not in a pack from HarbourFront.",
-          "Build the Asia Pacific, Middle East and Africa finance bench and a close that consolidates the region onto the global planning stack.",
-        ],
-      },
-      {
-        title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
-        dateRange: "2029 - 2032",
+        dateRange: "2029 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Lead finance as Chief Financial Officer of an ~$11B Mondelez North America from East Hanover and return the region to ~+4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone.",

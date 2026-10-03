@@ -96,10 +96,7 @@ const About: React.FC = () => {
                   President and Chief Financial Officer of T. C. Jacoby &amp;
                   Company in St. Louis from 2026 to 2029, then Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
-                  North America in East Hanover, New Jersey for three years,
-                  and then Senior Vice President, Finance (Chief Financial
-                  Officer) of Mondelez Asia Pacific, Middle East and Africa in
-                  HarbourFront, Singapore for three years.
+                  North America in East Hanover, New Jersey from 2029 to 2033.
                 </motion.p>
 
                 <motion.p
