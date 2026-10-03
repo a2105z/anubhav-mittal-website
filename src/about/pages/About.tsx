@@ -82,7 +82,7 @@ const About: React.FC = () => {
                   His career includes Kellogg Company, Archer-Daniels-Midland
                   Company, T. C. Jacoby &amp; Company, Inc., Mondelez
                   International, Inc., The Simply Good Foods Company, The
-                  Campbell's Company, and Clarity Investment Partners. At Kellogg, he led FP&amp;A and strategy for
+                  Campbell's Company. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -102,9 +102,7 @@ const About: React.FC = () => {
                   Financial Officer of The Simply Good Foods Company in Denver,
                   Colorado from 2032 to 2035, and then Executive Vice President
                   and Chief Financial Officer of The Campbell's Company in
-                  Camden, New Jersey from 2035 to 2040. Since 2026 he is also
-                  Co-Founder and Managing Partner of Clarity Investment Partners,
-                  a Chicago real estate private equity firm.
+                  Camden, New Jersey from 2035 to 2040.
                 </motion.p>
 
                 <motion.p

@@ -9,7 +9,6 @@ assets.
 | Filename            | Used for                                          |
 | ------------------- | ------------------------------------------------- |
 | `campbells.png`     | The Campbell's Company — Experience page          |
-| `clarity.png`       | Clarity Investment Partners — Experience page     |
 | `simply-good.png`   | The Simply Good Foods Company — Experience page   |
 | `mondelez.png`      | Mondelez International, Inc. — Experience page    |
 | `jacoby.png`        | T. C. Jacoby & Company — Experience page          |
