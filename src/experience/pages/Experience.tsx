@@ -10,7 +10,7 @@ const Experience: React.FC = () => {
         <Wrapper>
           <SectionHeader
             eyebrow="Career"
-            title="A Fortune 500 CPG finance executive's path"
+            title="Where he has worked."
             nowrap
           />
         </Wrapper>
