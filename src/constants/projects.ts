@@ -25,6 +25,34 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Ingredion, Inc. (NYSE : INGR)",
+    monogram: "INGR",
+    logo: "/icons/organizations/ingredion.png",
+    logoFull: true,
+    location: "Westchester, Illinois, United States",
+    startDate: "2032",
+    endDate: "2040",
+    summary:
+      "Eight years as Executive Vice President and Chief Financial Officer of Ingredion, Inc., a global ingredient-solutions company with ~$7.2B of net sales in texture systems, starches, and sweeteners. He led treasury, controllership, capital allocation, and Investor Relations from Westchester, Illinois.",
+    roles: [
+      {
+        title: "Executive Vice President and Chief Financial Officer",
+        dateRange: "2032 - 2040",
+        location: "Westchester, Illinois, United States",
+        highlights: [
+          "Lead enterprise finance as Executive Vice President and Chief Financial Officer of Ingredion, Inc. from Westchester — a New York Stock Exchange company with ~$7.2B of net sales in texture systems, starches, and sweeteners from grains, fruits, and vegetables, sold into food, beverage, animal nutrition, brewing, and industrial customers in nearly 120 countries.",
+          "Partner with the Chief Executive Officer and the Board on the operating plan and monthly review across Texture & Healthful Solutions and the food and industrial ingredient businesses — corn, tapioca, pricing, and mix held to one set of return thresholds and one variance cadence versus plan, forecast, and prior year.",
+          "Shift the sales mix toward specialty texture and healthful solutions and expand gross margin ~+80 bps and operating margin ~+50 bps, with the gain staying in the P&L after corn and currency move.",
+          "Release ~$170M of working capital across inventory, receivables, and payables in a global plant network without missing a customer's run.",
+          "Lead treasury, liquidity, and the debt stack through agricultural and foreign-exchange cycles — refinancing that funds the dividend and specialty capacity without an emergency raise.",
+          "Lead Investor Relations and the equity narrative — earnings quality, non-GAAP bridges, MD&A, and a specialty-ingredients compounding story the Street can own through a commodity year.",
+          "Lead controllership, SOX / ICFR, and the alignment of management reporting with external disclosure — a clean opinion and fewer surprises on earnings day.",
+          "Hold CapEx and Idea Labs investment to a Year-3 lookback, improve company ROIC ~+100 bps, and fund the growth plan from cash the company generates.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Ag Growth International Inc. (TSX : AFN · OTC : AGGZF)",
     monogram: "AGI",
     logo: "/icons/organizations/agi.png",
@@ -33,14 +61,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2032",
     summary:
-      "Six years at Ag Growth International Inc., a Winnipeg company with ~C$1.4B of revenue that designs and builds equipment to store, handle, and process grain, seed, fertilizer, feed, and food. For the first three years he led corporate development and strategy. For the last two years he held that seat together with the global food and feed P&L.",
+      "Six years at Ag Growth International Inc., a Winnipeg company with ~C$1.4B of revenue that designs and builds equipment to store, handle, and process grain, seed, fertilizer, feed, and food. For the first three years he led corporate development and strategic finance. For the last two years he held that seat together with the global food and feed P&L.",
     roles: [
       {
         title: "Senior Vice President, Global Food and Feed",
         dateRange: "2030 - 2032",
         location: "Winnipeg, Manitoba, Canada",
         highlights: [
-          "Hold the global food and feed P&L from Winnipeg as a dual role with Corporate Development and Strategy — equipment and engineering for food processors, feed mills, and grain handlers, inside a ~C$1.4B company listed on the Toronto Stock Exchange.",
+          "Hold the global food and feed P&L from Winnipeg as a dual role with Corporate Development and Strategic Finance — equipment and engineering for food processors, feed mills, and grain handlers, inside a ~C$1.4B company listed on the Toronto Stock Exchange.",
           "Own price, mix, project margin, and working capital for the food and feed book across Canada, the United States, and the international commercial business, including Brazil and EMEA, on one monthly review against plan, forecast, and prior year.",
           "Turn the order book into delivered projects — storage, handling, and processing systems — without the cost overruns that have shown up on equipment-only jobs, and hold warranty and bad-debt charges to the case that was approved.",
           "Pair the P&L with the corporate-development seat, so an acquisition, a product transfer, or a new plant is underwritten against the food and feed returns it has to earn, not against a standalone deal memo.",
@@ -48,15 +76,15 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Corporate Development and Strategy",
+        title: "Senior Vice President, Corporate Development and Strategic Finance",
         dateRange: "2026 - 2032",
         location: "Winnipeg, Manitoba, Canada",
         highlights: [
-          "Lead corporate development and strategy for Ag Growth International from Winnipeg — a TSX-listed equipment company (TSX : AFN, OTC : AGGZF) with ~C$1.4B of revenue, manufacturing in Canada, the United States, Brazil, India, France, and Italy.",
+          "Lead corporate development and strategic finance for Ag Growth International from Winnipeg — a TSX-listed equipment company (TSX : AFN, OTC : AGGZF) with ~C$1.4B of revenue, manufacturing in Canada, the United States, Brazil, India, France, and Italy.",
           "Own acquisitions, divestitures, joint ventures, and product-line transfers from the first screen through close and the Year-3 lookback, with return thresholds set against the Farm and Commercial portfolios rather than a single hurdle rate.",
           "Set the strategy for where the company grows: international commercial projects in grain, food, and feed, versus a North American Farm market that stays cyclical, and put that choice in front of the Chief Executive Officer and the board as one capital plan.",
           "Hold the investment review for CapEx, new capacity, and the international project book — business case, downside, and a named owner for value capture after close.",
-          "Keep strategy and, from 2030, the global food and feed P&L in one office, so the deal thesis and the operating result are the same conversation.",
+          "Keep strategic finance and, from 2030, the global food and feed P&L in one office, so the deal thesis and the operating result are the same conversation.",
         ],
       },
     ],
