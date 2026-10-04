@@ -66,8 +66,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Global Corporate Financial
-                  Planning and Analysis at Little Caesars Pizza in Detroit. He has more than 30 years
+                  Anubhav Mittal is Senior Vice President, Corporate Development
+                  and Investor Relations at Ag Growth International, Inc. in Winnipeg. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -80,7 +80,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, and Little Caesars Pizza. At Kellogg, he led FP&amp;A and strategy for
+                  Company, and Ag Growth International, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -92,10 +92,10 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. From 2026 to
-                  2030 he is Vice President, Global Corporate Financial Planning
-                  and Analysis at Little Caesars Pizza in Detroit, Michigan, and
-                  from 2030 to 2033 he is Senior Vice President and Chief
-                  Financial Officer.
+                  2032 he is Senior Vice President, Corporate Development and
+                  Investor Relations at Ag Growth International, Inc. in Winnipeg, Manitoba,
+                  and from 2030 to 2032 he also holds Senior Vice President,
+                  Global Food and Feed, the P&amp;L for that business.
                 </motion.p>
 
                 <motion.p
