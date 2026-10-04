@@ -25,6 +25,43 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Little Caesars Pizza",
+    monogram: "LC",
+    logo: "/icons/organizations/little-caesars.png",
+    logoFull: true,
+    location: "Detroit, Michigan, United States",
+    startDate: "2026",
+    endDate: "2033",
+    summary:
+      "Seven years at Little Caesars Pizza, the privately held pizza company of the Ilitch family, with about $5B of systemwide sales and restaurants across the United States and about 30 international markets. He led global financial planning from Detroit, then served as Senior Vice President and Chief Financial Officer.",
+    roles: [
+      {
+        title: "Senior Vice President and Chief Financial Officer",
+        dateRange: "2030 - 2033",
+        location: "Detroit, Michigan, United States",
+        highlights: [
+          "Lead enterprise finance as Senior Vice President and Chief Financial Officer of Little Caesars from Detroit — a privately held pizza company with about $5B of systemwide sales, Hot-N-Ready carryout, and a franchise system of about 4,400 U.S. restaurants plus international markets.",
+          "Partner with the Chief Executive Officer and the Ilitch family on one operating plan for company stores and the franchise system — food cost, labor, royalty, and advertising held to the same monthly review versus plan, forecast, and prior year.",
+          "Own treasury, controllership, and capital allocation for a private company — store investment, the supply chain, and franchise growth funded from cash the system generates, with a Year-3 lookback on the capital that was approved.",
+          "Hold the franchise P&L and the company-store P&L apart, so a royalty, a food-cost move, and a new market are not blended into one number the board cannot use.",
+          "Carry the planning seat into the chief financial officer role, so the forecast that was built in Detroit and the result that is reported are the same conversation.",
+        ],
+      },
+      {
+        title: "Vice President, Global Corporate Financial Planning and Analysis",
+        dateRange: "2026 - 2030",
+        location: "Detroit, Michigan, United States",
+        highlights: [
+          "Lead global corporate financial planning and analysis for Little Caesars from Detroit — the annual operating plan, rolling forecast, and long-range plan for company restaurants, franchise royalties, and the international markets.",
+          "Build one driver-based plan the operators and the finance team both close on — pizza volume, food cost, labor, and advertising — so a store review and a Woodward Avenue review land on the same number.",
+          "Set the planning cadence versus plan, forecast, and prior year, and put the risks in Hot-N-Ready volume, cheese and dough cost, and new-store openings in front of the Chief Executive Officer before the quarter moves.",
+          "Tie store investment and international openings to a return case, and track them after open so a new restaurant is judged on the cash it was underwritten to earn.",
+          "Stand up the finance bench and the reporting the chief financial officer seat, from 2030, can run without rebuilding the plan.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",
