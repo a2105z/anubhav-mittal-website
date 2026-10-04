@@ -53,7 +53,7 @@ export const EXPERIENCES: Experience[] = [
     ],
   },
   {
-    company: "Ag Growth International Inc. (TSX : AFN · OTC : AGGZF)",
+    company: "Ag Growth International, Inc. (TSX : AFN · OTC : AGGZF)",
     monogram: "AGI",
     logo: "/icons/organizations/agi.png",
     logoFull: true,
@@ -61,7 +61,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2032",
     summary:
-      "Six years at Ag Growth International Inc., a Winnipeg company with ~C$1.4B of revenue that designs and builds equipment to store, handle, and process grain, seed, fertilizer, feed, and food. For the first three years he led corporate development and investor relations. For the last two years he held that seat together with the global food and feed P&L.",
+      "Six years at Ag Growth International, Inc., a Winnipeg company with ~C$1.4B of revenue that designs and builds equipment to store, handle, and process grain, seed, fertilizer, feed, and food. For the first three years he led corporate development and investor relations. For the last two years he held that seat together with the global food and feed P&L.",
     roles: [
       {
         title: "Senior Vice President, Global Food and Feed",
@@ -93,6 +93,7 @@ export const EXPERIENCES: Experience[] = [
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",
+    logoFull: true,
     location: "Chicago, Illinois, United States",
     startDate: "2017",
     endDate: "2026",

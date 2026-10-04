@@ -67,7 +67,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
                   Anubhav Mittal is Senior Vice President, Corporate Development
-                  and Investor Relations at Ag Growth International Inc. in Winnipeg. He has more than 30 years
+                  and Investor Relations at Ag Growth International, Inc. in Winnipeg. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -80,7 +80,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Ag Growth International Inc., and Ingredion, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Ag Growth International, Inc., and Ingredion, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -93,7 +93,7 @@ const About: React.FC = () => {
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. From 2026 to
                   2032 he is Senior Vice President, Corporate Development and
-                  Investor Relations at Ag Growth International Inc. in Winnipeg, Manitoba,
+                  Investor Relations at Ag Growth International, Inc. in Winnipeg, Manitoba,
                   and from 2030 to 2032 he also holds Senior Vice President,
                   Global Food and Feed, the P&amp;L for that business. From 2032 to
                   2040 he is Executive Vice President and Chief Financial Officer
