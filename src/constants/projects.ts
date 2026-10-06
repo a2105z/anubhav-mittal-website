@@ -28,6 +28,7 @@ export const EXPERIENCES: Experience[] = [
     company: "Conagra Brands, Inc. (NYSE : CAG)",
     monogram: "CAG",
     logo: "/icons/organizations/conagra.png",
+    logoFull: true,
     location: "Chicago, Illinois, United States",
     startDate: "2033",
     endDate: "2040",
@@ -166,7 +167,7 @@ export const EXPERIENCES: Experience[] = [
       "Four years in senior finance and strategy at Kellogg Company, a global consumer foods company, from Battle Creek, Michigan. He led North America financial planning for an ~$9B business and corporate development, including mergers and a global restructuring program.",
     roles: [
       {
-        title: "Vice President, Financial Planning and Analysis - North America Region",
+        title: "Vice President, Financial Planning & Analysis - North America Region",
         dateRange: "2015 - 2017",
         location: "Battle Creek, Michigan, United States",
         highlights: [
