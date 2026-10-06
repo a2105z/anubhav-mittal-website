@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Anubhav Mittal, CFA, CPA, CMA
             </p>
             <p className="mt-0.5 text-[12.5px] text-slate-500">
-              Senior Vice President, Corporate Development and Investor Relations, Ag Growth International, Inc. · Winnipeg, Manitoba
+              Vice President, Global Business Development and Strategic Finance, Archer-Daniels-Midland Company · Chicago, Illinois
             </p>
           </div>
 

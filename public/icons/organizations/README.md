@@ -12,7 +12,6 @@ assets.
 | `simply-good.png`   | The Simply Good Foods Company — Experience page   |
 | `mondelez.png`      | Mondelez International, Inc. — Experience page    |
 | `jacoby.png`        | T. C. Jacoby & Company — Experience page          |
-| `agi.png`           | Ag Growth International, Inc. — Experience page   |
 | `adm.png`           | ADM (Archer Daniels Midland) — Experience page    |
 | `kellogg.png`       | Kellogg Company — Experience page                 |
 | `booz.png`          | Booz & Company — Experience page                  |
