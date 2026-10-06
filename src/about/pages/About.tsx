@@ -81,7 +81,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, and Mondelez International, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -97,7 +97,9 @@ const About: React.FC = () => {
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
-                  North America in East Hanover, New Jersey.
+                  North America in East Hanover, New Jersey. From 2033 to 2040
+                  he is Executive Vice President and Chief Financial Officer of
+                  Conagra Brands, Inc. in Chicago, Illinois.
                 </motion.p>
 
                 <motion.p
