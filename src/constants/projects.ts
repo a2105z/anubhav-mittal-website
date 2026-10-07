@@ -25,43 +25,30 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Conagra Brands, Inc. (NYSE : CAG)",
-    monogram: "CAG",
-    logo: "/icons/organizations/conagra.png",
-    logoFull: true,
-    location: "Chicago, Illinois, United States",
-    startDate: "2033",
-    endDate: "2040",
-    summary:
-      "Seven years as Executive Vice President and Chief Financial Officer of Conagra Brands, Inc., a Chicago packaged-food company with ~$12B of net sales across frozen meals, snacks, and grocery. He led treasury, controllership, capital allocation, and Investor Relations from the Merchandise Mart.",
-    roles: [
-      {
-        title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2040",
-        location: "Chicago, Illinois, United States",
-        highlights: [
-          "Step up from Chief Financial Officer of Mondelez North America to Executive Vice President and Chief Financial Officer of Conagra Brands from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, about $12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice.",
-          "Partner with the Chief Executive Officer and the Board on one operating plan — price, mix, productivity, and volume held to the same monthly review versus plan, forecast, and prior year, including the Walmart book that is nearly 30% of sales.",
-          "Return organic net sales growth to about +3%, led by frozen and snacks rather than price alone, and expand gross margin ~+80 bps and operating margin ~+50 bps after commodity cost moves.",
-          "Release ~$180M of working capital across inventory, receivables, and payables without missing a frozen reset or a snack promotion.",
-          "Lead treasury, the debt stack, and the dividend through a commodity year, and take net debt down without starving brand investment or a plant the plan depends on.",
-          "Lead Investor Relations for the New York Stock Exchange listing — earnings quality, non-GAAP bridges, and a branded-food story the Street can own when a category slows.",
-          "Lead controllership and internal controls, hold CapEx and acquisitions to a Year-3 lookback, and improve company ROIC ~+100 bps, funding the plan from cash the company generates.",
-        ],
-      },
-    ],
-  },
-  {
     company: "Mondelez International, Inc. (NASDAQ : MDLZ)",
     monogram: "MZ",
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location: "Chicago, Illinois, United States",
     startDate: "2027",
-    endDate: "2033",
+    endDate: "2040",
     summary:
-      "Six years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Chief Financial Officer of North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Thirteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, three years as Chief Financial Officer of North America, an ~$11B business, from East Hanover, New Jersey, then seven years as Executive Vice President and Chief Financial Officer from Chicago.",
     roles: [
+      {
+        title: "Executive Vice President and Chief Financial Officer",
+        dateRange: "2033 - 2040",
+        location: "Chicago, Illinois, United States",
+        highlights: [
+          "Step up from Chief Financial Officer of Mondelez North America to Executive Vice President and Chief Financial Officer of Mondelez International from Chicago — Oreo, Ritz, Cadbury, Milka, and Toblerone, about $38.5B of net revenue, sold in more than 150 countries.",
+          "Partner with the Chief Executive Officer and the Board on one operating plan — volume, price, mix, and cocoa held to the same monthly review versus plan, forecast, and prior year across every region.",
+          "Hold organic net sales growth at about +4%, with volume positive in biscuits and chocolate rather than price alone, and expand gross margin ~+80 bps and operating margin ~+60 bps after cocoa cost moves.",
+          "Release ~$800M of working capital across inventory, receivables, and payables without missing a peak season in any region.",
+          "Lead treasury, the debt stack, the dividend, and share repurchase, and take leverage down without starving brand investment or a plant the plan depends on.",
+          "Lead Investor Relations for the Nasdaq listing — earnings quality, non-GAAP bridges, and a snacking story the Street can own when a category or a cocoa year slows.",
+          "Lead controllership and internal controls, hold CapEx and acquisitions to a Year-3 lookback, and improve company ROIC ~+100 bps, funding the plan from cash the company generates.",
+        ],
+      },
       {
         title:
           "Senior Vice President, Finance (Chief Financial Officer) - North America Region",

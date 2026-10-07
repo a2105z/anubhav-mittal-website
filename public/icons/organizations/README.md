@@ -10,7 +10,6 @@ assets.
 | ------------------- | ------------------------------------------------- |
 | `campbells.png`     | The Campbell's Company — Experience page          |
 | `simply-good.png`   | The Simply Good Foods Company — Experience page   |
-| `conagra.png`       | Conagra Brands, Inc. — Experience page            |
 | `mondelez.png`      | Mondelez International, Inc. — Experience page    |
 | `jacoby.png`        | T. C. Jacoby & Company — Experience page          |
 | `adm.png`           | ADM (Archer Daniels Midland) — Experience page    |
