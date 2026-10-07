@@ -97,7 +97,8 @@ const About: React.FC = () => {
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
                   President, Finance (Chief Financial Officer) of Mondelez
-                  North America in East Hanover, New Jersey. From 2033 to 2040
+                  Europe in Zurich, Switzerland, the company's largest region.
+                  From 2033 to 2040
                   he is Executive Vice President and Chief Financial Officer of
                   Mondelez International, Inc. in Chicago, Illinois.
                 </motion.p>

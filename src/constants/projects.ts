@@ -33,14 +33,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2027",
     endDate: "2040",
     summary:
-      "Thirteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, three years as Chief Financial Officer of North America, an ~$11B business, from East Hanover, New Jersey, then seven years as Executive Vice President and Chief Financial Officer from Chicago.",
+      "Thirteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, three years as Chief Financial Officer of Europe, the company's largest region at about $15B and nearly 40% of net revenue, from Zurich, Switzerland, then seven years as Executive Vice President and Chief Financial Officer from Chicago.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
         dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Chief Financial Officer of Mondelez North America to Executive Vice President and Chief Financial Officer of Mondelez International from Chicago — Oreo, Ritz, Cadbury, Milka, and Toblerone, about $38.5B of net revenue, sold in more than 150 countries.",
+          "Step up from Chief Financial Officer of Mondelez Europe, the company's largest region, to Executive Vice President and Chief Financial Officer of Mondelez International from Chicago — Oreo, Ritz, Cadbury, Milka, and Toblerone, about $38.5B of net revenue, sold in more than 150 countries.",
           "Partner with the Chief Executive Officer and the Board on one operating plan — volume, price, mix, and cocoa held to the same monthly review versus plan, forecast, and prior year across every region.",
           "Hold organic net sales growth at about +4%, with volume positive in biscuits and chocolate rather than price alone, and expand gross margin ~+80 bps and operating margin ~+60 bps after cocoa cost moves.",
           "Release ~$800M of working capital across inventory, receivables, and payables without missing a peak season in any region.",
@@ -51,17 +51,17 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title:
-          "Senior Vice President, Finance (Chief Financial Officer) - North America Region",
+          "Senior Vice President, Finance (Chief Financial Officer) - Europe Region",
         dateRange: "2030 - 2033",
-        location: "East Hanover, New Jersey, United States",
+        location: "Zurich, Switzerland",
         highlights: [
-          "Step up from the Chicago treasurer seat to Chief Financial Officer of Mondelez North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
-          "Return the region to about +4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone, and hold that result to the same variance cadence versus plan, forecast, and prior year.",
-          "Expand gross margin ~+120 bps and operating margin ~+80 bps — pricing realization, mix into Oreo, Ritz, and chocolate, and productivity that stays in the P&L after cocoa moves.",
-          "Release ~$280M of working capital across inventory, receivables, and payables without missing peak-season service in the United States or Canada.",
+          "Step up from the Chicago treasurer seat to Chief Financial Officer of Mondelez Europe from Zurich — the company's largest region, about $15B of net revenue and nearly 40% of Mondelez, led by chocolate.",
+          "Hold the largest region in the company to about +4% organic net sales growth, with volume positive in chocolate and biscuits rather than price alone, and hold that result to the same variance cadence versus plan, forecast, and prior year.",
+          "Expand gross margin ~+100 bps and operating margin ~+70 bps — pricing realization, mix into Cadbury, Milka, Oreo, and Toblerone, and productivity that stays in the P&L after cocoa moves.",
+          "Release ~$380M of working capital across inventory, receivables, and payables without missing peak-season service across Europe.",
           "Lift trade-spend return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and customers that were earning their cost.",
-          "Improve regional ROIC ~+140 bps by holding CapEx and slotting investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
-          "Hold North America's major investments to the cases approved with the Chicago treasury and planning team — revenue, margin, and cash — and build a finance bench the center can draw from.",
+          "Improve regional ROIC ~+120 bps by holding CapEx and slotting investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
+          "Hold Europe's major investments to the cases approved with the Chicago treasury and planning team — revenue, margin, and cash — and build a finance bench the center can draw from.",
         ],
       },
       {
@@ -74,7 +74,7 @@ export const EXPERIENCES: Experience[] = [
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Run the balance sheet — liquidity, the debt stack, dividends, and share repurchase — and size cocoa, currency, and interest-rate exposure to the plan rather than to a headline rate.",
           "Set the working-capital standard the regions use, releasing cash from inventory, receivables, and payables without starving a peak season, and put that cash back into the growth plan.",
-          "Take the planning and treasury seat into the North America chief financial officer role in 2030, so the forecast built in Chicago and the P&L run from East Hanover are the same system.",
+          "Take the planning and treasury seat into the Europe chief financial officer role in 2030, so the forecast built in Chicago and the P&L run from Zurich, the company's largest region, are the same system.",
         ],
       },
     ],
