@@ -93,7 +93,7 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. From 2026 to
-                  2027 he is Senior Director, Corporate Development of Mondelez
+                  2027 he is Senior Advisor, Corporate Development of Mondelez
                   International, Inc. in Chicago, Illinois, and from 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.

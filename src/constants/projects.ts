@@ -33,7 +33,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2040",
     summary:
-      "Fourteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Senior Director, Corporate Development, three years as Senior Vice President, Global Financial Planning & Analysis and Treasurer, three years as Chief Financial Officer of Europe, the company's largest region at about $15B and nearly 40% of net revenue, from Zurich, Switzerland, then seven years as Executive Vice President and Chief Financial Officer from Chicago.",
+      "Fourteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Senior Advisor, Corporate Development, three years as Senior Vice President, Global Financial Planning & Analysis and Treasurer, three years as Chief Financial Officer of Europe, the company's largest region at about $15B and nearly 40% of net revenue, from Zurich, Switzerland, then seven years as Executive Vice President and Chief Financial Officer from Chicago.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
@@ -78,11 +78,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Director, Corporate Development",
+        title: "Senior Advisor, Corporate Development",
         dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step from Archer-Daniels-Midland into Senior Director, Corporate Development at Mondelez International from Chicago — one year on acquisitions, divestitures, and joint ventures for a ~$38.5B snacking company.",
+          "Step from Archer-Daniels-Midland into Senior Advisor, Corporate Development at Mondelez International from Chicago — one year on acquisitions, divestitures, and joint ventures for a ~$38.5B snacking company.",
           "Lead the deals from evaluation through close — biscuits, chocolate, and the markets that move Oreo, Ritz, Cadbury, Milka, and Toblerone — with each case held to revenue, margin, and cash.",
           "Partner with the Chief Financial Officer and the business presidents on the portfolio actions the annual plan depends on, and hold post-close value to the case that was approved.",
           "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasurer in 2027, so the deals screened in corporate development and the plan run from Chicago are the same system.",
