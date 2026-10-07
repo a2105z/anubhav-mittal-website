@@ -34,17 +34,6 @@ const ENTRIES: EducationEntry[] = [
       "Coursework anchored in corporate finance, valuation, capital markets, M&A, competitive strategy, and general management.",
   },
   {
-    logo: "/icons/organizations/uiuc.png",
-    monogram: "UIUC",
-    institution: "University of Illinois Urbana-Champaign",
-    location: "Urbana-Champaign, Illinois, United States",
-    degree: "Master of Science (MS), Accounting",
-    dates: "2027 – 2028",
-    kind: "Degree",
-    coursework:
-      "Graduate coursework in financial accounting, managerial accounting, auditing, taxation, and data analytics — deepening the technical accounting foundation that underpins Business Unit CFO leadership, SOX / ICFR governance, and public-company financial reporting.",
-  },
-  {
     logo: "/icons/organizations/iit-kanpur.png",
     monogram: "IIT",
     institution: "Indian Institute of Technology, Kanpur",
@@ -59,6 +48,17 @@ const ENTRIES: EducationEntry[] = [
     ],
     coursework:
       "Coursework spanned thermodynamics, fluid mechanics, manufacturing systems, control systems, and applied mathematics — alongside leadership and student-led initiatives across hostel and academic life.",
+  },
+  {
+    logo: "/icons/organizations/uiuc.png",
+    monogram: "UIUC",
+    institution: "University of Illinois Urbana-Champaign",
+    location: "Urbana-Champaign, Illinois, United States",
+    degree: "Master of Science (MS), Accountancy",
+    dates: "2027 – 2028",
+    kind: "Degree",
+    coursework:
+      "Graduate coursework in financial accounting, managerial accounting, auditing, taxation, and data analytics — deepening the technical foundation for business-unit finance, internal controls, and public-company reporting.",
   },
 ];
 
@@ -75,7 +75,7 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
       delay: index * 0.08,
       ease: [0.22, 1, 0.36, 1],
     }}
-    className="bg-white border border-slate-200 rounded-2xl p-6 sm:p-7 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover flex flex-col h-full"
+    className="bg-white border border-slate-200 rounded-2xl p-5 sm:p-6 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover flex flex-col h-full"
   >
     <div className="flex items-start gap-4">
       <LogoBlock
@@ -106,7 +106,7 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
     </div>
 
     {entry.honors && entry.honors.length > 0 && (
-      <ul className="mt-5 space-y-2 pl-0.5">
+      <ul className="mt-4 space-y-1.5 pl-0.5">
         {entry.honors.map((line, idx) => (
           <li
             key={idx}
@@ -120,9 +120,12 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
     )}
 
     {entry.coursework && (
-      <p className="mt-4 pt-4 border-t border-slate-200/70 text-[13px] leading-relaxed text-slate-500 italic">
-        {entry.coursework}
-      </p>
+      <>
+        <div className="mt-4 flex-1" aria-hidden />
+        <p className="pt-4 border-t border-slate-200/70 text-[13px] leading-relaxed text-slate-500 italic">
+          {entry.coursework}
+        </p>
+      </>
     )}
   </motion.div>
 );
