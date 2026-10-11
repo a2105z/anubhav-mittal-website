@@ -81,7 +81,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Louis Dreyfus Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -92,7 +92,11 @@ const About: React.FC = () => {
                     $8&nbsp;billion
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
-                  global business development and strategic finance. From 2027 to
+                  global business development and strategic finance. From 2026 to
+                  2027 he is Vice President, Business Development and Mergers
+                  &amp; Acquisitions for Louis Dreyfus Company North America in
+                  Kansas City, Missouri, a year taken to focus on North American
+                  finance. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
