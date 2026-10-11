@@ -97,23 +97,23 @@ export const EXPERIENCES: Experience[] = [
     monogram: "LDC",
     logo: "/icons/organizations/ldc.png",
     logoFull: true,
-    location: "Kansas City, Missouri, United States",
+    location: "Wilton, Connecticut, United States",
     startDate: "2026",
     endDate: "2027",
     summary:
-      "One year as Vice President, Business Development and Mergers & Acquisitions for Louis Dreyfus Company in North America, from Kansas City, Missouri. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
+      "One year as Vice President, Business Development and Mergers & Acquisitions for Louis Dreyfus Company in North America, from Wilton, Connecticut. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
     roles: [
       {
         title:
           "Vice President, Business Development and Mergers & Acquisitions - North America Region",
         dateRange: "2026 - 2027",
-        location: "Kansas City, Missouri, United States",
+        location: "Wilton, Connecticut, United States",
         highlights: [
-          "Take one year at Louis Dreyfus Company to focus on North American finance from Kansas City — business development and mergers and acquisitions for the United States and Canada, inside a ~$53B global merchant, with the returns, the basis, and the cash kept on this continent.",
+          "Take one year at Louis Dreyfus Company to focus on North American finance from Wilton, Connecticut — business development and mergers and acquisitions for the United States and Canada, inside a ~$53B global merchant, with the returns, the basis, and the cash kept on this continent.",
           "Lead the North American deal book: soybean crush, canola processing, and export capacity, including the Upper Sandusky, Ohio soybean complex, the Yorkton, Saskatchewan canola plant, and the Burns Harbor, Indiana grain export terminal.",
           "Hold every case to a North American look — crush margin, export elevation, and working capital through a US or Canadian harvest — and turn down a deal that only works on a global average.",
           "Partner with North America regional leadership on the capital the region actually uses: more than 40 US processing and logistics sites, the Canadian canola book, and the elevators that originate the crop.",
-          "Keep Rotterdam in the review and Kansas City on the decision, so a North American acquisition is sized to this region's P&L, not to the group's other geographies.",
+          "Keep Rotterdam in the review and Wilton on the decision, so a North American acquisition is sized to this region's P&L, not to the group's other geographies.",
           "Carry that North American finance view into Mondelez in 2027, after a year spent on purpose inside the United States and Canada rather than on a global mandate.",
         ],
       },

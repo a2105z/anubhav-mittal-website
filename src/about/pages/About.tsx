@@ -95,7 +95,7 @@ const About: React.FC = () => {
                   global business development and strategic finance. From 2026 to
                   2027 he is Vice President, Business Development and Mergers
                   &amp; Acquisitions for Louis Dreyfus Company North America in
-                  Kansas City, Missouri, a year taken to focus on North American
+                  Wilton, Connecticut, a year taken to focus on North American
                   finance. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
