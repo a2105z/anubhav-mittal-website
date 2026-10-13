@@ -66,8 +66,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Treasury Capital Markets
-                  and Assistant Treasurer at Mondelez International, Inc. in
+                  Anubhav Mittal is Vice President, Global Treasury Capital
+                  Markets at Mondelez International, Inc. in
                   Chicago, Illinois. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
@@ -94,8 +94,8 @@ const About: React.FC = () => {
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
-                  2027 he is Vice President, Treasury Capital Markets and
-                  Assistant Treasurer of Mondelez International, Inc. in
+                  2027 he is Vice President, Global Treasury Capital Markets
+                  of Mondelez International, Inc. in
                   Chicago, Illinois. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
