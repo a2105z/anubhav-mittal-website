@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2033",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in East Hanover, New Jersey, as Vice President, North America Business Development and Transformation Finance, three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets and Assistant Treasurer, three years as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
@@ -83,7 +83,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2027 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Vice President, North America Business Development and Transformation Finance into global financial planning and treasury for Mondelez International from Chicago — a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Vice President, Treasury Capital Markets and Assistant Treasurer into global financial planning and treasury for Mondelez International from Chicago — a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Run the balance sheet — liquidity, the debt stack, dividends, and share repurchase — and size cocoa, currency, and interest-rate exposure to the plan rather than to a headline rate.",
           "Set the working-capital standard the regions use, releasing cash from inventory, receivables, and payables without starving a peak season, and put that cash back into the growth plan.",
@@ -91,16 +91,16 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title:
-          "Vice President, North America Business Development and Transformation Finance",
+        title: "Vice President, Treasury Capital Markets and Assistant Treasurer",
         dateRange: "2026 - 2027",
-        location: "East Hanover, New Jersey, United States",
+        location: "Chicago, Illinois, United States",
         highlights: [
-          "Take one year at Mondelez North America, from East Hanover, as Vice President, North America Business Development and Transformation Finance — Oreo, Ritz, and chocolate, about $11B of net revenue in the United States and Canada.",
-          "Lead the region's business-development cases and the finance behind the transformation: price, mix, trade, and the cost the plan takes out, held to the same review versus plan, forecast, and prior year.",
-          "Keep each case on a North American result — revenue, margin, and cash in the United States and Canada — and leave off the plan a project that only works as a global average.",
-          "Partner with the North America president on the initiatives the region is funding, so the growth and the savings show up in the East Hanover P&L rather than in a corporate bridge.",
-          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasurer in 2027, so the North American transformation and the Chicago plan are the same system.",
+          "One year as Vice President, Treasury Capital Markets and Assistant Treasurer of Mondelez International from Chicago — the debt stack, liquidity, and capital markets for a ~$38.5B snacking company.",
+          "Lead commercial paper, bond issuance, and the bank group, and keep the credit facilities sized to peak-season cocoa, inventory, and dividend cash.",
+          "Size cocoa, currency, and interest-rate exposure to the operating plan rather than to a headline rate, and report that book to the Treasurer on the same cadence as the forecast.",
+          "Run day-to-day liquidity, the cash pool, and the revolving credit so a commodity or a currency move does not force a draw the plan did not approve.",
+          "Partner with the Treasurer on the dividend, share repurchase, and the debt maturity ladder, and hold each capital-markets decision to cash the company generates.",
+          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasurer in 2027, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
         ],
       },
     ],

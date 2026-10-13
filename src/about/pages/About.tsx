@@ -66,10 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, North America Business
-                  Development and Transformation Finance at Mondelez
-                  International, Inc. in East Hanover, New Jersey. He has more
-                  than 30 years
+                  Anubhav Mittal is Vice President, Treasury Capital Markets
+                  and Assistant Treasurer at Mondelez International, Inc. in
+                  Chicago, Illinois. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -95,9 +94,9 @@ const About: React.FC = () => {
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
-                  2027 he is Vice President, North America Business Development
-                  and Transformation Finance at Mondelez North America in
-                  East Hanover, New Jersey. From 2027 to
+                  2027 he is Vice President, Treasury Capital Markets and
+                  Assistant Treasurer of Mondelez International, Inc. in
+                  Chicago, Illinois. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
