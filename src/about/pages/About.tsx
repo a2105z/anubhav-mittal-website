@@ -66,9 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Global Treasury Capital
-                  Markets at Mondelez International, Inc. in
-                  Chicago, Illinois. He has more than 30 years
+                  Anubhav Mittal is Senior Vice President, Global Treasury
+                  Capital Markets and Treasurer at Mondelez International, Inc.
+                  in Chicago, Illinois. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -94,12 +94,12 @@ const About: React.FC = () => {
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
-                  2027 he is Vice President, Global Treasury Capital Markets
-                  of Mondelez International, Inc. in
-                  Chicago, Illinois. From 2027 to
+                  2028 he is Senior Vice President, Global Treasury Capital
+                  Markets and Treasurer of Mondelez International, Inc. in
+                  Chicago, Illinois. From 2028 to
                   2030 he is Senior Vice President, Global Financial Planning
-                  &amp; Analysis and Treasurer of Mondelez International, Inc.
-                  in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
+                  &amp; Analysis of Mondelez International, Inc. in Chicago,
+                  Illinois, and from 2030 to 2033 he is Senior Vice
                   President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2033 to 2040
                   he is Executive Vice President and Chief Financial Officer of
                   Conagra Brands, Inc. in Chicago, Illinois.

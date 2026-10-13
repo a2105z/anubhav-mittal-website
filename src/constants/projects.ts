@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2033",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Global Treasury Capital Markets, three years as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Two years in Chicago as Senior Vice President, Global Treasury Capital Markets and Treasurer, two years as Senior Vice President, Global Financial Planning & Analysis, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
@@ -68,7 +68,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2030 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
-          "Step up from the Chicago treasurer seat to Senior Vice President and Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
+          "Step up from Senior Vice President, Global Financial Planning & Analysis to Senior Vice President and Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
           "Return the region to about +4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone, and hold that result to the same variance cadence versus plan, forecast, and prior year.",
           "Expand gross margin ~+120 bps and operating margin ~+80 bps — pricing realization, mix into Oreo, Ritz, and chocolate, and productivity that stays in the P&L after cocoa moves.",
           "Release ~$280M of working capital across inventory, receivables, and payables without missing peak-season service in the United States or Canada.",
@@ -78,29 +78,29 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title:
-          "Senior Vice President, Global Financial Planning & Analysis and Treasurer",
-        dateRange: "2027 - 2030",
+        title: "Senior Vice President, Global Financial Planning & Analysis",
+        dateRange: "2028 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Vice President, Global Treasury Capital Markets into global financial planning and treasury for Mondelez International from Chicago — a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Senior Vice President, Global Treasury Capital Markets and Treasurer into global financial planning for Mondelez International from Chicago — a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
-          "Run the balance sheet — liquidity, the debt stack, dividends, and share repurchase — and size cocoa, currency, and interest-rate exposure to the plan rather than to a headline rate.",
+          "Hold each region's forecast to cash, margin, and volume the treasurer's book can fund, and close a gap in the plan before it becomes a draw on liquidity.",
           "Set the working-capital standard the regions use, releasing cash from inventory, receivables, and payables without starving a peak season, and put that cash back into the growth plan.",
-          "Take the planning and treasury seat into the North America chief financial officer role in 2030, so the forecast built in Chicago and the P&L run from East Hanover are the same system.",
+          "Take the planning seat into the North America chief financial officer role in 2030, so the forecast built in Chicago and the P&L run from East Hanover are the same system.",
         ],
       },
       {
-        title: "Vice President, Global Treasury Capital Markets",
-        dateRange: "2026 - 2027",
+        title:
+          "Senior Vice President, Global Treasury Capital Markets and Treasurer",
+        dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "One year as Vice President, Global Treasury Capital Markets of Mondelez International from Chicago — the debt stack, liquidity, and capital markets for a ~$38.5B snacking company.",
+          "Two years as Senior Vice President, Global Treasury Capital Markets and Treasurer of Mondelez International from Chicago — the debt stack, liquidity, and capital markets for a ~$38.5B snacking company.",
           "Lead commercial paper, bond issuance, and the bank group, and keep the credit facilities sized to peak-season cocoa, inventory, and dividend cash.",
-          "Size cocoa, currency, and interest-rate exposure to the operating plan rather than to a headline rate, and report that book to the Treasurer on the same cadence as the forecast.",
-          "Run day-to-day liquidity, the cash pool, and the revolving credit so a commodity or a currency move does not force a draw the plan did not approve.",
-          "Partner with the Treasurer on the dividend, share repurchase, and the debt maturity ladder, and hold each capital-markets decision to cash the company generates.",
-          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasurer in 2027, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
+          "Size cocoa, currency, and interest-rate exposure to the operating plan rather than to a headline rate, and hold that book to the same cadence as the forecast.",
+          "Run liquidity, the cash pool, and the revolving credit so a commodity or a currency move does not force a draw the plan did not approve.",
+          "Own the dividend, share repurchase, and the debt maturity ladder, and hold each capital-markets decision to cash the company generates.",
+          "Take this seat into Senior Vice President, Global Financial Planning & Analysis in 2028, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
         ],
       },
     ],
