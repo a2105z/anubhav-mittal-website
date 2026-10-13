@@ -67,8 +67,8 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
                   Anubhav Mittal is Vice President, North America Business
-                  Development and Mergers &amp; Acquisitions at Louis Dreyfus
-                  Company in Wilton, Connecticut. He has more than 30 years
+                  Development at Louis Dreyfus Company in Wilton, Connecticut.
+                  He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -91,10 +91,10 @@ const About: React.FC = () => {
                   <span className="text-brand-ink font-semibold">
                     $8&nbsp;billion
                   </span>
-                  ) and of Global Pet Solutions Business Subunit, and later led
-                  global business development and strategic finance. From 2026 to
+                  ) and of Pet Solutions Division, and later led
+                  global corporate development and strategic finance. From 2026 to
                   2027 he is Vice President, North America Business Development
-                  and Mergers &amp; Acquisitions at Louis Dreyfus Company in
+                  at Louis Dreyfus Company in
                   Wilton, Connecticut, a year taken to focus on North American
                   finance. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning

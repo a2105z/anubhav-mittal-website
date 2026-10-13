@@ -12,9 +12,6 @@ const Footer: React.FC = () => {
             <p className="text-brand-ink text-[14.5px] font-semibold tracking-tight">
               Anubhav Mittal, CFA, CPA, CMA
             </p>
-            <p className="mt-0.5 text-[12.5px] text-slate-500">
-              Vice President, North America Business Development and Mergers & Acquisitions, Louis Dreyfus Company · Wilton, Connecticut
-            </p>
           </div>
 
           <div className="flex items-center gap-5">

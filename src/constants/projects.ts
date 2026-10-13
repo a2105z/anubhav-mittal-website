@@ -101,11 +101,11 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2027",
     summary:
-      "One year as Vice President, North America Business Development and Mergers & Acquisitions for Louis Dreyfus Company in North America, from Wilton, Connecticut. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
+      "One year as Vice President, North America Business Development for Louis Dreyfus Company in North America, from Wilton, Connecticut. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
     roles: [
       {
         title:
-          "Vice President, North America Business Development and Mergers & Acquisitions",
+          "Vice President, North America Business Development",
         dateRange: "2026 - 2027",
         location: "Wilton, Connecticut, United States",
         highlights: [
@@ -127,11 +127,11 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years in senior finance and corporate development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He served as chief financial officer of Nutrition and Global Pet Solutions, then led enterprise capital allocation and mergers and acquisitions.",
+      "Nine years in senior finance and corporate development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He served as chief financial officer of the Nutrition Business Unit and of Pet Solutions Division, then led enterprise capital allocation and mergers and acquisitions.",
     roles: [
       {
         title:
-          "Vice President, Global Business Development and Strategic Finance",
+          "Vice President, Global Corporate Development and Strategic Finance",
         dateRange: "2025 - 2026",
         location: "Chicago, Illinois, United States",
         highlights: [
@@ -157,7 +157,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance (Chief Financial Officer) - Global Pet Solutions Business Subunit",
+        title: "Vice President, Finance (Chief Financial Officer) - Pet Solutions Division",
         dateRange: "2021 - 2023",
         location: "Chicago, Illinois, United States",
         highlights: [
