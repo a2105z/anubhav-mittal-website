@@ -87,13 +87,13 @@ const About: React.FC = () => {
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
                   </span>
-                  . At ADM, he served as Vice President, Finance / Chief
+                  . At ADM, he served as Vice President and Chief
                   Financial Officer, Nutrition (approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $8&nbsp;billion
                   </span>
-                  ) and as Vice President, Finance / Chief Financial Officer,
-                  Pet Solutions, and later led
+                  ) and as Vice President and Chief Financial Officer,
+                  Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
                   2027 he is Vice President, North America Business Development
                   and Transformation Finance at Mondelez North America in
@@ -101,7 +101,7 @@ const About: React.FC = () => {
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasurer of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
-                  President, Finance / Chief Financial Officer, North America in East Hanover, New Jersey. From 2033 to 2040
+                  President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2033 to 2040
                   he is Executive Vice President and Chief Financial Officer of
                   Conagra Brands, Inc. in Chicago, Illinois.
                 </motion.p>

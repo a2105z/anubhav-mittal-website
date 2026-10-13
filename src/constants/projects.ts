@@ -40,7 +40,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Senior Vice President, Finance / Chief Financial Officer, North America to Executive Vice President and Chief Financial Officer of Conagra Brands from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, about $12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice.",
+          "Step up from Senior Vice President and Chief Financial Officer, North America to Executive Vice President and Chief Financial Officer of Conagra Brands from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, about $12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice.",
           "Partner with the Chief Executive Officer and the Board on one operating plan — price, mix, productivity, and volume held to the same monthly review versus plan, forecast, and prior year, including the Walmart book that is nearly 30% of sales.",
           "Return organic net sales growth to about +3%, led by frozen and snacks rather than price alone, and expand gross margin ~+80 bps and operating margin ~+50 bps after commodity cost moves.",
           "Release ~$180M of working capital across inventory, receivables, and payables without missing a frozen reset or a snack promotion.",
@@ -60,15 +60,15 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2033",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in East Hanover, New Jersey, as Vice President, North America Business Development and Transformation Finance, three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Senior Vice President, Finance / Chief Financial Officer, North America, an ~$11B business, from East Hanover.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in East Hanover, New Jersey, as Vice President, North America Business Development and Transformation Finance, three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasurer, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover.",
     roles: [
       {
         title:
-          "Senior Vice President, Finance / Chief Financial Officer, North America",
+          "Senior Vice President and Chief Financial Officer, North America",
         dateRange: "2030 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
-          "Step up from the Chicago treasurer seat to Senior Vice President, Finance / Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
+          "Step up from the Chicago treasurer seat to Senior Vice President and Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
           "Return the region to about +4% organic net sales growth, with volume positive in biscuits and chocolate rather than price alone, and hold that result to the same variance cadence versus plan, forecast, and prior year.",
           "Expand gross margin ~+120 bps and operating margin ~+80 bps — pricing realization, mix into Oreo, Ritz, and chocolate, and productivity that stays in the P&L after cocoa moves.",
           "Release ~$280M of working capital across inventory, receivables, and payables without missing peak-season service in the United States or Canada.",
@@ -113,7 +113,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years in senior finance and corporate development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He served as Vice President, Finance / Chief Financial Officer, Nutrition and as Vice President, Finance / Chief Financial Officer, Pet Solutions, then led enterprise capital allocation and mergers and acquisitions.",
+      "Nine years in senior finance and corporate development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He served as Vice President and Chief Financial Officer, Nutrition and as Vice President and Chief Financial Officer, Global Pet Solutions, then led enterprise capital allocation and mergers and acquisitions.",
     roles: [
       {
         title:
@@ -129,7 +129,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance / Chief Financial Officer, Nutrition",
+        title: "Vice President and Chief Financial Officer, Nutrition",
         dateRange: "2023 - 2025",
         location: "Chicago, Illinois, United States",
         highlights: [
@@ -143,7 +143,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Vice President, Finance / Chief Financial Officer, Pet Solutions",
+        title: "Vice President and Chief Financial Officer, Global Pet Solutions",
         dateRange: "2021 - 2023",
         location: "Chicago, Illinois, United States",
         highlights: [
