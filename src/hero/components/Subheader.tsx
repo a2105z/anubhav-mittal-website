@@ -13,7 +13,20 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
       >
-        Vice President, Global Business Development and Strategic Finance
+        Vice President, Head of Business Development and Mergers & Acquisitions - North America Region
+      </motion.p>
+
+      <motion.p
+        initial={{ opacity: 0, y: 8 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{
+          delay: delay + 0.08,
+          duration: 0.6,
+          ease: [0.22, 1, 0.36, 1],
+        }}
+        className="text-white/90 text-sm sm:text-base tracking-tight"
+      >
+        Louis Dreyfus Company · Wilton, Connecticut
       </motion.p>
 
       <motion.p

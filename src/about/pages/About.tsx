@@ -66,9 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Global Business Development
-                  and Strategic Finance at Archer-Daniels-Midland Company in
-                  Chicago. He has more than 30 years
+                  Anubhav Mittal is Vice President, Head of Business Development
+                  and Mergers &amp; Acquisitions for Louis Dreyfus Company
+                  North America in Wilton, Connecticut. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -93,7 +93,7 @@ const About: React.FC = () => {
                   </span>
                   ) and of Global Pet Solutions Business Subunit, and later led
                   global business development and strategic finance. From 2026 to
-                  2027 he is Vice President, Business Development and Mergers
+                  2027 he is Vice President, Head of Business Development and Mergers
                   &amp; Acquisitions for Louis Dreyfus Company North America in
                   Wilton, Connecticut, a year taken to focus on North American
                   finance. From 2027 to
