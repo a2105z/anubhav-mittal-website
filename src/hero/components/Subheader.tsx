@@ -13,7 +13,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
       >
-        Vice President, Head of Business Development and Mergers & Acquisitions - North America Region
+        Vice President, North America Business Development and Mergers & Acquisitions
       </motion.p>
 
       <motion.p

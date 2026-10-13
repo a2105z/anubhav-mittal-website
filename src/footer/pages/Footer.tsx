@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Anubhav Mittal, CFA, CPA, CMA
             </p>
             <p className="mt-0.5 text-[12.5px] text-slate-500">
-              Vice President, Head of Business Development and Mergers & Acquisitions - North America Region, Louis Dreyfus Company · Wilton, Connecticut
+              Vice President, North America Business Development and Mergers & Acquisitions, Louis Dreyfus Company · Wilton, Connecticut
             </p>
           </div>
 

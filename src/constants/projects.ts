@@ -101,11 +101,11 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2027",
     summary:
-      "One year as Vice President, Head of Business Development and Mergers & Acquisitions for Louis Dreyfus Company in North America, from Wilton, Connecticut. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
+      "One year as Vice President, North America Business Development and Mergers & Acquisitions for Louis Dreyfus Company in North America, from Wilton, Connecticut. He took the year to focus on North American finance — the United States and Canada grains, oilseeds, and export book — rather than a global corporate seat.",
     roles: [
       {
         title:
-          "Vice President, Head of Business Development and Mergers & Acquisitions - North America Region",
+          "Vice President, North America Business Development and Mergers & Acquisitions",
         dateRange: "2026 - 2027",
         location: "Wilton, Connecticut, United States",
         highlights: [
@@ -194,7 +194,7 @@ export const EXPERIENCES: Experience[] = [
       "Four years in senior finance and strategy at Kellogg Company, a global consumer foods company, from Battle Creek, Michigan. He led North America financial planning for an ~$9B business and corporate development, including mergers and a global restructuring program.",
     roles: [
       {
-        title: "Vice President, Financial Planning & Analysis - North America Region",
+        title: "Vice President, North America Financial Planning & Analysis",
         dateRange: "2015 - 2017",
         location: "Battle Creek, Michigan, United States",
         highlights: [
