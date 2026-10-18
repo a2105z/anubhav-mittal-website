@@ -83,7 +83,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2027 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Three years as Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Vice President, Investor Communications (Finance & Strategy) at Louis Dreyfus Company into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Hold every region to the same monthly review versus plan, forecast, and prior year, and close a volume, price, or cocoa gap in the forecast before it lands in the P&L.",
           "Build the long-range plan the categories fund against — price, mix, productivity, and brand investment — so a biscuit or a chocolate case is approved on cash the company will generate.",
@@ -93,6 +93,31 @@ export const EXPERIENCES: Experience[] = [
           "Run liquidity, the cash pool, and the revolving credit so a commodity or a currency move does not force a draw the plan did not approve.",
           "Own the dividend, share repurchase, and the debt maturity ladder, and hold each capital-markets decision to cash the company generates.",
           "Take this seat into Senior Vice President and Chief Financial Officer, North America in 2030, so the forecast and the capital-markets book built in Chicago and the P&L run from East Hanover are the same system.",
+        ],
+      },
+    ],
+  },
+  {
+    company: "Louis Dreyfus Company",
+    monogram: "LDC",
+    logo: "/icons/organizations/ldc.png",
+    location: "Wilton, Connecticut, United States",
+    startDate: "2026",
+    endDate: "2027",
+    summary:
+      "One year at Louis Dreyfus Company, a family-owned global merchant of agricultural commodities with ~$53.2B of net sales, from the United States headquarters in Wilton, Connecticut. He led investor communications for private institutional investors and the banking relationships that fund the merchant.",
+    roles: [
+      {
+        title: "Vice President, Investor Communications (Finance & Strategy)",
+        dateRange: "2026 - 2027",
+        location: "Wilton, Connecticut, United States",
+        highlights: [
+          "One year as Vice President, Investor Communications (Finance & Strategy) at Louis Dreyfus Company from Wilton, Connecticut — the United States headquarters of a family-owned merchant with ~$53.2B of net sales.",
+          "Lead the decks and the written communications that go to sovereign wealth funds, other private institutional investors, and the family that owns the group, so results, liquidity, and the plan are one story.",
+          "Hold each investor conversation to the finance and strategy case — volumes, margin, cash, and capital expenditure — rather than to a public-market script a private company does not run.",
+          "Maintain the banking relationships the seasonal book depends on, and put the credit facilities, the maturity ladder, and the peak-season cash need in the same materials the investors see.",
+          "Keep the family and the institutional investors on the same set of numbers when a commodity year moves, and leave a claim out of a deck that the Wilton finance team cannot support.",
+          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasury at Mondelez International in 2027, so the investor story and the enterprise plan are the same system.",
         ],
       },
     ],

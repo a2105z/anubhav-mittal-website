@@ -66,10 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Senior Vice President, Global Financial
-                  Planning &amp; Analysis and Treasury at Mondelez
-                  International, Inc. in Chicago, Illinois. He has more than 30
-                  years
+                  Anubhav Mittal is Vice President, Investor Communications
+                  (Finance &amp; Strategy) at Louis Dreyfus Company in Wilton,
+                  Connecticut. He has more than 30 years
                   of experience in senior finance across North American consumer
                   packaged goods and agribusiness, including service as a
                   business-unit chief financial officer.
@@ -82,7 +81,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Louis Dreyfus Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -94,7 +93,10 @@ const About: React.FC = () => {
                   </span>
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
-                  global corporate development and strategic finance. From 2027 to
+                  global corporate development and strategic finance. From 2026 to
+                  2027 he is Vice President, Investor Communications (Finance
+                  &amp; Strategy) at Louis Dreyfus Company in Wilton,
+                  Connecticut. From 2027 to
                   2030 he is Senior Vice President, Global Financial Planning
                   &amp; Analysis and Treasury of Mondelez International, Inc.
                   in Chicago, Illinois, and from 2030 to 2033 he is Senior Vice
