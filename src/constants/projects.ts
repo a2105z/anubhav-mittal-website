@@ -25,47 +25,34 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Conagra Brands, Inc. (NYSE : CAG)",
-    monogram: "CAG",
-    logo: "/icons/organizations/conagra.png",
-    logoFull: true,
-    location: "Chicago, Illinois, United States",
-    startDate: "2033",
-    endDate: "2040",
-    summary:
-      "Seven years as Executive Vice President and Chief Financial Officer of Conagra Brands, Inc., a Chicago packaged-food company with ~$12B of net sales across frozen meals, snacks, and grocery. He led treasury, controllership, capital allocation, and Investor Relations from the Merchandise Mart.",
-    roles: [
-      {
-        title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2033 - 2040",
-        location: "Chicago, Illinois, United States",
-        highlights: [
-          "Step up from Senior Vice President and Chief Financial Officer, North America to Executive Vice President and Chief Financial Officer of Conagra Brands from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, about $12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice.",
-          "Partner with the Chief Executive Officer and the Board on one operating plan — price, mix, productivity, and volume held to the same monthly review versus plan, forecast, and prior year, including the Walmart book that is nearly 30% of sales.",
-          "Return organic net sales growth to about +3%, led by frozen and snacks rather than price alone, and expand gross margin ~+80 bps and operating margin ~+50 bps after commodity cost moves.",
-          "Release ~$180M of working capital across inventory, receivables, and payables without missing a frozen reset or a snack promotion.",
-          "Lead treasury, the debt stack, and the dividend through a commodity year, and take net debt down without starving brand investment or a plant the plan depends on.",
-          "Lead Investor Relations for the New York Stock Exchange listing — earnings quality, non-GAAP bridges, and a branded-food story the Street can own when a category slows.",
-          "Lead controllership and internal controls, hold CapEx and acquisitions to a Year-3 lookback, and improve company ROIC ~+100 bps, funding the plan from cash the company generates.",
-        ],
-      },
-    ],
-  },
-  {
     company: "Mondelez International, Inc. (NASDAQ : MDLZ)",
     monogram: "MZ",
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location: "Chicago, Illinois, United States",
     startDate: "2027",
-    endDate: "2033",
+    endDate: "2040",
     summary:
-      "Six years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasury, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Thirteen years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasury, four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey, then six years as Executive Vice President and Chief Financial Officer from Chicago.",
     roles: [
+      {
+        title: "Executive Vice President and Chief Financial Officer",
+        dateRange: "2034 - 2040",
+        location: "Chicago, Illinois, United States",
+        highlights: [
+          "Step up from Senior Vice President and Chief Financial Officer, North America to Executive Vice President and Chief Financial Officer of Mondelez International from Chicago — Oreo, Ritz, Cadbury, Milka, and Toblerone, about $38.5B of net revenue, sold in more than 150 countries.",
+          "Partner with the Chief Executive Officer and the Board on one operating plan — volume, price, mix, and cocoa held to the same monthly review versus plan, forecast, and prior year across biscuits and chocolate.",
+          "Return organic net revenue growth to about +4%, led by volume in biscuits and chocolate rather than price alone, and expand gross margin ~+80 bps and operating margin ~+50 bps after cocoa moves.",
+          "Release ~$400M of working capital across inventory, receivables, and payables without missing a peak season in North America or Europe.",
+          "Lead treasury, the debt stack, and the dividend through a cocoa year, and take net debt down without starving brand investment or a plant the plan depends on.",
+          "Lead Investor Relations for the Nasdaq listing — earnings quality, non-GAAP bridges, and a snacking story the Street can own when a category slows.",
+          "Lead controllership and internal controls, hold CapEx and acquisitions to a Year-3 lookback, and improve company ROIC ~+100 bps, funding the plan from cash the company generates.",
+        ],
+      },
       {
         title:
           "Senior Vice President and Chief Financial Officer, North America",
-        dateRange: "2030 - 2033",
+        dateRange: "2030 - 2034",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Step up from Senior Vice President, Global Financial Planning & Analysis and Treasury to Senior Vice President and Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
@@ -75,6 +62,7 @@ export const EXPERIENCES: Experience[] = [
           "Lift trade-spend return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and customers that were earning their cost.",
           "Improve regional ROIC ~+140 bps by holding CapEx and slotting investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
           "Hold North America's major investments to the cases approved with the Chicago treasury and planning team — revenue, margin, and cash — and build a finance bench the center can draw from.",
+          "Take this seat into Executive Vice President and Chief Financial Officer of Mondelez International in 2034, so the North American P&L and the enterprise plan run from Chicago are the same system.",
         ],
       },
       {
@@ -83,7 +71,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2027 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Vice President, Investor Communications (Finance & Strategy) at Louis Dreyfus Company into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Senior Vice President, Strategic Growth & Investments, and Head of Investor Relations at Central Garden & Pet Company into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Hold every region to the same monthly review versus plan, forecast, and prior year, and close a volume, price, or cocoa gap in the forecast before it lands in the P&L.",
           "Build the long-range plan the categories fund against — price, mix, productivity, and brand investment — so a biscuit or a chocolate case is approved on cash the company will generate.",
@@ -98,25 +86,27 @@ export const EXPERIENCES: Experience[] = [
     ],
   },
   {
-    company: "Louis Dreyfus Company",
-    monogram: "LDC",
-    logo: "/icons/organizations/ldc.png",
-    location: "Wilton, Connecticut, United States",
+    company: "Central Garden & Pet Company (NASDAQ : CENT)",
+    monogram: "CENT",
+    logo: "/icons/organizations/central-garden.png",
+    logoFull: true,
+    location: "San Francisco, California, United States",
     startDate: "2026",
     endDate: "2027",
     summary:
-      "One year at Louis Dreyfus Company, a family-owned global merchant of agricultural commodities with ~$53.2B of net sales, from the United States headquarters in Wilton, Connecticut. He led investor communications for private institutional investors and the banking relationships that fund the merchant.",
+      "One year at Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California. He led strategic growth, investments, and Investor Relations.",
     roles: [
       {
-        title: "Vice President, Investor Communications (Finance & Strategy)",
+        title:
+          "Senior Vice President, Strategic Growth & Investments, and Head of Investor Relations",
         dateRange: "2026 - 2027",
-        location: "Wilton, Connecticut, United States",
+        location: "San Francisco, California, United States",
         highlights: [
-          "Lead investor communications and the finance and strategy narrative for Louis Dreyfus Company from Wilton, Connecticut — the United States headquarters of a family-owned merchant with ~$53.2B of net sales — covering sovereign wealth funds, other private institutional investors, and the family that owns the group.",
-          "Partner with the Chief Financial Officer, Treasury, and strategy leadership to build investor decks, results materials, and written communications — volumes, margin, cash, capital expenditure, and liquidity held to one set of numbers.",
-          "Lead the investor meeting cadence with sovereign wealth funds and other private institutional investors, translating operating performance, the seasonal book, and the plan into a case a private owner can underwrite.",
-          "Maintain the core banking relationships that fund the merchant, aligning credit facilities, the maturity ladder, and peak-season liquidity with the same materials presented to investors and the family.",
-          "Partner with Finance, Treasury, and the business lines to keep family and institutional communications consistent when a commodity year moves — removing any claim the reported numbers cannot support and tightening the link between the deck and the result.",
+          "Lead strategic growth, investments, and Investor Relations for Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales, with more than 95% of sales in the United States.",
+          "Lead the investment agenda across Pet and Garden — acquisitions, brand investment, and capacity — from the case through execution, holding each deal to return, cash, and a Year-3 lookback.",
+          "Partner with the Chief Executive Officer and the Chief Financial Officer on one growth plan, so price, mix, distribution, and the acquisition pipeline close on the same volume and margin number.",
+          "Lead Investor Relations for the Nasdaq listing — earnings quality, non-GAAP bridges, and the pet and garden story across CENT and CENTA.",
+          "Partner with Treasury and the segment presidents on the banking relationships and the capital the growth plan uses, and keep the investor materials on the same cash the plan funds.",
         ],
       },
     ],
