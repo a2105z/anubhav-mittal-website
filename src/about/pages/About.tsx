@@ -66,13 +66,13 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Senior Vice President, Strategic Growth
-                  &amp; Investments, and Head of Investor Relations at Central
-                  Garden &amp; Pet Company in San Francisco, California. He has
-                  more than 30 years
-                  of experience in senior finance across North American consumer
-                  packaged goods and agribusiness, including service as a
-                  business-unit chief financial officer.
+                  Anubhav Mittal is Vice President, Treasury Capital
+                  Markets &amp; Assistant Treasurer at Mondelez International,
+                  Inc. in Chicago, Illinois. He has more than 30 years of
+                  experience in senior finance across North American consumer
+                  packaged goods and agribusiness, including treasury, capital
+                  markets, and service as a business-unit chief financial
+                  officer.
                 </motion.p>
 
                 <motion.p
@@ -82,7 +82,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Central Garden &amp; Pet Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Mondelez International, Inc., and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -94,13 +94,12 @@ const About: React.FC = () => {
                   </span>
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
-                  global corporate development and strategic finance. From 2026 to
-                  2027 he is Senior Vice President, Strategic Growth &amp;
-                  Investments, and Head of Investor Relations at Central Garden
-                  &amp; Pet Company in San Francisco, California. From 2027 to
-                  2030 he is Senior Vice President, Global Financial Planning
-                  &amp; Analysis and Treasury of Mondelez International, Inc.
-                  in Chicago, Illinois, and from 2030 to 2034 he is Senior Vice
+                  global corporate development and strategic finance. From 2027 to
+                  2028 he is Vice President, Treasury Capital Markets &amp;
+                  Assistant Treasurer of Mondelez International, Inc. in
+                  Chicago, Illinois. From 2028 to 2030 he is Senior Vice
+                  President, Global Financial Planning &amp; Analysis and
+                  Treasury in Chicago, and from 2030 to 2034 he is Senior Vice
                   President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2034 to 2040
                   he is Executive Vice President and Chief Financial Officer of
                   Conagra Brands, Inc. in Chicago, Illinois.

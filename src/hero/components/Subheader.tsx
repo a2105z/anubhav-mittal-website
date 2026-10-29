@@ -7,7 +7,33 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         initial={{ opacity: 0, y: 8 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{
-          delay: delay + 0.1,
+          delay: delay,
+          duration: 0.6,
+          ease: [0.22, 1, 0.36, 1],
+        }}
+        className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
+      >
+        Vice President, Treasury Capital Markets &amp; Assistant Treasurer
+      </motion.p>
+
+      <motion.p
+        initial={{ opacity: 0, y: 8 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{
+          delay: delay + 0.08,
+          duration: 0.6,
+          ease: [0.22, 1, 0.36, 1],
+        }}
+        className="text-white/90 text-sm sm:text-base tracking-tight"
+      >
+        Mondelez International · Chicago
+      </motion.p>
+
+      <motion.p
+        initial={{ opacity: 0, y: 8 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{
+          delay: delay + 0.16,
           duration: 0.6,
           ease: [0.22, 1, 0.36, 1],
         }}

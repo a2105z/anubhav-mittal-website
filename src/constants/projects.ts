@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2027",
     endDate: "2034",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Three years in Chicago as Senior Vice President, Global Financial Planning & Analysis and Treasury, then four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets & Assistant Treasurer, two years as Senior Vice President, Global Financial Planning & Analysis and Treasury, then four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
@@ -81,10 +81,10 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Senior Vice President, Global Financial Planning & Analysis and Treasury",
-        dateRange: "2027 - 2030",
+        dateRange: "2028 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Senior Vice President, Strategic Growth & Investments, and Head of Investor Relations at Central Garden & Pet Company into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Vice President, Treasury Capital Markets & Assistant Treasurer into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Hold every region to the same monthly review versus plan, forecast, and prior year, and close a volume, price, or cocoa gap in the forecast before it lands in the P&L.",
           "Build the long-range plan the categories fund against — price, mix, productivity, and brand investment — so a biscuit or a chocolate case is approved on cash the company will generate.",
@@ -96,30 +96,22 @@ export const EXPERIENCES: Experience[] = [
           "Take this seat into Senior Vice President and Chief Financial Officer, North America in 2030, so the forecast and the capital-markets book built in Chicago and the P&L run from East Hanover are the same system.",
         ],
       },
-    ],
-  },
-  {
-    company: "Central Garden & Pet Company (NASDAQ : CENT)",
-    monogram: "CENT",
-    logo: "/icons/organizations/central-garden.png",
-    logoFull: true,
-    location: "San Francisco, California, United States",
-    startDate: "2026",
-    endDate: "2027",
-    summary:
-      "One year at Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California. He led strategic growth, investments, and Investor Relations.",
-    roles: [
       {
         title:
-          "Senior Vice President, Strategic Growth & Investments, and Head of Investor Relations",
-        dateRange: "2026 - 2027",
-        location: "San Francisco, California, United States",
+          "Vice President, Treasury Capital Markets & Assistant Treasurer",
+        dateRange: "2027 - 2028",
+        location: "Chicago, Illinois, United States",
         highlights: [
-          "Lead strategic growth, investments, and Investor Relations for Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales, with more than 95% of sales in the United States.",
-          "Lead the investment agenda across Pet and Garden — acquisitions, brand investment, and capacity — from the case through execution, holding each deal to return, cash, and a Year-3 lookback.",
-          "Partner with the Chief Executive Officer and the Chief Financial Officer on one growth plan, so price, mix, distribution, and the acquisition pipeline close on the same volume and margin number.",
-          "Lead Investor Relations for the Nasdaq listing — earnings quality, non-GAAP bridges, and the pet and garden story across CENT and CENTA.",
-          "Partner with Treasury and the segment presidents on the banking relationships and the capital the growth plan uses, and keep the investor materials on the same cash the plan funds.",
+          "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Vice President, Treasury Capital Markets & Assistant Treasurer of Mondelez International from Chicago — the debt stack, the rating, and the capital-markets book of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Run the investment-grade program: commercial paper, the bond calendar, and the maturity ladder, so a cocoa spike, a dividend, or a buyback does not land on a wall of refinancing.",
+          "Lead issuance in dollars and euros, and in the local markets the cash pool draws on, and hold each deal to coupon, tenor, and the use of proceeds the Chief Financial Officer approved.",
+          "Own the bank group, the revolving credit, and the committed lines, and keep that capacity sized to peak-season cocoa, inventory, and dividend cash without paying for a facility the forecast does not use.",
+          "Set leverage and rating guardrails with the Treasurer and the Chief Financial Officer, and take the rating-agency reviews with a balance sheet, a liquidity book, and a use of cash the agencies can underwrite.",
+          "Size cocoa, currency, and interest-rate hedges to the operating plan rather than to a headline rate, and mark that book to the same monthly cadence as the forecast.",
+          "Run global liquidity — cash pooling, the in-house bank, and intercompany funding — so trapped cash comes back to Chicago and a currency move does not force a draw the plan did not approve.",
+          "Hold guarantees, letters of credit, and subsidiary funding to the same cost-of-capital test as a bond, and keep the debt the regions use inside the center's maturity ladder.",
+          "Partner with corporate development on acquisition financing and with Investor Relations on the balance-sheet story — net debt, free cash flow, and the capital return — so the equity narrative and the treasury book say the same thing.",
+          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasury in 2028, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
         ],
       },
     ],

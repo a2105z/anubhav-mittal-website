@@ -32,9 +32,9 @@ const TILES: { title: string; description: string }[] = [
       "Financial reporting, internal controls, SOX / ICFR, and external audit.",
   },
   {
-    title: "Treasury and capital structure",
+    title: "Treasury and capital markets",
     description:
-      "Liquidity, financing, cost of capital, and balance-sheet strategy.",
+      "Commercial paper, bond issuance, the bank group, ratings, liquidity, and cocoa, currency, and interest-rate hedges sized to the plan.",
   },
   {
     title: "Supply chain finance",
