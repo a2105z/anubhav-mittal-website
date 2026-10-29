@@ -94,10 +94,10 @@ const About: React.FC = () => {
                   </span>
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
-                  global corporate development and strategic finance. From 2027 to
-                  2028 he is Vice President, Treasury Capital Markets &amp;
+                  global corporate development and strategic finance. From 2026 to
+                  2027 he is Vice President, Treasury Capital Markets &amp;
                   Assistant Treasurer of Mondelez International, Inc. in
-                  Chicago, Illinois. From 2028 to 2030 he is Senior Vice
+                  Chicago, Illinois. From 2027 to 2030 he is Senior Vice
                   President, Global Financial Planning &amp; Analysis and
                   Treasury in Chicago, and from 2030 to 2034 he is Senior Vice
                   President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2034 to 2040

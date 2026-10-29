@@ -57,10 +57,10 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/mondelez.png",
     logoFull: true,
     location: "Chicago, Illinois, United States",
-    startDate: "2027",
+    startDate: "2026",
     endDate: "2034",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets & Assistant Treasurer, two years as Senior Vice President, Global Financial Planning & Analysis and Treasury, then four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Eight years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets & Assistant Treasurer, three years as Senior Vice President, Global Financial Planning & Analysis and Treasury, then four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Senior Vice President, Global Financial Planning & Analysis and Treasury",
-        dateRange: "2028 - 2030",
+        dateRange: "2027 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Step up from Vice President, Treasury Capital Markets & Assistant Treasurer into Senior Vice President, Global Financial Planning & Analysis and Treasury of Mondelez International from Chicago — one seat for the enterprise plan and the balance sheet of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
@@ -99,7 +99,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title:
           "Vice President, Treasury Capital Markets & Assistant Treasurer",
-        dateRange: "2027 - 2028",
+        dateRange: "2026 - 2027",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Vice President, Treasury Capital Markets & Assistant Treasurer of Mondelez International from Chicago — the debt stack, the rating, and the capital-markets book of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
@@ -111,7 +111,7 @@ export const EXPERIENCES: Experience[] = [
           "Run global liquidity — cash pooling, the in-house bank, and intercompany funding — so trapped cash comes back to Chicago and a currency move does not force a draw the plan did not approve.",
           "Hold guarantees, letters of credit, and subsidiary funding to the same cost-of-capital test as a bond, and keep the debt the regions use inside the center's maturity ladder.",
           "Partner with corporate development on acquisition financing and with Investor Relations on the balance-sheet story — net debt, free cash flow, and the capital return — so the equity narrative and the treasury book say the same thing.",
-          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasury in 2028, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
+          "Take this seat into Senior Vice President, Global Financial Planning & Analysis and Treasury in 2027, so the capital-markets book and the enterprise plan run from Chicago are the same system.",
         ],
       },
     ],
