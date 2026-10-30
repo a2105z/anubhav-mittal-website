@@ -30,14 +30,14 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/conagra.png",
     logoFull: true,
     location: "Chicago, Illinois, United States",
-    startDate: "2034",
+    startDate: "2033",
     endDate: "2040",
     summary:
-      "Six years as Executive Vice President and Chief Financial Officer of Conagra Brands, Inc., a Chicago packaged-food company with ~$12B of net sales across frozen meals, snacks, and grocery. He led treasury, controllership, capital allocation, and Investor Relations from the Merchandise Mart.",
+      "Seven years as Executive Vice President and Chief Financial Officer of Conagra Brands, Inc., a Chicago packaged-food company with ~$12B of net sales across frozen meals, snacks, and grocery. He led treasury, controllership, capital allocation, and Investor Relations from the Merchandise Mart.",
     roles: [
       {
         title: "Executive Vice President and Chief Financial Officer",
-        dateRange: "2034 - 2040",
+        dateRange: "2033 - 2040",
         location: "Chicago, Illinois, United States",
         highlights: [
           "Step up from Senior Vice President and Chief Financial Officer, North America at Mondelez to Executive Vice President and Chief Financial Officer of Conagra Brands from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, about $12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice.",
@@ -58,14 +58,14 @@ export const EXPERIENCES: Experience[] = [
     logoFull: true,
     location: "Chicago, Illinois, United States",
     startDate: "2026",
-    endDate: "2034",
+    endDate: "2033",
     summary:
-      "Eight years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets & Assistant Treasurer, three years as Senior Vice President, Global Financial Planning & Analysis and Treasury, then four years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. One year in Chicago as Vice President, Treasury Capital Markets & Assistant Treasurer, three years as Senior Vice President, Global Financial Planning & Analysis and Treasury, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
           "Senior Vice President and Chief Financial Officer, North America",
-        dateRange: "2030 - 2034",
+        dateRange: "2030 - 2033",
         location: "East Hanover, New Jersey, United States",
         highlights: [
           "Step up from Senior Vice President, Global Financial Planning & Analysis and Treasury to Senior Vice President and Chief Financial Officer, North America from East Hanover — Oreo, Ritz, and chocolate, about $11B of net revenue, with the plan, the cash, and the P&L in one office.",
@@ -75,7 +75,7 @@ export const EXPERIENCES: Experience[] = [
           "Lift trade-spend return and take roughly 10% of unproductive trade out of the plan, redirecting it to the brands and customers that were earning their cost.",
           "Improve regional ROIC ~+140 bps by holding CapEx and slotting investment to a Year-3 lookback, and fund the growth plan from cash the region generates.",
           "Hold North America's major investments to the cases approved with the Chicago treasury and planning team — revenue, margin, and cash — and build a finance bench the center can draw from.",
-          "Take this seat into Executive Vice President and Chief Financial Officer of Conagra Brands in 2034, so the North American P&L and the Chicago packaged-food plan are the same system.",
+          "Take this seat into Executive Vice President and Chief Financial Officer of Conagra Brands in 2033, so the North American P&L and the Chicago packaged-food plan are the same system.",
         ],
       },
       {

@@ -99,8 +99,8 @@ const About: React.FC = () => {
                   Assistant Treasurer of Mondelez International, Inc. in
                   Chicago, Illinois. From 2027 to 2030 he is Senior Vice
                   President, Global Financial Planning &amp; Analysis and
-                  Treasury in Chicago, and from 2030 to 2034 he is Senior Vice
-                  President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2034 to 2040
+                  Treasury in Chicago, and from 2030 to 2033 he is Senior Vice
+                  President and Chief Financial Officer, North America in East Hanover, New Jersey. From 2033 to 2040
                   he is Executive Vice President and Chief Financial Officer of
                   Conagra Brands, Inc. in Chicago, Illinois.
                 </motion.p>
