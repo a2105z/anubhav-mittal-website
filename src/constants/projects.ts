@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2033",
     summary:
-      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Two years in Chicago as Senior Vice President, Global Treasury, two years as Senior Vice President, Global Financial Planning & Analysis, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
+      "Seven years at Mondelez International, Inc., a global snacking company with ~$38.5B of net revenue in biscuits and chocolate. Two years in Chicago as Senior Vice President, Global Treasury & Capital Markets, two years as Senior Vice President, Global Financial Planning & Analysis, then three years as Senior Vice President and Chief Financial Officer, North America, an ~$11B business, from East Hanover, New Jersey.",
     roles: [
       {
         title:
@@ -83,7 +83,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2028 - 2030",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step up from Senior Vice President, Global Treasury into Senior Vice President, Global Financial Planning & Analysis of Mondelez International from Chicago — the enterprise plan of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step up from Senior Vice President, Global Treasury & Capital Markets into Senior Vice President, Global Financial Planning & Analysis of Mondelez International from Chicago — the enterprise plan of a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Own one enterprise plan: the annual operating plan, the rolling forecast, and the long-range plan, so a region, a category, and the Chicago review close on the same volume, price, and cocoa number.",
           "Hold every region to the same monthly review versus plan, forecast, and prior year, and close a volume, price, or cocoa gap in the forecast before it lands in the P&L.",
           "Build the long-range plan the categories fund against — price, mix, productivity, and brand investment — so a biscuit or a chocolate case is approved on cash the company will generate.",
@@ -93,11 +93,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Global Treasury",
+        title: "Senior Vice President, Global Treasury & Capital Markets",
         dateRange: "2026 - 2028",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Senior Vice President, Global Treasury of Mondelez International from Chicago — the debt stack, the rating, liquidity, and capital markets for a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
+          "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Senior Vice President, Global Treasury & Capital Markets of Mondelez International from Chicago — the debt stack, the rating, liquidity, and capital markets for a ~$38.5B snacking company, Oreo, Ritz, Cadbury, Milka, and Toblerone, sold in more than 150 countries.",
           "Run the investment-grade program: commercial paper, the bond calendar, and the maturity ladder, so a cocoa spike, a dividend, or a buyback does not land on a wall of refinancing.",
           "Lead issuance in dollars and euros, and in the local markets the cash pool draws on, and hold each deal to coupon, tenor, and the use of proceeds the Chief Financial Officer approved.",
           "Own the bank group, the revolving credit, and the committed lines, and keep that capacity sized to peak-season cocoa, inventory, and dividend cash without paying for a facility the forecast does not use.",
