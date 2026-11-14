@@ -13,7 +13,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
       >
-        Senior Vice President, Global Treasury &amp; Capital Markets
+        Vice President, Global Corporate Development and Strategic Finance
       </motion.p>
 
       <motion.p
@@ -26,7 +26,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white/90 text-sm sm:text-base tracking-tight"
       >
-        Mondelez International · Chicago
+        Archer-Daniels-Midland · Chicago
       </motion.p>
 
       <motion.p
