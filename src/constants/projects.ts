@@ -25,6 +25,36 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Church & Dwight Co., Inc. (NYSE : CHD)",
+    monogram: "CHD",
+    logo: "/icons/organizations/church-dwight.png",
+    location: "Ewing, New Jersey, United States",
+    startDate: "2035",
+    endDate: "2042",
+    summary:
+      "Seven years as President and Chief Executive Officer of Church & Dwight Co., Inc., a household and personal-care company with ~$6.2B of net sales, from Ewing, New Jersey. Arm & Hammer, OxiClean, Trojan, Waterpik, TheraBreath, Hero, and Touchland.",
+    roles: [
+      {
+        title: "President and Chief Executive Officer",
+        dateRange: "2035 - 2042",
+        location: "Ewing, New Jersey, United States",
+        highlights: [
+          "Step up from President and Chief Executive Officer of Central Garden & Pet to President and Chief Executive Officer of Church & Dwight from Ewing — Arm & Hammer, OxiClean, Trojan, Waterpik, TheraBreath, Hero, and Touchland, about $6.2B of net sales across Consumer Domestic, Consumer International, and Specialty Products, with the strategy, the P&L, and the cash in one office.",
+          "Run the company with the Board. The business presidents, the plants, and the power brands report to one operating plan, held to the same monthly review versus plan, forecast, and prior year.",
+          "Return organic net sales growth to about +4%, led by the power brands rather than price alone, and hold that result to the same variance cadence.",
+          "Lead sales and the commercial organization — price realization, distribution, and the customer book across mass, club, drug, and e-commerce — so a laundry reset and a personal-care promotion are won on volume and mix.",
+          "Hold trade spend to the customers and brands that earn their cost, and take the unproductive trade out of the plan.",
+          "Expand gross margin ~+80 bps and operating margin ~+50 bps — mix into Arm & Hammer, OxiClean, Waterpik, TheraBreath, Hero, and Touchland, productivity in the plants, and a cost the P&L keeps after a commodity move.",
+          "Release ~$150M of working capital across inventory, receivables, and payables without missing a peak season.",
+          "Own the portfolio — which power brands get the investment, which categories the company leaves — and hold each acquisition to return, cash, and a Year-3 lookback.",
+          "Take the capital structure, the dividend, and the investment agenda with the Chief Financial Officer, and fund the growth plan from cash the company generates.",
+          "Build the general-management bench: business presidents accountable for volume, margin, and cash, and a finance partner in each business the center can draw from.",
+          "Lead the public-company story for the New York Stock Exchange listing — earnings quality and the household and personal-care narrative — so the equity story and the P&L say the same thing.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Central Garden & Pet Company (NASDAQ : CENT)",
     monogram: "CENT",
     logo: "/icons/organizations/central-garden.png",
@@ -51,6 +81,7 @@ export const EXPERIENCES: Experience[] = [
           "Take the capital structure, the dividend, and the investment agenda with the Chief Financial Officer, and fund the growth plan from cash the company generates.",
           "Build the general-management bench: segment presidents accountable for volume, margin, and cash, and a finance partner in each business the center can draw from.",
           "Lead the public-company story for the Nasdaq listing — earnings quality and the pet and garden narrative across CENT and CENTA — so the equity story and the P&L say the same thing.",
+          "Take this seat into President and Chief Executive Officer of Church & Dwight in 2035, so the P&L run from San Francisco and the household and personal-care company run from Ewing are the same system.",
         ],
       },
       {
@@ -67,6 +98,7 @@ export const EXPERIENCES: Experience[] = [
           "Set one growth cadence with the segment presidents, so price, mix, distribution, and the pipeline close on the same volume and margin number.",
           "Set the commercial agenda with sales: which customers, channels, and doors earn the investment, and hold price, distribution, and trade to the volume and margin the plan approved.",
           "Partner with the sales leaders on the retailer book — the seasonal garden reset and the pet aisle — so a distribution gain and a promotion close on the same number as the strategy.",
+          "Temporarily co-operate the Pet segment business unit — Kaytee, Nylabone, and Aqueon — taking its volume, margin, sales, and cash with the segment while the strategy seat is still his.",
           "Hold each strategic initiative to a quarterly review versus the plan, and stop a program that is not earning its cost before it settles into the P&L.",
           "Take this seat into President and Chief Executive Officer in 2029, so the strategy built in San Francisco and the P&L of Pet and Garden are the same system.",
         ],
