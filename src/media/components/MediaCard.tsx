@@ -95,10 +95,10 @@ const MediaCard: React.FC<MediaCardProps> = ({
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, amount: 0.15 }}
         transition={{ duration: 0.6, delay, ease: [0.22, 1, 0.36, 1] }}
-        className="group block bg-white border border-slate-200 rounded-2xl overflow-hidden shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover hover:border-slate-300"
+        className="group block bg-white border border-slate-200 overflow-hidden transition-colors hover:border-slate-300"
       >
         <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]">
-          <div className="relative aspect-[16/9] md:aspect-auto md:min-h-[420px] overflow-hidden bg-brand-navy">
+          <div className="relative aspect-[16/9] md:aspect-auto md:min-h-[280px] overflow-hidden bg-brand-navy">
             <CoverArtInner
               publication={article.publication}
               publicationLabel={article.publicationLabel}
@@ -108,7 +108,7 @@ const MediaCard: React.FC<MediaCardProps> = ({
             <div className="hidden md:block absolute inset-y-0 right-0 w-16 bg-gradient-to-r from-transparent to-white/95 pointer-events-none" />
           </div>
 
-          <div className="p-6 sm:p-8 md:p-10 lg:p-12 flex flex-col justify-center">
+          <div className="p-6 sm:p-8 flex flex-col justify-center">
             <div className="flex items-center gap-3 text-[11px] uppercase tracking-eyebrow">
               <span className="inline-flex items-center gap-1.5 text-brand-bronze font-medium">
                 <span className="h-1.5 w-1.5 rounded-full bg-brand-bronze" />
@@ -124,7 +124,7 @@ const MediaCard: React.FC<MediaCardProps> = ({
               )}
             </div>
 
-            <h3 className="mt-4 text-brand-ink text-2xl sm:text-3xl md:text-[1.9rem] lg:text-4xl font-semibold tracking-tight leading-[1.15]">
+            <h3 className="mt-3 text-brand-ink text-xl sm:text-[1.45rem] font-medium tracking-tight leading-snug">
               {article.title}
             </h3>
 
@@ -151,7 +151,7 @@ const MediaCard: React.FC<MediaCardProps> = ({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.15 }}
       transition={{ duration: 0.55, delay, ease: [0.22, 1, 0.36, 1] }}
-      className="group block bg-white border border-slate-200 rounded-2xl overflow-hidden shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover hover:border-slate-300"
+      className="group block bg-white border border-slate-200 overflow-hidden transition-colors hover:border-slate-300"
     >
       <div className="relative aspect-[16/9] w-full overflow-hidden bg-brand-navy">
         <CoverArtInner
@@ -162,7 +162,7 @@ const MediaCard: React.FC<MediaCardProps> = ({
         />
       </div>
 
-      <div className="p-6 sm:p-7">
+      <div className="p-5">
         <div className="flex items-center justify-between gap-3 text-[11px] uppercase tracking-eyebrow">
           <span className="text-brand-bronze">{article.publication}</span>
           {article.date && (
@@ -170,7 +170,7 @@ const MediaCard: React.FC<MediaCardProps> = ({
           )}
         </div>
 
-        <h3 className="mt-3 text-brand-ink text-lg sm:text-xl font-semibold tracking-tight leading-snug">
+        <h3 className="mt-2.5 text-brand-ink text-[16px] font-medium tracking-tight leading-snug">
           {article.title}
         </h3>
 

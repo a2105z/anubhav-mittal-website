@@ -2,67 +2,63 @@ import { motion } from "framer-motion";
 
 const TILES: { title: string; description: string }[] = [
   {
-    title: "Enterprise CFO",
+    title: "P&L leadership",
     description:
-      "The finance mandate at scale — capital, cash, the operating plan, and the conversation with the CEO and the board.",
+      "The operating plan, volume, margin, and cash — owned with the business, not beside it.",
   },
   {
-    title: "Financial Planning and Analysis",
+    title: "Commercial execution",
     description:
-      "Annual operating plans, rolling forecasts, long-range plans, and monthly performance reviews.",
+      "Price, distribution, trade, and the retailer book, closed against the plan.",
   },
   {
-    title: "Capital Allocation",
+    title: "Capital allocation",
     description:
-      "Investment frameworks, return thresholds, and governance for CapEx, M&A, and organic growth.",
+      "Where capital goes across brands, capacity, and acquisitions, held to return.",
   },
   {
-    title: "Mergers & Acquisitions",
+    title: "Portfolio and M&A",
     description:
-      "Acquisitions, divestitures, and joint ventures from evaluation through close, integration, and value capture.",
+      "Acquisitions and divestitures from the case through integration and value capture.",
   },
   {
-    title: "Investor Relations",
+    title: "Operating cadence",
     description:
-      "Earnings, board reporting, and the equity narrative for public and PE-backed companies.",
+      "Reviews versus plan, forecast, and prior year, with a short list of decisions.",
   },
   {
-    title: "Controllership",
+    title: "Supply and margin",
     description:
-      "Financial reporting, internal controls, SOX / ICFR, and external audit.",
+      "Cost, mix, plants, and inventory sized to the shelf and the season.",
   },
   {
-    title: "Treasury and capital markets",
+    title: "Board and investors",
     description:
-      "Commercial paper, bond issuance, the bank group, ratings, liquidity, and cocoa, currency, and interest-rate hedges sized to the plan.",
+      "The equity story, the dividend, and the conversation with the board.",
   },
   {
-    title: "Supply chain finance",
+    title: "Category leadership",
     description:
-      "Pricing, cost, inventory, manufacturing performance, and S&OP alignment.",
+      "Pet and garden brands run as a portfolio, with growth where the shelf pays.",
   },
 ];
 
 const Expertise: React.FC = () => {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 border-t border-l border-slate-200">
       {TILES.map((tile, i) => (
         <motion.div
           key={tile.title}
-          initial={{ opacity: 0, y: 12 }}
+          initial={{ opacity: 0, y: 8 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.2 }}
-          transition={{
-            duration: 0.45,
-            delay: i * 0.04,
-            ease: [0.22, 1, 0.36, 1],
-          }}
-          className="bg-white border border-slate-200 rounded-2xl p-5 shadow-card"
+          transition={{ duration: 0.4, delay: i * 0.03 }}
+          className="border-r border-b border-slate-200 px-5 py-5"
         >
-          <h4 className="text-brand-ink text-[15px] font-semibold tracking-tight">
+          <h4 className="text-brand-ink text-[14px] font-medium tracking-tight">
             {tile.title}
           </h4>
-          <p className="mt-2 text-[13.5px] leading-relaxed text-slate-500">
+          <p className="mt-1.5 text-[13px] leading-relaxed text-slate-500">
             {tile.description}
           </p>
         </motion.div>

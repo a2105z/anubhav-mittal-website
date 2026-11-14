@@ -25,75 +25,26 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
-    company: "Conagra Brands, Inc. (NYSE : CAG)",
-    monogram: "CAG",
-    logo: "/icons/organizations/conagra.png",
-    logoFull: true,
-    location: "Chicago, Illinois, United States",
-    startDate: "2036",
-    endDate: "2042",
-    summary:
-      "Six years as President and Chief Executive Officer of Conagra Brands, Inc., a Chicago packaged-food company with ~$12B of net sales across frozen meals, snacks, and grocery, from the Merchandise Mart. Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip.",
-    roles: [
-      {
-        title: "President and Chief Executive Officer",
-        dateRange: "2036 - 2042",
-        location: "Chicago, Illinois, United States",
-        highlights: [
-          "Lead Conagra Brands as President and Chief Executive Officer from Chicago — Birds Eye, Healthy Choice, Marie Callender's, Slim Jim, Duncan Hines, and Reddi-wip, ~$12B of net sales across Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice — with strategy, the P&L, sales, and cash in one office.",
-          "Partner with the Board and the Executive Leadership Team to run one operating plan versus plan, forecast, and prior year, including the Walmart book at nearly 30% of sales — returning organic net sales growth to about +3%, led by frozen and snacks on volume and mix.",
-          "Lead sales and the commercial organization with the segment presidents — price, distribution, trade, and the customer book — so a frozen reset and a snack promotion close on the volume, margin, and cash the plan approved.",
-          "Drive margin and cash performance across plants and brands — gross margin ~+80 bps, operating margin ~+50 bps, and ~$180M of working capital released across inventory, receivables, and payables — without missing a reset or a promotion.",
-          "Lead portfolio actions, capital structure, and the dividend with the Chief Financial Officer, holding acquisitions and plant cases to return, cash, and a Year-3 lookback.",
-        ],
-      },
-    ],
-  },
-  {
     company: "Central Garden & Pet Company (NASDAQ : CENT)",
     monogram: "CENT",
     logo: "/icons/organizations/central-garden.png",
     logoFull: true,
     location: "San Francisco, California, United States",
     startDate: "2026",
-    endDate: "2036",
+    endDate: "Present",
     summary:
-      "Ten years at Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California. Five years as Senior Vice President and Chief Strategy Officer, including three years from 2028 also as Senior Vice President and President, Pet Consumer Products, then five years as President and Chief Executive Officer.",
+      "Chief Executive Officer of Central Garden & Pet Company, a consumer packaged goods company in pet and garden with about $3.1 billion of net sales and more than 60 brands, based in San Francisco.",
     roles: [
       {
-        title: "President and Chief Executive Officer",
-        dateRange: "2031 - 2036",
+        title: "Chief Executive Officer",
+        dateRange: "2026 — Present",
         location: "San Francisco, California, United States",
         highlights: [
-          "Lead Central Garden & Pet as President and Chief Executive Officer from 2031, stepping up from Senior Vice President and Chief Strategy Officer and Senior Vice President and President, Pet Consumer Products — Pennington, Kaytee, Nylabone, and Aqueon, ~$3.1B of net sales across Pet and Garden.",
-          "Partner with the Board and the Executive Leadership Team to run one operating plan versus plan, forecast, and prior year — returning organic net sales growth to about +4%, with volume positive in pet consumables and garden.",
-          "Lead sales and the commercial organization with the segment presidents — price, distribution, trade, and the customer book — so a garden season and a pet reset close on the volume and mix the plan approved.",
-          "Drive margin and cash performance across plants and brands — gross margin ~+100 bps, operating margin ~+70 bps, and ~$90M of working capital released — and hold acquisitions and capacity cases to return, cash, and a Year-3 lookback.",
-          "Set capital structure, the dividend, and the public-company story with the Chief Financial Officer across CENT and CENTA, and take the seat into President and Chief Executive Officer of Conagra Brands in 2036.",
-        ],
-      },
-      {
-        title: "Senior Vice President and President, Pet Consumer Products",
-        dateRange: "2028 - 2031",
-        location: "San Francisco, California, United States",
-        highlights: [
-          "From 2028, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President and Chief Strategy Officer — Kaytee, Nylabone, and Aqueon — with the pet P&L and the company strategy in one office.",
-          "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — and deliver the segment on volume and mix.",
-          "Run the pet business ahead of plan on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
-          "Keep the strategy mandate while running the business, so capital, portfolio choices, and the Board stay on the same volume, margin, and cash the pet plan uses.",
-          "Take both seats into President and Chief Executive Officer of Central Garden & Pet in 2031.",
-        ],
-      },
-      {
-        title: "Senior Vice President and Chief Strategy Officer",
-        dateRange: "2026 - 2031",
-        location: "San Francisco, California, United States",
-        highlights: [
-          "Lead enterprise strategy, capital allocation, and portfolio governance across Pet and Garden for Central Garden & Pet, a ~$3.1B company — Pennington, Kaytee, Nylabone, and Aqueon — with more than 95% of sales in the United States.",
-          "Partner with the CEO, CFO, and the Board, including William E. Brown, Chairman and founder, to set the long-range plan and investment cases through business cases, return thresholds, and a review cadence tied to volume, margin, and cash.",
-          "Partner with segment presidents, sales, and commercial leaders on price, distribution, trade, and the retailer book — the seasonal garden reset and the pet aisle — so growth priorities close on the plan.",
-          "From 2028, hold this seat together with Senior Vice President and President, Pet Consumer Products, so company strategy and the pet P&L close on the same volume, margin, and cash.",
-          "Lead acquisitions, brand investment, and capacity from evaluation through execution, holding each case to return, cash, and a Year-3 lookback, and take both seats into President and Chief Executive Officer in 2031.",
+          "Lead Central Garden & Pet as Chief Executive Officer — Pennington, Kaytee, Nylabone, and Aqueon — across Pet and Garden, with the operating plan, commercial agenda, and capital decisions in one office.",
+          "Set strategy and the P&L with the Board and the executive team, and run the company against plan, forecast, and prior year.",
+          "Direct commercial execution with the segment presidents — price, distribution, trade, and the retailer book — so a garden season and a pet reset close on the volume and mix the plan set.",
+          "Hold margin, cash, and portfolio actions to return: productivity in the plants, working capital that still covers the shelf, and acquisitions judged on cash and a Year-3 lookback.",
+          "Own the public-company narrative with the Chief Financial Officer across CENT and CENTA, including capital structure and the dividend.",
         ],
       },
     ],

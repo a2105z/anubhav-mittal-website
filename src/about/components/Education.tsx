@@ -75,7 +75,7 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
       delay: index * 0.08,
       ease: [0.22, 1, 0.36, 1],
     }}
-    className="bg-white border border-slate-200 rounded-2xl p-5 sm:p-6 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover flex flex-col h-full"
+    className="bg-white border border-slate-200 p-5 flex flex-col h-full"
   >
     <div className="flex items-start gap-4">
       <LogoBlock
@@ -95,7 +95,7 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
             </span>
           )}
         </div>
-        <h4 className="mt-1.5 text-brand-ink text-lg font-semibold tracking-tight leading-snug">
+        <h4 className="mt-1 text-brand-ink text-[16px] font-medium tracking-tight leading-snug">
           {entry.institution}
         </h4>
         <p className="mt-1 text-[14.5px] text-slate-700">{entry.degree}</p>

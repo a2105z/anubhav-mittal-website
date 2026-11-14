@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
   return (
-    <div className="space-y-3 sm:space-y-4">
+    <div className="space-y-2.5">
       <motion.p
         initial={{ opacity: 0, y: 8 }}
         animate={{ opacity: 1, y: 0 }}
@@ -11,9 +11,9 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
           duration: 0.6,
           ease: [0.22, 1, 0.36, 1],
         }}
-        className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
+        className="text-white font-light text-[1.15rem] leading-snug sm:text-[1.35rem] tracking-tight"
       >
-        Senior Vice President and Chief Strategy Officer
+        Chief Executive Officer
       </motion.p>
 
       <motion.p
@@ -24,9 +24,11 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
           duration: 0.6,
           ease: [0.22, 1, 0.36, 1],
         }}
-        className="text-white/90 text-sm sm:text-base tracking-tight"
+        className="text-white/75 text-[13px] sm:text-sm tracking-wide"
       >
-        Central Garden &amp; Pet · San Francisco
+        Central Garden &amp; Pet
+        <span className="mx-2 text-white/30">·</span>
+        San Francisco
       </motion.p>
 
       <motion.p
@@ -37,10 +39,9 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
           duration: 0.6,
           ease: [0.22, 1, 0.36, 1],
         }}
-        className="text-white/80 text-xs sm:text-sm uppercase tracking-eyebrow"
+        className="pt-1 text-[11px] sm:text-xs uppercase tracking-eyebrow text-brand-gold/90"
       >
-        CFA  ·  CPA  ·  CMA  ·  MSA, Illinois Gies School of Business  ·  MBA,
-        Harvard Business School
+        CPG Operating Executive
       </motion.p>
     </div>
   );

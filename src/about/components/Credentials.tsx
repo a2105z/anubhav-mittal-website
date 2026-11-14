@@ -47,7 +47,7 @@ const Credentials: React.FC = () => {
             delay: i * 0.08,
             ease: [0.22, 1, 0.36, 1],
           }}
-          className="bg-white border border-slate-200 rounded-2xl p-5 sm:p-6 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover"
+          className="bg-white border border-slate-200 p-5"
         >
           <div className="flex items-start gap-4">
             <LogoBlock
@@ -60,7 +60,7 @@ const Credentials: React.FC = () => {
               <p className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
                 {c.year}
               </p>
-              <h4 className="mt-1 text-brand-ink text-lg font-semibold tracking-tight">
+              <h4 className="mt-1 text-brand-ink text-[16px] font-medium tracking-tight">
                 {c.title}
               </h4>
               <p className="mt-0.5 text-[14.5px] text-slate-600">{c.issuer}</p>

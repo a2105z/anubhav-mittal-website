@@ -1,12 +1,19 @@
 import Wrapper from "../../shared/components/Wrapper";
+import SectionHeader from "../../shared/components/SectionHeader";
 import ExperienceItem from "../components/ExperienceItem";
 import { EXPERIENCES } from "../../constants/projects";
 
 const Experience: React.FC = () => {
   return (
     <div className="bg-white">
-      <section className="pt-28 sm:pt-36 pb-24 sm:pb-32">
+      <section className="pt-24 sm:pt-28 pb-16 sm:pb-20">
         <Wrapper>
+          <SectionHeader
+            eyebrow="Experience"
+            title="Operating career"
+            description="Chief Executive Officer of Central Garden & Pet. Prior roles in consumer packaged goods, agribusiness, and advisory."
+          />
+          <div className="mt-10">
           <ol className="relative">
             {EXPERIENCES.map((experience, index) => {
               const isFirst = index === 0;
@@ -15,7 +22,7 @@ const Experience: React.FC = () => {
               return (
                 <li
                   key={`${experience.company}-${index}`}
-                  className="relative grid grid-cols-[auto_minmax(0,1fr)] sm:grid-cols-[160px_auto_minmax(0,2fr)] gap-x-4 sm:gap-x-8 pb-10 sm:pb-12 last:pb-0"
+                  className="relative grid grid-cols-[auto_minmax(0,1fr)] sm:grid-cols-[148px_auto_minmax(0,2fr)] gap-x-4 sm:gap-x-6 pb-8 last:pb-0"
                 >
                   {/* Date column (desktop) */}
                   <div className="hidden sm:flex items-start justify-end pt-7 pr-1">
@@ -55,6 +62,7 @@ const Experience: React.FC = () => {
               );
             })}
           </ol>
+          </div>
         </Wrapper>
       </section>
     </div>

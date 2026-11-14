@@ -40,10 +40,10 @@ const SectionHeader: React.FC<SectionHeaderProps> = ({
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, amount: 0.5 }}
         transition={{ duration: 0.55, delay: 0.05 }}
-        className={`mt-2 font-light tracking-tight leading-tight ${titleColor} ${
+        className={`mt-1.5 font-light tracking-tight leading-tight ${titleColor} ${
           nowrap
-            ? "whitespace-nowrap text-[clamp(1.2rem,3.6vw,2.6rem)]"
-            : "text-3xl sm:text-4xl md:text-[2.6rem]"
+            ? "whitespace-nowrap text-[clamp(1.15rem,3.2vw,2rem)]"
+            : "text-[1.7rem] sm:text-[2rem]"
         }`}
       >
         {title}
@@ -54,7 +54,7 @@ const SectionHeader: React.FC<SectionHeaderProps> = ({
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.4 }}
           transition={{ duration: 0.55, delay: 0.12 }}
-          className={`mt-4 text-base sm:text-lg leading-relaxed ${descColor}`}
+          className={`mt-3 text-[15px] sm:text-base leading-relaxed ${descColor}`}
         >
           {description}
         </motion.p>

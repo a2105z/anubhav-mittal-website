@@ -72,17 +72,17 @@ const ContactForm: React.FC = () => {
   return (
     <div className="bg-white">
       {/* Header */}
-      <section className="pt-28 sm:pt-36 pb-10">
+      <section className="pt-24 sm:pt-28 pb-8">
         <Wrapper>
           <SectionHeader
             eyebrow="Contact"
-            title="Get in touch."
-            description="For board service, advisory mandates, speaking engagements, or media inquiries — please share a brief note below."
+            title="Get in touch"
+            description="Board, speaking, and media. A short note is enough."
           />
         </Wrapper>
       </section>
 
-      <section className="pb-24 sm:pb-32">
+      <section className="pb-16 sm:pb-20">
         <Wrapper>
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
             {/* Form */}
@@ -91,7 +91,7 @@ const ContactForm: React.FC = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true, amount: 0.2 }}
               transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
-              className="lg:col-span-7 bg-white border border-slate-200 rounded-2xl p-6 sm:p-8 shadow-card"
+              className="lg:col-span-7 bg-white border border-slate-200 p-6 sm:p-7"
             >
               {status === "success" ? (
                 <div className="py-10 text-center">
@@ -199,7 +199,7 @@ const ContactForm: React.FC = () => {
                   <button
                     type="submit"
                     disabled={status === "submitting"}
-                    className="group inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-6 py-3 text-sm font-medium tracking-wide transition-all hover:bg-brand-ink hover:shadow-soft disabled:opacity-60 disabled:cursor-not-allowed"
+                    className="group inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-5 py-2.5 text-[13px] font-medium tracking-wide transition-colors hover:bg-brand-ink disabled:opacity-60 disabled:cursor-not-allowed"
                   >
                     {status === "submitting" ? "Sending…" : "Send message"}
                     {status !== "submitting" && (
@@ -239,7 +239,7 @@ const ContactForm: React.FC = () => {
                 href={LINKEDIN_LINK}
                 target="_blank"
                 rel="noreferrer"
-                className="group block bg-white border border-slate-200 rounded-2xl p-6 shadow-card transition-all hover:-translate-y-0.5 hover:shadow-cardHover"
+                className="group block bg-white border border-slate-200 p-5 transition-colors hover:border-slate-300"
               >
                 <div className="flex items-start gap-4">
                   <div className="h-12 w-12 rounded-xl bg-brand-navy/5 flex items-center justify-center text-brand-navy group-hover:bg-brand-navy group-hover:text-white transition-colors">
@@ -273,15 +273,15 @@ const ContactForm: React.FC = () => {
                 </div>
               </a>
 
-              <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-card">
+              <div className="bg-white border border-slate-200 p-5">
                 <p className="text-[11.5px] uppercase tracking-eyebrow text-brand-bronze">
-                  Based in
+                  Office
                 </p>
-                <p className="mt-1 text-brand-ink text-[15.5px] font-semibold tracking-tight">
+                <p className="mt-1 text-brand-ink text-[15px] font-medium tracking-tight">
                   {LOCATION}
                 </p>
-                <p className="mt-1 text-[13.5px] text-slate-500">
-                  Greater Chicago Area
+                <p className="mt-1 text-[13px] text-slate-500">
+                  Central Garden &amp; Pet
                 </p>
               </div>
             </motion.aside>

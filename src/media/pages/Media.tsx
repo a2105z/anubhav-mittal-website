@@ -46,12 +46,12 @@ const PROFILES: MediaArticle[] = [
 const Media: React.FC = () => {
   return (
     <div className="bg-white min-h-[calc(100vh-4rem)]">
-      <section className="pt-28 sm:pt-36 pb-10 sm:pb-14">
+      <section className="pt-24 sm:pt-28 pb-8">
         <Wrapper>
           <SectionHeader
             eyebrow="Media"
-            title="Featured commentary and press."
-            description="Selected features and profiles on Anubhav's work in finance, corporate development, and value creation."
+            title="Selected press"
+            description="Profiles on his work as a CPG operating executive — capital, transactions, and how the business is run."
           />
         </Wrapper>
       </section>
@@ -62,7 +62,7 @@ const Media: React.FC = () => {
         </Wrapper>
       </section>
 
-      <section className="pb-24 sm:pb-32">
+      <section className="pb-16 sm:pb-20">
         <Wrapper>
           <div className="mt-6 sm:mt-8">
             <div className="flex items-center gap-4 mb-6 sm:mb-8">
@@ -84,7 +84,7 @@ const Media: React.FC = () => {
           </div>
 
           <div className="mt-14 sm:mt-20">
-            <div className="bg-brand-mist/60 border border-slate-200/70 rounded-2xl px-6 py-6 sm:px-8 sm:py-7 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+            <div className="border border-slate-200 px-5 py-5 sm:px-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
               <div>
                 <p className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
                   Media inquiries
@@ -99,7 +99,7 @@ const Media: React.FC = () => {
               </div>
               <Link
                 to="/contact"
-                className="inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-5 py-2.5 text-sm font-medium tracking-wide transition-all hover:bg-brand-ink hover:shadow-soft"
+                className="inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-5 py-2.5 text-[13px] font-medium tracking-wide transition-colors hover:bg-brand-ink"
               >
                 Get in touch
                 <svg

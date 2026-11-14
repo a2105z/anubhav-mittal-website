@@ -61,7 +61,7 @@ export interface BackgroundPathsProps {
 
 export function BackgroundPaths({ children }: BackgroundPathsProps) {
   return (
-    <div className="relative h-[100dvh] min-h-[560px] w-full flex items-center justify-center overflow-hidden bg-navy-radial px-4">
+    <div className="relative min-h-[100dvh] w-full flex items-center justify-center overflow-hidden bg-navy-radial px-4 py-24">
       {/* Subtle grain / vignette */}
       <div className="pointer-events-none absolute inset-0 opacity-60">
         <FloatingPaths position={1} />

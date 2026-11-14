@@ -22,7 +22,7 @@ const TILES: Tile[] = [
   {
     eyebrow: "Citizenship",
     title: "United States citizen",
-    description: "Resident of Chicago, Illinois.",
+    description: "Based in San Francisco.",
   },
 ];
 
@@ -50,12 +50,12 @@ const Personal: React.FC = () => {
               delay: i * 0.07,
               ease: [0.22, 1, 0.36, 1],
             }}
-            className="bg-white border border-slate-200 rounded-2xl p-6 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-cardHover"
+            className="border border-slate-200 p-5"
           >
             <p className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
               {tile.eyebrow}
             </p>
-            <h4 className="mt-2 text-brand-ink text-base sm:text-lg font-semibold tracking-tight leading-snug">
+            <h4 className="mt-1.5 text-brand-ink text-[15px] font-medium tracking-tight leading-snug">
               {tile.title}
             </h4>
             <p className="mt-3 text-[13.5px] leading-relaxed text-slate-600">
@@ -70,7 +70,7 @@ const Personal: React.FC = () => {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, amount: 0.3 }}
         transition={{ duration: 0.5, delay: 0.25, ease: [0.22, 1, 0.36, 1] }}
-        className="bg-brand-mist/60 border border-slate-200/70 rounded-2xl p-6 sm:p-7"
+        className="border border-slate-200 px-5 py-4"
       >
         <p className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
           Interests
@@ -79,7 +79,7 @@ const Personal: React.FC = () => {
           {INTERESTS.map((label) => (
             <span
               key={label}
-              className="inline-flex items-center bg-white border border-slate-200 rounded-full px-3.5 py-1.5 text-[13px] text-slate-700 shadow-card"
+              className="inline-flex items-center border border-slate-200 px-3 py-1 text-[12.5px] text-slate-600"
             >
               {label}
             </span>

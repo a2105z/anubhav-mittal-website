@@ -13,15 +13,13 @@ const PortraitFrame: React.FC = () => {
 
   return (
     <motion.div
-      initial={{ opacity: 0, x: -24 }}
-      whileInView={{ opacity: 1, x: 0 }}
+      initial={{ opacity: 0, y: 12 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.3 }}
-      transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
-      className="relative w-full max-w-[420px] mx-auto md:mx-0"
+      transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+      className="relative w-full max-w-[280px] mx-auto md:mx-0"
     >
-      <div className="absolute -top-4 -left-4 w-full h-full rounded-2xl bg-brand-navy/5" />
-      <div className="absolute -bottom-4 -right-4 w-24 h-24 rounded-2xl bg-brand-bronze/10" />
-      <div className="relative aspect-[4/5] w-full rounded-2xl overflow-hidden border border-slate-200 shadow-soft bg-gradient-to-br from-brand-navy to-brand-slate">
+      <div className="relative aspect-[4/5] w-full overflow-hidden border border-slate-200 bg-brand-navy">
         {!errored ? (
           <img
             src={assetPath("/images/anubhav.png")}
@@ -31,10 +29,7 @@ const PortraitFrame: React.FC = () => {
           />
         ) : (
           <div className="w-full h-full flex flex-col items-center justify-center text-white p-8 text-center">
-            <p className="font-serif text-7xl tracking-wide">AM</p>
-            <p className="mt-4 text-[11px] uppercase tracking-eyebrow text-white/60">
-              Anubhav Mittal
-            </p>
+            <p className="font-serif text-6xl tracking-wide">AM</p>
           </div>
         )}
       </div>
@@ -42,163 +37,131 @@ const PortraitFrame: React.FC = () => {
   );
 };
 
+const STATS = [
+  { value: "$3.1B", label: "Company net sales" },
+  { value: "30+", label: "Years in CPG" },
+  { value: "$12B+", label: "Transactions led" },
+];
+
 const About: React.FC = () => {
   return (
     <div className="bg-white">
-      {/* Bio */}
-      <section className="pt-28 sm:pt-36 pb-16 sm:pb-24">
+      <section className="pt-24 sm:pt-28 pb-12 sm:pb-16">
         <Wrapper>
-          <div className="grid grid-cols-1 md:grid-cols-12 gap-10 md:gap-16 items-start">
-            <div className="md:col-span-5 lg:col-span-4">
+          <div className="grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-12 items-start">
+            <div className="md:col-span-4 lg:col-span-3 flex flex-col items-center md:items-start">
               <PortraitFrame />
+              <p className="mt-4 text-[11px] uppercase tracking-eyebrow text-slate-400 text-center md:text-left max-w-[280px]">
+                Chief Executive Officer
+                <span className="block mt-1 normal-case tracking-normal text-[13px] text-slate-500">
+                  Central Garden &amp; Pet · San Francisco
+                </span>
+              </p>
             </div>
 
-            <div className="md:col-span-7 lg:col-span-8">
+            <div className="md:col-span-8 lg:col-span-9">
               <SectionHeader
                 eyebrow="About"
-                title="North American CPG and agribusiness finance"
+                title="CPG operating executive"
               />
 
-              <div className="mt-8 space-y-5 text-[16px] sm:text-[17px] leading-[1.75] text-slate-700">
+              <div className="mt-6 max-w-2xl space-y-4 text-[15px] leading-[1.7] text-slate-600">
                 <motion.p
-                  initial={{ opacity: 0, y: 10 }}
+                  initial={{ opacity: 0, y: 8 }}
                   whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true, amount: 0.3 }}
-                  transition={{ duration: 0.55, delay: 0.05 }}
+                  viewport={{ once: true, amount: 0.4 }}
+                  transition={{ duration: 0.45 }}
                 >
-                  Anubhav Mittal is Senior Vice President and Chief
-                  Strategy Officer at Central Garden &amp; Pet Company in San
-                  Francisco, California. He has more than 30 years of
-                  experience in senior finance across North American consumer
-                  packaged goods and agribusiness, including treasury, capital
-                  markets, and service as a business-unit chief financial
-                  officer.
+                  Anubhav Mittal is Chief Executive Officer of Central Garden
+                  &amp; Pet Company. He is a consumer packaged goods operating
+                  executive with more than 30 years across branded CPG and
+                  agribusiness — P&amp;L, commercial planning, and the capital
+                  decisions that sit behind them.
                 </motion.p>
-
                 <motion.p
-                  initial={{ opacity: 0, y: 10 }}
+                  initial={{ opacity: 0, y: 8 }}
                   whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true, amount: 0.3 }}
-                  transition={{ duration: 0.55, delay: 0.12 }}
+                  viewport={{ once: true, amount: 0.4 }}
+                  transition={{ duration: 0.45, delay: 0.06 }}
                 >
-                  His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Central Garden &amp; Pet Company, and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
-                  North America, a business of approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $9&nbsp;billion
-                  </span>
-                  . At ADM, he served as Vice President and Chief
-                  Financial Officer, Nutrition (approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $8&nbsp;billion
-                  </span>
-                  ) and as Vice President and Chief Financial Officer,
-                  Global Pet Solutions, and later led
-                  global corporate development and strategic finance. From 2026 to
-                  2031 he is Senior Vice President and Chief Strategy Officer
-                  of Central Garden &amp; Pet Company in San Francisco, California,
-                  and from 2028 to 2031 he also serves as Senior Vice President
-                  and President, Pet Consumer Products. From 2031 to 2036 he is
-                  President and Chief Executive Officer of the company. From
-                  2036 to 2042 he is President
-                  and Chief Executive Officer of Conagra Brands, Inc. in
-                  Chicago, Illinois.
-                </motion.p>
-
-                <motion.p
-                  initial={{ opacity: 0, y: 10 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true, amount: 0.3 }}
-                  transition={{ duration: 0.55, delay: 0.19 }}
-                >
-                  He has led or co-led approximately{" "}
-                  <span className="text-brand-ink font-semibold">
-                    $12&nbsp;billion
-                  </span>{" "}
-                  of transactions, including post-close integration and value
+                  Before Central, he held senior operating and finance roles at
+                  Kellogg Company and Archer-Daniels-Midland. At Kellogg he led
+                  financial planning and strategy for North America, a business
+                  of about $9&nbsp;billion. At ADM he served as Vice President
+                  and Chief Financial Officer of Nutrition, about
+                  $8&nbsp;billion, and of Global Pet Solutions, then led global
+                  corporate development. He has led or co-led about
+                  $12&nbsp;billion of transactions through close and value
                   capture.
                 </motion.p>
-
                 <motion.p
-                  initial={{ opacity: 0, y: 10 }}
+                  initial={{ opacity: 0, y: 8 }}
                   whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true, amount: 0.3 }}
-                  transition={{ duration: 0.55, delay: 0.26 }}
+                  viewport={{ once: true, amount: 0.4 }}
+                  transition={{ duration: 0.45, delay: 0.12 }}
                 >
-                  He began his career at Hindustan Unilever Limited and later served
-                  as a senior officer in the Indian Civil Services. He was
-                  awarded the President of India Gold Medal. He holds an MBA
-                  from Harvard Business School, an MSA from the University of
+                  He began at Hindustan Unilever and later served as a senior
+                  officer in the Indian Civil Services. He holds an MBA from
+                  Harvard Business School, an MSA from the University of
                   Illinois Gies College of Business, and a B.Tech from IIT
-                  Kanpur, where he graduated in the top 5% of his class. He
-                  is a CFA charterholder, a CPA, and a CMA. He lives in
-                  Chicago.
+                  Kanpur. He is a CFA charterholder, a CPA, and a CMA.
                 </motion.p>
               </div>
 
-              {/* Quick stats */}
-              <motion.div
-                initial={{ opacity: 0, y: 14 }}
+              <motion.dl
+                initial={{ opacity: 0, y: 8 }}
                 whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.3 }}
-                transition={{ duration: 0.55, delay: 0.32 }}
-                className="mt-10 grid grid-cols-3 gap-4 sm:gap-6 border-t border-slate-200 pt-8"
+                viewport={{ once: true, amount: 0.4 }}
+                transition={{ duration: 0.45, delay: 0.16 }}
+                className="mt-8 grid grid-cols-3 gap-4 max-w-lg border-t border-slate-200 pt-6"
               >
-                {[
-                  { value: "$8B", label: "Division as CFO" },
-                  { value: "$12B+", label: "Transactions led" },
-                  { value: "30+", label: "Years of experience" },
-                ].map((stat) => (
+                {STATS.map((stat) => (
                   <div key={stat.label}>
-                    <p className="text-2xl sm:text-3xl font-light tracking-tight text-brand-ink">
-                      {stat.value}
-                    </p>
-                    <p className="mt-1 text-[11px] uppercase tracking-eyebrow text-slate-400">
+                    <dt className="text-[11px] uppercase tracking-eyebrow text-slate-400">
                       {stat.label}
-                    </p>
+                    </dt>
+                    <dd className="mt-1 text-xl font-light tracking-tight text-brand-ink">
+                      {stat.value}
+                    </dd>
                   </div>
                 ))}
-              </motion.div>
+              </motion.dl>
             </div>
           </div>
         </Wrapper>
       </section>
 
-      {/* Areas of Expertise */}
-      <section className="py-16 sm:py-24 bg-brand-mist/60 border-y border-slate-200/70">
+      <section className="py-12 sm:py-14 border-t border-slate-200">
         <Wrapper>
-          <SectionHeader title="Areas of expertise" />
-          <div className="mt-10 sm:mt-12">
+          <SectionHeader eyebrow="Focus" title="How he operates" />
+          <div className="mt-7">
             <Expertise />
           </div>
         </Wrapper>
       </section>
 
-      {/* Education */}
-      <section className="py-16 sm:py-24">
+      <section className="py-12 sm:py-14 border-t border-slate-200">
         <Wrapper>
-          <SectionHeader eyebrow="Education" title="Where he studied." />
-          <div className="mt-10">
+          <SectionHeader eyebrow="Education" title="Academic background" />
+          <div className="mt-7">
             <Education />
           </div>
         </Wrapper>
       </section>
 
-      {/* Credentials */}
-      <section className="py-16 sm:py-24 bg-brand-mist/60 border-y border-slate-200/70">
+      <section className="py-12 sm:py-14 border-t border-slate-200">
         <Wrapper>
-          <SectionHeader title="Professional credentials" />
-          <div className="mt-10">
+          <SectionHeader eyebrow="Credentials" title="Professional standing" />
+          <div className="mt-7">
             <Credentials />
           </div>
         </Wrapper>
       </section>
 
-      {/* Personal */}
-      <section className="pb-20 sm:pb-28">
+      <section className="py-12 sm:py-16 border-t border-slate-200">
         <Wrapper>
-          <SectionHeader title="Honors and interests" />
-          <div className="mt-10 sm:mt-12">
+          <SectionHeader eyebrow="Personal" title="Honors" />
+          <div className="mt-7">
             <Personal />
           </div>
         </Wrapper>

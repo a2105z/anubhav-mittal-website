@@ -20,12 +20,12 @@ const Hero: React.FC = () => {
             duration: 0.8,
             ease: [0.22, 1, 0.36, 1],
           }}
-          className="text-white font-light text-[2.6rem] leading-[1.05] sm:text-6xl md:text-[5.25rem] md:leading-[1.02] tracking-tight"
+          className="text-white font-light text-[2.35rem] leading-[1.05] sm:text-5xl md:text-[4.25rem] md:leading-[1.02] tracking-tight"
         >
           Anubhav Mittal
         </motion.h1>
 
-        <div className="h-px w-24 sm:w-32 bg-gradient-to-r from-brand-gold/70 to-transparent my-6 sm:my-8" />
+        <div className="h-px w-16 bg-brand-gold/50 my-5 sm:my-6" />
 
         <Subheader delay={ANIMATION_OFFSET + 0.2} />
 
@@ -37,13 +37,13 @@ const Hero: React.FC = () => {
             duration: 0.7,
             ease: [0.22, 1, 0.36, 1],
           }}
-          className="mt-9 sm:mt-12 flex flex-wrap items-center gap-3 sm:gap-4"
+          className="mt-8 sm:mt-10 flex flex-wrap items-center gap-2.5"
         >
           <Link
             to="/about"
-            className="group inline-flex items-center gap-2 rounded-full bg-white text-brand-navy px-6 py-3 text-sm font-medium tracking-wide transition-all hover:bg-brand-ivory hover:shadow-soft"
+            className="group inline-flex items-center gap-2 rounded-full bg-white text-brand-navy px-5 py-2.5 text-[13px] font-medium tracking-wide transition-colors hover:bg-brand-ivory"
           >
-            About Anubhav
+            Profile
             <svg
               width="14"
               height="14"
@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
 
           <Link
             to="/contact"
-            className="inline-flex items-center gap-2 rounded-full border border-white/25 text-white/90 px-6 py-3 text-sm font-medium tracking-wide transition-all hover:border-white/60 hover:text-white"
+            className="inline-flex items-center gap-2 rounded-full border border-white/45 text-white px-5 py-2.5 text-[13px] font-medium tracking-wide transition-colors hover:border-white hover:bg-white/10"
           >
             Get in touch
           </Link>
@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
             target="_blank"
             rel="noreferrer"
             aria-label="LinkedIn"
-            className="inline-flex items-center justify-center h-11 w-11 rounded-full border border-white/20 text-white/80 transition-all hover:border-white/60 hover:text-white"
+            className="inline-flex items-center justify-center h-10 w-10 rounded-full border border-white/20 text-white/75 transition-colors hover:border-white/50 hover:text-white"
           >
             <FontAwesomeIcon icon={faLinkedin} />
           </a>

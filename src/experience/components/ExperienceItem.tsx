@@ -44,10 +44,10 @@ const ExperienceItem: React.FC<ExperienceItemProps> = ({
       whileInView="visible"
       viewport={{ once: true, amount: 0.15 }}
       custom={delay}
-      className="bg-white border border-slate-200 rounded-2xl shadow-card overflow-hidden transition-all duration-300 hover:shadow-cardHover"
+      className="bg-white border border-slate-200 overflow-hidden"
     >
       {/* Company header */}
-      <div className="px-5 sm:px-6 py-5 sm:py-6 flex gap-4 sm:gap-5 items-start border-b border-slate-200/70 bg-gradient-to-br from-white to-brand-mist/40">
+      <div className="px-5 py-5 flex gap-4 items-start border-b border-slate-200">
         <LogoBlock
           src={experience.logo}
           monogram={experience.monogram}
@@ -57,17 +57,17 @@ const ExperienceItem: React.FC<ExperienceItemProps> = ({
           contain={!experience.logoFull}
         />
         <div className="flex-1 min-w-0">
-          <h3 className="text-brand-ink text-lg sm:text-xl font-semibold tracking-tight">
+          <h3 className="text-brand-ink text-base sm:text-[17px] font-medium tracking-tight">
             {experience.company}
           </h3>
-          <p className="mt-3 text-[14.5px] leading-relaxed text-slate-600">
+          <p className="mt-2 text-[13.5px] leading-relaxed text-slate-500">
             {experience.summary}
           </p>
         </div>
       </div>
 
       {/* Roles */}
-      <div className="px-5 sm:px-6 py-5 sm:py-6 space-y-5 sm:space-y-6">
+      <div className="px-5 py-5 space-y-5">
         {experience.roles.map((role, idx) => (
           <motion.div
             key={`${role.title}-${idx}`}
@@ -81,7 +81,7 @@ const ExperienceItem: React.FC<ExperienceItemProps> = ({
             <span className="absolute left-[3px] top-3 bottom-0 w-px bg-slate-200" />
 
             <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
-              <h4 className="text-brand-ink text-[15.5px] sm:text-base font-semibold tracking-tight">
+              <h4 className="text-brand-ink text-[14.5px] font-medium tracking-tight">
                 {role.title}
               </h4>
               <p className="text-[11.5px] uppercase tracking-eyebrow text-slate-400 whitespace-nowrap">

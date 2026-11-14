@@ -9,8 +9,12 @@ const Footer: React.FC = () => {
       <div className="mx-auto w-full max-w-[1400px] px-5 sm:px-8 py-8 sm:py-10">
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <div>
-            <p className="text-brand-ink text-[14.5px] font-semibold tracking-tight">
-              Anubhav Mittal, CFA, CPA, CMA
+            <p className="text-brand-ink text-[13.5px] tracking-tight">
+              Anubhav Mittal
+              <span className="text-slate-400">
+                {" "}
+                · Chief Executive Officer, Central Garden &amp; Pet
+              </span>
             </p>
           </div>
 
