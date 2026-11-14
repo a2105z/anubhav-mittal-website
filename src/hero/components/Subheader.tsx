@@ -13,7 +13,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[1.25rem] leading-[1.3] sm:text-[1.5rem] md:text-[1.7rem] tracking-tight"
       >
-        Vice President, Global Corporate Development and Strategic Finance
+        Senior Vice President and Chief Strategy Officer
       </motion.p>
 
       <motion.p
@@ -26,7 +26,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white/90 text-sm sm:text-base tracking-tight"
       >
-        Archer-Daniels-Midland · Chicago
+        Central Garden &amp; Pet · San Francisco
       </motion.p>
 
       <motion.p

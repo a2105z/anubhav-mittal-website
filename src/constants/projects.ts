@@ -25,6 +25,33 @@ export type Experience = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Central Garden & Pet Company (NASDAQ : CENT)",
+    monogram: "CENT",
+    logo: "/icons/organizations/central-garden.png",
+    logoFull: true,
+    location: "San Francisco, California, United States",
+    startDate: "2026",
+    endDate: "2028",
+    summary:
+      "Two years as Senior Vice President and Chief Strategy Officer of Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California.",
+    roles: [
+      {
+        title: "Senior Vice President and Chief Strategy Officer",
+        dateRange: "2026 - 2028",
+        location: "San Francisco, California, United States",
+        highlights: [
+          "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Senior Vice President and Chief Strategy Officer of Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales, with more than 95% of sales in the United States.",
+          "Own the company strategy with the Chief Executive Officer: where Pet and Garden grow, which brands earn the investment, and which categories the company leaves.",
+          "Build the long-range plan the Board funds against — price, mix, distribution, and brand investment — so a growth case is approved on cash the company will generate.",
+          "Lead the portfolio agenda across Pet and Garden — acquisitions, brand investment, and capacity — from the case through execution, holding each deal to return, cash, and a Year-3 lookback.",
+          "Partner with the Chief Financial Officer on the capital the strategy uses, and keep the investment agenda on the same cash the plan funds.",
+          "Set one growth cadence with the segment presidents, so price, mix, distribution, and the pipeline close on the same volume and margin number.",
+          "Hold each strategic initiative to a quarterly review versus the plan, and stop a program that is not earning its cost before it settles into the P&L.",
+        ],
+      },
+    ],
+  },
+  {
     company: "Archer-Daniels-Midland Company (NYSE : ADM)",
     monogram: "ADM",
     logo: "/icons/organizations/adm.png",

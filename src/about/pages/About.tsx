@@ -66,9 +66,9 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.05 }}
                 >
-                  Anubhav Mittal is Vice President, Global Corporate
-                  Development and Strategic Finance at Archer-Daniels-Midland
-                  Company in Chicago, Illinois. He has more than 30 years of
+                  Anubhav Mittal is Senior Vice President and Chief
+                  Strategy Officer at Central Garden &amp; Pet Company in San
+                  Francisco, California. He has more than 30 years of
                   experience in senior finance across North American consumer
                   packaged goods and agribusiness, including treasury, capital
                   markets, and service as a business-unit chief financial
@@ -81,8 +81,8 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.3 }}
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
-                  His career includes Kellogg Company and Archer-Daniels-Midland
-                  Company. At Kellogg, he led FP&amp;A and strategy for
+                  His career includes Kellogg Company, Archer-Daniels-Midland
+                  Company, and Central Garden &amp; Pet Company. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -94,7 +94,9 @@ const About: React.FC = () => {
                   </span>
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
-                  global corporate development and strategic finance.
+                  global corporate development and strategic finance. From 2026 to
+                  2028 he is Senior Vice President and Chief Strategy Officer
+                  of Central Garden &amp; Pet Company in San Francisco, California.
                 </motion.p>
 
                 <motion.p
