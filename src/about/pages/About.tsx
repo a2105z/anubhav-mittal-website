@@ -98,9 +98,9 @@ const About: React.FC = () => {
                   2029 he is Senior Vice President and Chief Strategy Officer
                   of Central Garden &amp; Pet Company in San Francisco, California,
                   and from 2029 to 2035 he is President and Chief Executive
-                  Officer of the company. From 2035 to 2042 he is President
+                  Officer of the company. From 2035 to 2045 he is President
                   and Chief Executive Officer of Conagra Brands, Inc. in
-                  Chicago, Illinois.
+                  Chicago, Illinois, and retires from the company in 2045.
                 </motion.p>
 
                 <motion.p
