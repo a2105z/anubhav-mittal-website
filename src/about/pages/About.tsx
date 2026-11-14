@@ -98,7 +98,7 @@ const About: React.FC = () => {
                   2030 he is Senior Vice President and Chief Strategy Officer
                   of Central Garden &amp; Pet Company in San Francisco, California,
                   and from 2028 to 2030 he also serves as Senior Vice President
-                  and President Pet Consumer Products. From 2030 to 2035 he is
+                  and President, Pet Consumer Products. From 2030 to 2035 he is
                   President and Chief Executive Officer of the company. From
                   2035 to 2042 he is President
                   and Chief Executive Officer of Conagra Brands, Inc. in
