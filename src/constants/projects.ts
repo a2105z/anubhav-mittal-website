@@ -31,13 +31,29 @@ export const EXPERIENCES: Experience[] = [
     logoFull: true,
     location: "San Francisco, California, United States",
     startDate: "2026",
-    endDate: "2028",
+    endDate: "2035",
     summary:
-      "Two years as Senior Vice President and Chief Strategy Officer of Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California.",
+      "Nine years at Central Garden & Pet Company, a pet and garden company with ~$3.1B of net sales and more than 60 brands, from San Francisco, California. Three years as Senior Vice President and Chief Strategy Officer, then six years as President and Chief Executive Officer.",
     roles: [
       {
+        title: "President and Chief Executive Officer",
+        dateRange: "2029 - 2035",
+        location: "San Francisco, California, United States",
+        highlights: [
+          "Step up from Senior Vice President and Chief Strategy Officer to President and Chief Executive Officer of Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales across Pet and Garden, with the strategy, the P&L, and the cash in one office.",
+          "Run the company with the Board. The segment presidents, the plants, and the brands report to one operating plan, held to the same monthly review versus plan, forecast, and prior year.",
+          "Return organic net sales growth to about +4%, with volume positive in pet consumables and garden rather than price alone, and hold that result to the same variance cadence.",
+          "Expand gross margin ~+100 bps and operating margin ~+70 bps — mix into the brands that earn their shelf, productivity in the plants, and a cost the P&L keeps after a commodity move.",
+          "Release ~$90M of working capital across inventory, receivables, and payables without missing a garden season or a pet reset.",
+          "Own the portfolio set in the strategy seat — which brands get the investment, which categories the company leaves — and hold each acquisition and each capacity case to return, cash, and a Year-3 lookback.",
+          "Take the capital structure, the dividend, and the investment agenda with the Chief Financial Officer, and fund the growth plan from cash the company generates.",
+          "Build the general-management bench: segment presidents accountable for volume, margin, and cash, and a finance partner in each business the center can draw from.",
+          "Lead the public-company story for the Nasdaq listing — earnings quality and the pet and garden narrative across CENT and CENTA — so the equity story and the P&L say the same thing.",
+        ],
+      },
+      {
         title: "Senior Vice President and Chief Strategy Officer",
-        dateRange: "2026 - 2028",
+        dateRange: "2026 - 2029",
         location: "San Francisco, California, United States",
         highlights: [
           "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Senior Vice President and Chief Strategy Officer of Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales, with more than 95% of sales in the United States.",
@@ -47,6 +63,7 @@ export const EXPERIENCES: Experience[] = [
           "Partner with the Chief Financial Officer on the capital the strategy uses, and keep the investment agenda on the same cash the plan funds.",
           "Set one growth cadence with the segment presidents, so price, mix, distribution, and the pipeline close on the same volume and margin number.",
           "Hold each strategic initiative to a quarterly review versus the plan, and stop a program that is not earning its cost before it settles into the P&L.",
+          "Take this seat into President and Chief Executive Officer in 2029, so the strategy built in San Francisco and the P&L of Pet and Garden are the same system.",
         ],
       },
     ],

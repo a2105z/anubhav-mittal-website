@@ -95,8 +95,10 @@ const About: React.FC = () => {
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
-                  2028 he is Senior Vice President and Chief Strategy Officer
-                  of Central Garden &amp; Pet Company in San Francisco, California.
+                  2029 he is Senior Vice President and Chief Strategy Officer
+                  of Central Garden &amp; Pet Company in San Francisco, California,
+                  and from 2029 to 2035 he is President and Chief Executive
+                  Officer of the company.
                 </motion.p>
 
                 <motion.p
