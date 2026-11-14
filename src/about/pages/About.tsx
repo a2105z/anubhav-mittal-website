@@ -95,12 +95,12 @@ const About: React.FC = () => {
                   ) and as Vice President and Chief Financial Officer,
                   Global Pet Solutions, and later led
                   global corporate development and strategic finance. From 2026 to
-                  2029 he is Senior Vice President and Chief Strategy Officer
+                  2030 he is Senior Vice President and Chief Strategy Officer
                   of Central Garden &amp; Pet Company in San Francisco, California,
-                  and from 2029 to 2035 he is President and Chief Executive
-                  Officer of the company. From 2035 to 2045 he is President
+                  and from 2030 to 2035 he is President and Chief Executive
+                  Officer of the company. From 2035 to 2042 he is President
                   and Chief Executive Officer of Conagra Brands, Inc. in
-                  Chicago, Illinois, and retires from the company in 2045.
+                  Chicago, Illinois.
                 </motion.p>
 
                 <motion.p
