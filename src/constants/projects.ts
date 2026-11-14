@@ -60,6 +60,7 @@ export const EXPERIENCES: Experience[] = [
         highlights: [
           "Step from Vice President, Global Corporate Development and Strategic Finance at Archer-Daniels-Midland into Senior Vice President and Chief Strategy Officer of Central Garden & Pet Company from San Francisco — Pennington, Kaytee, Nylabone, and Aqueon, about $3.1B of net sales, with more than 95% of sales in the United States.",
           "Own the company strategy with the Chief Executive Officer: where Pet and Garden grow, which brands earn the investment, and which categories the company leaves.",
+          "Take that strategy to the Board, and to William E. Brown, the Chairman and founder — the long-range plan, the portfolio choices, and the investment cases — and keep that conversation on the same volume, margin, and cash the operating plan uses.",
           "Build the long-range plan the Board funds against — price, mix, distribution, and brand investment — so a growth case is approved on cash the company will generate.",
           "Lead the portfolio agenda across Pet and Garden — acquisitions, brand investment, and capacity — from the case through execution, holding each deal to return, cash, and a Year-3 lookback.",
           "Partner with the Chief Financial Officer on the capital the strategy uses, and keep the investment agenda on the same cash the plan funds.",
