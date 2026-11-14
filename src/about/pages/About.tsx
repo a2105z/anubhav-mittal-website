@@ -82,7 +82,7 @@ const About: React.FC = () => {
                   transition={{ duration: 0.55, delay: 0.12 }}
                 >
                   His career includes Kellogg Company, Archer-Daniels-Midland
-                  Company, Central Garden &amp; Pet Company, and Church &amp; Dwight Co., Inc. At Kellogg, he led FP&amp;A and strategy for
+                  Company, Central Garden &amp; Pet Company, and Conagra Brands, Inc. At Kellogg, he led FP&amp;A and strategy for
                   North America, a business of approximately{" "}
                   <span className="text-brand-ink font-semibold">
                     $9&nbsp;billion
@@ -99,8 +99,8 @@ const About: React.FC = () => {
                   of Central Garden &amp; Pet Company in San Francisco, California,
                   and from 2029 to 2035 he is President and Chief Executive
                   Officer of the company. From 2035 to 2042 he is President
-                  and Chief Executive Officer of Church &amp; Dwight Co., Inc.
-                  in Ewing, New Jersey.
+                  and Chief Executive Officer of Conagra Brands, Inc. in
+                  Chicago, Illinois.
                 </motion.p>
 
                 <motion.p
