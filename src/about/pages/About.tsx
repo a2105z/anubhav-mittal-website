@@ -52,7 +52,7 @@ const About: React.FC = () => {
             <div className="md:col-span-4 lg:col-span-3 flex flex-col items-center md:items-start">
               <PortraitFrame />
               <p className="mt-4 text-[11px] uppercase tracking-eyebrow text-slate-400 text-center md:text-left max-w-[280px]">
-                Chief Executive Officer
+                President and Chief Executive Officer
                 <span className="block mt-1 normal-case tracking-normal text-[13px] text-slate-500">
                   Central Garden &amp; Pet · San Francisco
                 </span>
@@ -72,11 +72,12 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.4 }}
                   transition={{ duration: 0.45 }}
                 >
-                  Anubhav Mittal is Chief Executive Officer of Central Garden
-                  &amp; Pet Company. He joined in 2026 as Senior Vice President
-                  and Chief Strategy Officer and, from 2028, also served as
-                  Senior Vice President and President, Pet Consumer Products,
-                  before becoming Chief Executive Officer in 2031. He is a
+                  Anubhav Mittal is President and Chief Executive Officer of
+                  Central Garden &amp; Pet Company. He joined in 2026 as Senior
+                  Vice President and Chief Strategy Officer and, from 2028,
+                  also served as Senior Vice President and President, Pet
+                  Consumer Products, before becoming President and Chief
+                  Executive Officer in 2031. He is a
                   consumer packaged goods operating executive with more than 30
                   years across branded CPG and agribusiness — P&amp;L,
                   commercial planning, and the capital decisions that sit

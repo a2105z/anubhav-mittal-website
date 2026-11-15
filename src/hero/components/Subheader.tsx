@@ -13,7 +13,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
         }}
         className="text-white font-light text-[1.15rem] leading-snug sm:text-[1.35rem] tracking-tight"
       >
-        Chief Executive Officer
+        President and Chief Executive Officer
       </motion.p>
 
       <motion.p

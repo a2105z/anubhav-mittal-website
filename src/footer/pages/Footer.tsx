@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Anubhav Mittal
               <span className="text-slate-400">
                 {" "}
-                · Chief Executive Officer, Central Garden &amp; Pet
+                · President and Chief Executive Officer, Central Garden &amp; Pet
               </span>
             </p>
           </div>

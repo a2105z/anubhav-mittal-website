@@ -33,14 +33,14 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "Present",
     summary:
-      "At Central Garden & Pet Company, a pet and garden company with about $3.1 billion of net sales and more than 60 brands, based in San Francisco. Senior Vice President and Chief Strategy Officer from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then Chief Executive Officer from 2031.",
+      "At Central Garden & Pet Company, a pet and garden company with about $3.1 billion of net sales and more than 60 brands, based in San Francisco. Senior Vice President and Chief Strategy Officer from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then President and Chief Executive Officer from 2031.",
     roles: [
       {
-        title: "Chief Executive Officer",
+        title: "President and Chief Executive Officer",
         dateRange: "2031 — Present",
         location: "San Francisco, California, United States",
         highlights: [
-          "Lead Central Garden & Pet as Chief Executive Officer from 2031, after Senior Vice President and Chief Strategy Officer and Senior Vice President and President, Pet Consumer Products — Pennington, Kaytee, Nylabone, and Aqueon — across Pet and Garden.",
+          "Lead Central Garden & Pet as President and Chief Executive Officer from 2031, after Senior Vice President and Chief Strategy Officer and Senior Vice President and President, Pet Consumer Products — Pennington, Kaytee, Nylabone, and Aqueon — across Pet and Garden.",
           "Set strategy and the P&L with the Board and the executive team, and run the company against plan, forecast, and prior year.",
           "Direct commercial execution with the segment presidents — price, distribution, trade, and the retailer book — so a garden season and a pet reset close on the volume and mix the plan set.",
           "Hold margin, cash, and portfolio actions to return: productivity in the plants, working capital that still covers the shelf, and acquisitions judged on cash and a Year-3 lookback.",
