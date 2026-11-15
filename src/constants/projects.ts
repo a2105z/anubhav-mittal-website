@@ -33,18 +33,41 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "Present",
     summary:
-      "Chief Executive Officer of Central Garden & Pet Company, a consumer packaged goods company in pet and garden with about $3.1 billion of net sales and more than 60 brands, based in San Francisco.",
+      "At Central Garden & Pet Company, a pet and garden company with about $3.1 billion of net sales and more than 60 brands, based in San Francisco. Senior Vice President and Chief Strategy Officer from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then Chief Executive Officer from 2031.",
     roles: [
       {
         title: "Chief Executive Officer",
-        dateRange: "2026 — Present",
+        dateRange: "2031 — Present",
         location: "San Francisco, California, United States",
         highlights: [
-          "Lead Central Garden & Pet as Chief Executive Officer — Pennington, Kaytee, Nylabone, and Aqueon — across Pet and Garden, with the operating plan, commercial agenda, and capital decisions in one office.",
+          "Lead Central Garden & Pet as Chief Executive Officer from 2031, after Senior Vice President and Chief Strategy Officer and Senior Vice President and President, Pet Consumer Products — Pennington, Kaytee, Nylabone, and Aqueon — across Pet and Garden.",
           "Set strategy and the P&L with the Board and the executive team, and run the company against plan, forecast, and prior year.",
           "Direct commercial execution with the segment presidents — price, distribution, trade, and the retailer book — so a garden season and a pet reset close on the volume and mix the plan set.",
           "Hold margin, cash, and portfolio actions to return: productivity in the plants, working capital that still covers the shelf, and acquisitions judged on cash and a Year-3 lookback.",
           "Own the public-company narrative with the Chief Financial Officer across CENT and CENTA, including capital structure and the dividend.",
+        ],
+      },
+      {
+        title: "Senior Vice President and President, Pet Consumer Products",
+        dateRange: "2028 — 2031",
+        location: "San Francisco, California, United States",
+        highlights: [
+          "From 2028, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President and Chief Strategy Officer — Kaytee, Nylabone, and Aqueon — with the pet P&L and the company strategy in one office.",
+          "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — and deliver the segment on volume and mix.",
+          "Run the pet business on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
+          "Keep the strategy mandate while running the business, so capital, portfolio choices, and the Board stay on the same volume, margin, and cash the pet plan uses.",
+        ],
+      },
+      {
+        title: "Senior Vice President and Chief Strategy Officer",
+        dateRange: "2026 — 2031",
+        location: "San Francisco, California, United States",
+        highlights: [
+          "Lead enterprise strategy, capital allocation, and portfolio governance across Pet and Garden for Central Garden & Pet, a company of about $3.1 billion — Pennington, Kaytee, Nylabone, and Aqueon — with more than 95% of sales in the United States.",
+          "Partner with the CEO, the CFO, and the Board, including William E. Brown, Chairman and founder, on the long-range plan, return thresholds, and a review cadence tied to volume, margin, and cash.",
+          "Partner with segment presidents and commercial leaders on price, distribution, trade, and the retailer book — the seasonal garden reset and the pet aisle — so growth priorities close on the plan.",
+          "From 2028, hold this seat together with Senior Vice President and President, Pet Consumer Products, so company strategy and the pet P&L close on the same volume, margin, and cash.",
+          "Lead acquisitions, brand investment, and capacity from evaluation through execution, holding each case to return, cash, and a Year-3 lookback.",
         ],
       },
     ],
