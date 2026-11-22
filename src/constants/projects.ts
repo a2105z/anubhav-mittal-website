@@ -30,10 +30,10 @@ export const EXPERIENCES: Experience[] = [
     logo: "/icons/organizations/central-garden.png",
     logoFull: true,
     location: "San Francisco, California, United States",
-    startDate: "2026",
+    startDate: "2027",
     endDate: "2042",
     summary:
-      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then President and Chief Executive Officer from 2032 to 2042, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
+      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2027, also Senior Vice President and President, Pet Consumer Products from 2029, then President and Chief Executive Officer from 2032 to 2042, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
     roles: [
       {
         title: "President and Chief Executive Officer",
@@ -49,10 +49,10 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title: "Senior Vice President and President, Pet Consumer Products",
-        dateRange: "2028 — 2032",
+        dateRange: "2029 — 2032",
         location: "San Francisco, California, United States",
         highlights: [
-          "From 2028, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
+          "From 2029, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
           "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — delivering the segment on volume and mix against plan, forecast, and prior year.",
           "Run the pet business ahead of plan on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
           "Partner with supply chain, plant, and finance leaders on cost, inventory, and the seasonal reset — holding brand investment and capacity cases to return, cash, and a Year-3 lookback.",
@@ -61,13 +61,13 @@ export const EXPERIENCES: Experience[] = [
       },
       {
         title: "Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer)",
-        dateRange: "2026 — 2032",
+        dateRange: "2027 — 2032",
         location: "San Francisco, California, United States",
         highlights: [
           "Lead enterprise strategy, capital allocation, and portfolio governance across Pet and Garden for Central Garden & Pet, a ~$3.1B company — Pennington, Kaytee, Nylabone, and Aqueon — with more than 95% of sales in the United States.",
           "Partner with the CEO, CFO, and the Board, including William E. Brown, Chairman and founder, to set the long-range plan and investment cases through business cases, return thresholds, and a review cadence tied to volume, margin, and cash.",
           "Partner with segment presidents, sales, and commercial leaders on price, distribution, trade, and the retailer book — the seasonal garden reset and the pet aisle — so growth priorities close on the plan.",
-          "From 2028, hold this seat together with Senior Vice President and President, Pet Consumer Products, so company strategy and the pet P&L close on the same volume, margin, and cash.",
+          "From 2029, hold this seat together with Senior Vice President and President, Pet Consumer Products, so company strategy and the pet P&L close on the same volume, margin, and cash.",
           "Lead acquisitions, brand investment, and capacity from evaluation through execution — holding each case to return, cash, and a Year-3 lookback — and take both seats into President and Chief Executive Officer in 2032.",
         ],
       },
