@@ -2,20 +2,31 @@ import Wrapper from "../../shared/components/Wrapper";
 import SectionHeader from "../../shared/components/SectionHeader";
 import MediaCard, { MediaArticle } from "../components/MediaCard";
 
-const FEATURED: MediaArticle = {
-  publication: "USA Today",
-  publicationLabel: "USA Today",
-  url: "https://www.usatoday.com/press-release/story/38024/anubhav-mittal-brings-10b-ma-track-record-to-adms-global-strategy/",
-  title:
-    "Anubhav Mittal Brings $10B Mergers & Acquisitions Track Record to ADM's Global Strategy",
-  summary:
-    "A national feature detailing Anubhav's ~$10B in strategic transactions and his mandate directing ADM's global corporate development agenda across acquisitions, divestitures, joint ventures, and capital investments.",
-  date: "July 2026",
-  cover: "/media/usatoday.png",
-  accent: "from-[#0b1b2b] via-[#12263d] to-[#050b13]",
-};
-
-const PROFILES: MediaArticle[] = [
+const ARTICLES: MediaArticle[] = [
+  {
+    publication: "USA Today",
+    publicationLabel: "USA Today",
+    url: "https://www.usatoday.com/press-release/story/38024/anubhav-mittal-brings-10b-ma-track-record-to-adms-global-strategy/",
+    title:
+      "Anubhav Mittal Brings $10B Mergers & Acquisitions Track Record to ADM's Global Strategy",
+    summary:
+      "A national feature on roughly $10B in strategic transactions and the mandate across acquisitions, divestitures, joint ventures, and capital investments.",
+    date: "July 2026",
+    cover: "/media/usatoday.png",
+    accent: "from-[#0b1b2b] via-[#12263d] to-[#050b13]",
+  },
+  {
+    publication: "Social Media Explorer",
+    publicationLabel: "Social Media Explorer",
+    url: "https://socialmediaexplorer.com/content-sections/precision-at-scale-the-career-and-professional-philosophy-of-anubhav-mittal/",
+    title:
+      "Precision at Scale: The Career and Professional Philosophy of Anubhav Mittal",
+    summary:
+      "A career retrospective on the operating and transaction record built across ADM, Kellogg, and Booz.",
+    date: "June 2026",
+    cover: "/media/sme.png",
+    accent: "from-[#102033] via-brand-navy to-[#071018]",
+  },
   {
     publication: "FingerLakes1.com",
     publicationLabel: "FingerLakes1",
@@ -23,7 +34,7 @@ const PROFILES: MediaArticle[] = [
     title:
       "Anubhav Mittal on CFO Leadership, Corporate Development, Capital Discipline, and What It Takes to Drive Real Value",
     summary:
-      "A long-form profile on the blend of operator and dealmaker capabilities behind roughly $10B in transactions. Walks through the discipline behind his work at ADM, Kellogg, and Booz.",
+      "A long-form profile on the operator and dealmaker work behind roughly $10B in transactions at ADM, Kellogg, and Booz.",
     date: "April 2026",
     cover: "/media/fingerlakes1.png",
     accent: "from-[#1d3550] via-brand-navy to-[#060f1a]",
@@ -35,7 +46,7 @@ const PROFILES: MediaArticle[] = [
     title:
       "Anubhav Mittal: Finance Leader, Mergers & Acquisitions Strategist, and Value Creator at a Global Scale",
     summary:
-      "A profile examining the academic foundations and strategic execution behind roughly $10B in transactions. Frames his career as built at the intersection of capital allocation and corporate strategy.",
+      "A profile on the academic foundation and the execution behind roughly $10B in transactions.",
     date: "April 2026",
     cover: "/media/republicaneagle.png",
     accent: "from-[#3a1a1a] via-[#1c1410] to-brand-ink",
@@ -55,31 +66,16 @@ const Media: React.FC = () => {
         </Wrapper>
       </section>
 
-      <section className="pb-8 sm:pb-10">
-        <Wrapper>
-          <MediaCard article={FEATURED} featured delay={0} />
-        </Wrapper>
-      </section>
-
       <section className="pb-16 sm:pb-20">
         <Wrapper>
-          <div className="mt-6 sm:mt-8">
-            <div className="flex items-center gap-4 mb-6 sm:mb-8">
-              <span className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
-                Executive Profiles
-              </span>
-              <span className="h-px flex-1 bg-slate-200" />
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
-              {PROFILES.map((article, idx) => (
-                <MediaCard
-                  key={article.url}
-                  article={article}
-                  delay={0.06 + idx * 0.06}
-                />
-              ))}
-            </div>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {ARTICLES.map((article, idx) => (
+              <MediaCard
+                key={article.url}
+                article={article}
+                delay={0.04 + idx * 0.05}
+              />
+            ))}
           </div>
 
           <div className="mt-14 sm:mt-20">

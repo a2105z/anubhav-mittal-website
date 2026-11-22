@@ -170,11 +170,11 @@ const MediaCard: React.FC<MediaCardProps> = ({
           )}
         </div>
 
-        <h3 className="mt-2.5 text-brand-ink text-[17px] sm:text-lg font-medium tracking-tight leading-snug">
+        <h3 className="mt-2.5 text-brand-ink text-[15px] font-medium tracking-tight leading-snug line-clamp-4">
           {article.title}
         </h3>
 
-        <p className="mt-3 text-[14.5px] leading-relaxed text-slate-600">
+        <p className="mt-3 text-[13.5px] leading-relaxed text-slate-600 line-clamp-4">
           {article.summary}
         </p>
 
