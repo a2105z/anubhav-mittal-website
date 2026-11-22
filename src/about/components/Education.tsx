@@ -120,20 +120,11 @@ const EducationCard: React.FC<{ entry: EducationEntry; index: number }> = ({
 );
 
 const Education: React.FC = () => {
-  const [featured, ...rest] = ENTRIES;
-
   return (
-    <div className="flex flex-col gap-5">
-      <div className="flex justify-center">
-        <div className="w-full md:w-[calc(50%-0.625rem)]">
-          <EducationCard entry={featured} index={0} />
-        </div>
-      </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-        {rest.map((entry, i) => (
-          <EducationCard key={entry.institution} entry={entry} index={i + 1} />
-        ))}
-      </div>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      {ENTRIES.map((entry, i) => (
+        <EducationCard key={entry.institution} entry={entry} index={i} />
+      ))}
     </div>
   );
 };
