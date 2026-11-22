@@ -22,7 +22,7 @@ const ENTRIES: EducationEntry[] = [
     institution: "Harvard Business School",
     location: "Boston, Massachusetts, United States",
     degree: "Master in Business Administration (MBA)",
-    concentration: "Concentration in Finance and Strategy",
+    concentration: "Concentration in Finance, Strategy, and General Management",
     dates: "2005 – 2007",
     kind: "Degree",
     honors: [
@@ -48,17 +48,6 @@ const ENTRIES: EducationEntry[] = [
     ],
     coursework:
       "Coursework spanned thermodynamics, fluid mechanics, manufacturing systems, control systems, and applied mathematics — alongside leadership and student-led initiatives across hostel and academic life.",
-  },
-  {
-    logo: "/icons/organizations/uiuc.png",
-    monogram: "UIUC",
-    institution: "University of Illinois Urbana-Champaign",
-    location: "Urbana-Champaign, Illinois, United States",
-    degree: "Master of Science (MS), Accountancy",
-    dates: "2027 – 2028",
-    kind: "Degree",
-    coursework:
-      "Graduate coursework in financial accounting, managerial accounting, auditing, taxation, and data analytics — deepening the technical foundation for business-unit finance, internal controls, and public-company reporting.",
   },
 ];
 

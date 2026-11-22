@@ -2,10 +2,6 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import Wrapper from "../../shared/components/Wrapper";
 import SectionHeader from "../../shared/components/SectionHeader";
-import Expertise from "../components/Expertise";
-import Education from "../components/Education";
-import Credentials from "../components/Credentials";
-import Personal from "../components/Personal";
 import { assetPath } from "../../shared/helpers/asset-path";
 
 const PortraitFrame: React.FC = () => {
@@ -114,9 +110,8 @@ const About: React.FC = () => {
                 >
                   He began at Hindustan Unilever and later served as a senior
                   officer in the Indian Civil Services. He holds an MBA from
-                  Harvard Business School, an MSA from the University of
-                  Illinois Gies College of Business, and a B.Tech from IIT
-                  Kanpur. He is a CFA charterholder, a CPA, and a CMA.
+                  Harvard Business School and a B.Tech from IIT Kanpur. He is
+                  a CFA charterholder and a CMA.
                 </motion.p>
               </div>
 
@@ -139,42 +134,6 @@ const About: React.FC = () => {
                 ))}
               </motion.dl>
             </div>
-          </div>
-        </Wrapper>
-      </section>
-
-      <section className="py-12 sm:py-14 border-t border-slate-200">
-        <Wrapper>
-          <SectionHeader eyebrow="Focus" title="How he operates" />
-          <div className="mt-7">
-            <Expertise />
-          </div>
-        </Wrapper>
-      </section>
-
-      <section className="py-12 sm:py-14 border-t border-slate-200">
-        <Wrapper>
-          <SectionHeader eyebrow="Education" title="Academic background" />
-          <div className="mt-7">
-            <Education />
-          </div>
-        </Wrapper>
-      </section>
-
-      <section className="py-12 sm:py-14 border-t border-slate-200">
-        <Wrapper>
-          <SectionHeader eyebrow="Credentials" title="Professional standing" />
-          <div className="mt-7">
-            <Credentials />
-          </div>
-        </Wrapper>
-      </section>
-
-      <section className="py-12 sm:py-16 border-t border-slate-200">
-        <Wrapper>
-          <SectionHeader eyebrow="Personal" title="Honors" />
-          <div className="mt-7">
-            <Personal />
           </div>
         </Wrapper>
       </section>

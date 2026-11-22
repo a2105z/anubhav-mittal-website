@@ -7,6 +7,7 @@ import Footer from "./footer/pages/Footer";
 import Hero from "./hero/pages/Hero";
 import About from "./about/pages/About";
 import Experience from "./experience/pages/Experience";
+import Academic from "./about/components/Academic";
 import Media from "./media/pages/Media";
 import ContactForm from "./contact/pages/ContactForm";
 
@@ -27,6 +28,7 @@ function HomePage() {
       <Hero />
       <About />
       <Experience />
+      <Academic />
       <Media />
       <ContactForm />
     </motion.div>

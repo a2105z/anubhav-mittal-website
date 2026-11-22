@@ -18,13 +18,6 @@ const CREDENTIALS: Credential[] = [
     year: "Issued 2012",
   },
   {
-    logo: "/icons/organizations/cpa.png",
-    monogram: "CPA",
-    title: "Certified Public Accountant (CPA)",
-    issuer: "American Institute of Certified Public Accountants",
-    year: "Issued 2027",
-  },
-  {
     logo: "/icons/organizations/cma.png",
     monogram: "CMA",
     title: "Certified Management Accountant (CMA)",
@@ -35,7 +28,7 @@ const CREDENTIALS: Credential[] = [
 
 const Credentials: React.FC = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
       {CREDENTIALS.map((c, i) => (
         <motion.div
           key={c.title}
