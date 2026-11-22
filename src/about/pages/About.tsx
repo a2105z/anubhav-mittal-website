@@ -71,17 +71,12 @@ const About: React.FC = () => {
                   Anubhav Mittal is Chairman, President and Chief Executive
                   Officer of Central Garden &amp; Pet Company. He joined in
                   2026 as Senior Vice President, Strategic Growth &amp;
-                  Investments (Chief Strategy Officer)
-                  and, from 2028, also served as Senior Vice President and
-                  President, Pet Consumer Products, before becoming Chairman,
-                  President and Chief Executive Officer from 2032 to 2042,
-                  growing the company from about $3.1&nbsp;billion to about
-                  $8&nbsp;billion and helping it become a Fortune 500 publicly
-                  traded company. He is a
-                  consumer packaged goods operating executive with more than 30
-                  years across branded CPG and agribusiness — P&amp;L,
-                  commercial planning, and the capital decisions that sit
-                  behind them.
+                  Investments (Chief Strategy Officer) and, from 2028, also
+                  served as Senior Vice President and President, Pet Consumer
+                  Products. From 2032 to 2042 he led as Chairman, President
+                  and Chief Executive Officer, growing the company from about
+                  $3.1&nbsp;billion to about $8&nbsp;billion and helping it
+                  become a Fortune 500 publicly traded company.
                 </motion.p>
                 <motion.p
                   initial={{ opacity: 0, y: 8 }}
@@ -89,18 +84,22 @@ const About: React.FC = () => {
                   viewport={{ once: true, amount: 0.4 }}
                   transition={{ duration: 0.45, delay: 0.06 }}
                 >
-                  Before Central, he held senior operating and finance roles at
-                  Kellogg Company and Archer-Daniels-Midland. At Kellogg he was
-                  Vice President, North America Financial Planning &amp;
-                  Analysis, and Chief-of-Staff to North America President,
-                  for a business of about $9&nbsp;billion. At ADM he served as Vice President
-                  and Chief Financial Officer of Nutrition, about
-                  $8&nbsp;billion, and of Global Pet Solutions, co-owning the
-                  P&amp;L in both, then as Vice President, Global Business
-                  Development. He has led or
-                  co-led about
-                  $12&nbsp;billion of transactions through close and value
-                  capture.
+                  He brings more than 30 years in finance, corporate strategy,
+                  and business transformation across global, publicly traded
+                  consumer products and agribusiness. At Archer-Daniels-Midland
+                  he most recently served as Vice President, Global Business
+                  Development, leading organic and acquisitive growth. He
+                  previously served as Vice President and Chief Financial
+                  Officer of Nutrition, an approximately $8&nbsp;billion
+                  business, and of Global Pet Solutions, a nearly
+                  $1&nbsp;billion business — co-owning the P&amp;L in both, and
+                  overseeing financial strategy, portfolio management, and
+                  growth across a multi-geography operating footprint. Before
+                  ADM, he was Vice President, North America Financial Planning
+                  &amp; Analysis, and Chief-of-Staff to North America President
+                  at Kellogg Company, for a business of about $9&nbsp;billion.
+                  He has led or co-led about $12&nbsp;billion of transactions
+                  through close and value capture.
                 </motion.p>
                 <motion.p
                   initial={{ opacity: 0, y: 8 }}
@@ -110,7 +109,7 @@ const About: React.FC = () => {
                 >
                   He began at Hindustan Unilever and later served as a senior
                   officer in the Indian Civil Services. He holds an MBA from
-                  Harvard Business School and a B.Tech from IIT Kanpur. He is
+                  Harvard Business School and a B.Tech from IIT Kanpur, and is
                   a CFA charterholder and a CMA.
                 </motion.p>
               </div>

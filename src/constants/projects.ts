@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years in senior finance and business development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He served as Vice President and Chief Financial Officer, Nutrition and as Vice President and Chief Financial Officer, Global Pet Solutions, co-owning the P&L in both seats, then as Vice President, Global Business Development.",
+      "Nine years in senior finance and business development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He most recently served as Vice President, Global Business Development. Before that he was Vice President and Chief Financial Officer of Nutrition, an approximately $8 billion business, and of Global Pet Solutions, a nearly $1 billion business, co-owning the P&L in both.",
     roles: [
       {
         title:
@@ -115,7 +115,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2021 - 2023",
         location: "Chicago, Illinois, United States",
         highlights: [
-          "Co-owned the P&L with the President of ADM's ~$700M global Pet Solutions business across B2B ingredients and B2C branded products — translating strategy into financial plans, capital allocation, and performance targets that supported ~20% CAGR while improving profitability and capital efficiency.",
+          "Co-owned the P&L with the President of ADM's nearly $1 billion global Pet Solutions business across B2B ingredients and B2C branded products — translating strategy into financial plans, capital allocation, and performance targets that supported ~20% CAGR while improving profitability and capital efficiency.",
           "Led financial planning and performance management, including annual operating plans, rolling forecasts, long-range planning, KPI reviews, and executive business reviews — identifying risks and opportunities and driving corrective actions to deliver sales, earnings, and cash flow commitments.",
           "Partnered with Commercial, Operations, Supply Chain, Controllers, and Plant Finance teams to align pricing, product mix, manufacturing performance, cost accounting, inventory optimization, and S&OP-driven demand and supply plans — improving execution and profitability across the portfolio.",
           "Strengthened cash generation and supply chain resilience through working capital optimization, inventory management, supplier initiatives, and restructuring programs — delivering approximately $50M of cost savings, sustained productivity improvements, and margin expansion.",
