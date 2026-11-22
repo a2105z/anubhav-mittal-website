@@ -33,18 +33,18 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2026",
     endDate: "2042",
     summary:
-      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then Chairman, President and Chief Executive Officer from 2032 to 2042, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
+      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2026, also Senior Vice President and President, Pet Consumer Products from 2028, then President and Chief Executive Officer from 2032 to 2042, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
     roles: [
       {
-        title: "Chairman, President and Chief Executive Officer",
+        title: "President and Chief Executive Officer",
         dateRange: "2032 — 2042",
         location: "San Francisco, California, United States",
         highlights: [
-          "Serve as Chairman of the Board and lead Central Garden & Pet as President and Chief Executive Officer from 2032 to 2042 — growing net sales from ~$3.1B to ~$8B across Pet and Garden and helping the company become a Fortune 500 publicly traded company, with Pennington, Kaytee, Nylabone, and Aqueon, and with strategy, the P&L, sales, and cash in one office.",
+          "Lead Central Garden & Pet as President and Chief Executive Officer from 2032 to 2042 — growing net sales from ~$3.1B to ~$8B across Pet and Garden and helping the company become a Fortune 500 publicly traded company, with Pennington, Kaytee, Nylabone, and Aqueon, and with strategy, the P&L, sales, and cash in one office.",
           "Complete four acquisitions and bring them into the operating company — from the case through close, the plant and brand handover, and value capture — holding each to return, cash, and a Year-3 lookback so acquired sales earn the shelf rather than sit beside the plan.",
           "Carry a share of the growth to ~$8B on the organic book with the segment presidents — price, distribution, trade, and the retailer book — so garden seasons and pet resets close on volume and mix, and organic growth stays positive while the four acquisitions scale.",
           "Expand the Executive Leadership Team as the company scales to ~$8B — building the commercial, supply chain, and segment leadership a Fortune 500 portfolio requires, and running one operating cadence versus plan, forecast, and prior year with the Board and the ELT.",
-          "As Chairman, set the Board agenda, capital structure, and the dividend with the Chief Financial Officer across CENT and CENTA — aligning the equity narrative and board reporting with a Fortune 500 company at ~$8B of net sales.",
+          "Set capital structure and the dividend with the Chief Financial Officer across CENT and CENTA — aligning the equity narrative and board reporting with a Fortune 500 company at ~$8B of net sales.",
         ],
       },
       {
@@ -56,7 +56,7 @@ export const EXPERIENCES: Experience[] = [
           "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — delivering the segment on volume and mix against plan, forecast, and prior year.",
           "Run the pet business ahead of plan on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
           "Partner with supply chain, plant, and finance leaders on cost, inventory, and the seasonal reset — holding brand investment and capacity cases to return, cash, and a Year-3 lookback.",
-          "Keep the strategy mandate while running the business, so capital, portfolio choices, and the Board stay on the same volume, margin, and cash the pet plan uses, and take both seats into Chairman, President and Chief Executive Officer in 2032.",
+          "Keep the strategy mandate while running the business, so capital, portfolio choices, and the Board stay on the same volume, margin, and cash the pet plan uses, and take both seats into President and Chief Executive Officer in 2032.",
         ],
       },
       {
@@ -68,7 +68,7 @@ export const EXPERIENCES: Experience[] = [
           "Partner with the CEO, CFO, and the Board, including William E. Brown, Chairman and founder, to set the long-range plan and investment cases through business cases, return thresholds, and a review cadence tied to volume, margin, and cash.",
           "Partner with segment presidents, sales, and commercial leaders on price, distribution, trade, and the retailer book — the seasonal garden reset and the pet aisle — so growth priorities close on the plan.",
           "From 2028, hold this seat together with Senior Vice President and President, Pet Consumer Products, so company strategy and the pet P&L close on the same volume, margin, and cash.",
-          "Lead acquisitions, brand investment, and capacity from evaluation through execution — holding each case to return, cash, and a Year-3 lookback — and take both seats into Chairman, President and Chief Executive Officer in 2032.",
+          "Lead acquisitions, brand investment, and capacity from evaluation through execution — holding each case to return, cash, and a Year-3 lookback — and take both seats into President and Chief Executive Officer in 2032.",
         ],
       },
     ],
