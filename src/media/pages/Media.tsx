@@ -77,42 +77,6 @@ const Media: React.FC = () => {
               />
             ))}
           </div>
-
-          <div className="mt-14 sm:mt-20">
-            <div className="border border-slate-200 px-5 py-5 sm:px-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-              <div>
-                <p className="text-[11px] uppercase tracking-eyebrow text-brand-bronze">
-                  Media inquiries
-                </p>
-                <p className="mt-1 text-brand-ink text-[15.5px] font-semibold tracking-tight">
-                  Interview, panel, or speaking engagement?
-                </p>
-                <p className="mt-1 text-[13.5px] text-slate-500">
-                  Anubhav welcomes thoughtful conversations with journalists,
-                  conference organizers, and executive forums.
-                </p>
-              </div>
-              <a
-                href="#contact"
-                className="inline-flex items-center gap-2 rounded-full bg-brand-navy text-white px-5 py-2.5 text-[13px] font-medium tracking-wide transition-colors hover:bg-brand-ink"
-              >
-                Get in touch
-                <svg
-                  width="14"
-                  height="14"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <line x1="5" y1="12" x2="19" y2="12" />
-                  <polyline points="12 5 19 12 12 19" />
-                </svg>
-              </a>
-            </div>
-          </div>
         </Wrapper>
       </section>
     </div>
