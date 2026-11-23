@@ -29,16 +29,16 @@ export const EXPERIENCES: Experience[] = [
     monogram: "CENT",
     logo: "/icons/organizations/central-garden.png",
     logoFull: true,
-    location: "San Francisco, California, United States",
+    location: "Walnut Creek, California, United States",
     startDate: "2027",
     endDate: "2041",
     summary:
-      "Fourteen years at Central Garden & Pet in San Francisco, a pet and garden company. He served as Senior Vice President and Chief Strategy Officer from 2027, as Senior Vice President and President, Pet Consumer Products from 2029, and as President and Chief Executive Officer from 2033 to 2041, growing the company from about $3.1 billion to about $8 billion and helping it become a Fortune 500 publicly traded company.",
+      "Fourteen years at Central Garden & Pet in Walnut Creek, a pet and garden company. He served as Senior Vice President and Chief Strategy Officer from 2027, as Senior Vice President and President, Pet Consumer Products from 2029, and as President and Chief Executive Officer from 2033 to 2041, growing the company from about $3.1 billion to about $8 billion and helping it become a Fortune 500 publicly traded company.",
     roles: [
       {
         title: "President and Chief Executive Officer",
         dateRange: "2033 — 2041",
-        location: "San Francisco, California, United States",
+        location: "Walnut Creek, California, United States",
         highlights: [
           "Lead Central Garden & Pet as President and Chief Executive Officer from 2033 to 2041 — growing net sales from ~$3.1B to ~$8B across Pet and Garden and helping the company become a Fortune 500 publicly traded company, with Pennington, Kaytee, Nylabone, and Aqueon, and with strategy, the P&L, sales, and cash in one office.",
           "Complete four acquisitions and bring them into the operating company — from the case through close, the plant and brand handover, and value capture — holding each to return, cash, and a Year-3 lookback so acquired sales earn the shelf rather than sit beside the plan.",
@@ -50,7 +50,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title: "Senior Vice President and President, Pet Consumer Products",
         dateRange: "2029 — 2033",
-        location: "San Francisco, California, United States",
+        location: "Walnut Creek, California, United States",
         highlights: [
           "From 2029, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President and Chief Strategy Officer — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
           "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — delivering the segment on volume and mix against plan, forecast, and prior year.",
@@ -62,7 +62,7 @@ export const EXPERIENCES: Experience[] = [
       {
         title: "Senior Vice President and Chief Strategy Officer",
         dateRange: "2027 — 2033",
-        location: "San Francisco, California, United States",
+        location: "Walnut Creek, California, United States",
         highlights: [
           "Lead enterprise strategy, capital allocation, and portfolio governance across Pet and Garden for Central Garden & Pet, a ~$3.1B company — Pennington, Kaytee, Nylabone, and Aqueon — with more than 95% of sales in the United States.",
           "Set the long-range plan and the investment cases with the CEO, CFO, and the Board, including William E. Brown, Chairman and founder — business cases, return thresholds, and a review cadence tied to volume, margin, and cash.",

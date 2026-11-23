@@ -28,7 +28,7 @@ const Subheader: React.FC<{ delay: number }> = ({ delay }) => {
       >
         Central Garden &amp; Pet
         <span className="mx-2 text-white/30">·</span>
-        San Francisco
+        Walnut Creek
         <span className="mx-2 text-white/30">·</span>
         Chicago
       </motion.p>

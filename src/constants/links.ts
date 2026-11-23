@@ -3,7 +3,7 @@
 export const LINKEDIN_LINK =
   "https://www.linkedin.com/in/anubhav-mittal-cfa-cma/";
 
-export const LOCATION = "San Francisco, California";
+export const LOCATION = "Walnut Creek, California";
 
 // Formspree (or any form-to-email service) endpoint.
 // Leave as an empty string until you have one — the form will surface a

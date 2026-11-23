@@ -22,7 +22,7 @@ const TILES: Tile[] = [
   {
     eyebrow: "Citizenship",
     title: "United States citizen",
-    description: "Based in San Francisco.",
+    description: "Based in Walnut Creek.",
   },
 ];
 
