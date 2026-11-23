@@ -33,7 +33,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2027",
     endDate: "2041",
     summary:
-      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President and Chief Strategy Officer from 2027, also Senior Vice President and President, Pet Consumer Products from 2029, then President and Chief Executive Officer from 2033 to 2041, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
+      "Fourteen years at Central Garden & Pet in San Francisco, a pet and garden company. He served as Senior Vice President and Chief Strategy Officer from 2027, as Senior Vice President and President, Pet Consumer Products from 2029, and as President and Chief Executive Officer from 2033 to 2041, growing the company from about $3.1 billion to about $8 billion and helping it become a Fortune 500 publicly traded company.",
     roles: [
       {
         title: "President and Chief Executive Officer",
@@ -81,7 +81,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2017",
     endDate: "2026",
     summary:
-      "Nine years in senior finance and business development at Archer-Daniels-Midland Company, a global agribusiness and nutrition company, from Chicago, Illinois. He most recently served as Vice President, Global Business Development. Before that he was Vice President and Chief Financial Officer of Nutrition, an approximately $8 billion business, and of Global Pet Solutions, a nearly $1 billion business, co-owning the P&L in both.",
+      "Nearly ten years at Archer-Daniels-Midland in Chicago, a global agribusiness and nutrition company. He was Vice President, Global Business Development; Vice President and Chief Financial Officer of Nutrition, about an $8 billion business, and of Global Pet Solutions, nearly $1 billion, co-owning the P&L in both; and Vice President, Corporate Development and Mergers & Acquisitions.",
     roles: [
       {
         title:
@@ -145,7 +145,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2013",
     endDate: "2017",
     summary:
-      "Four years in senior finance and strategy at Kellogg Company, a global consumer foods company, from Battle Creek, Michigan. He served as Vice President, North America Financial Planning & Analysis, and Chief-of-Staff to North America President for an ~$9B business, and led corporate development, including mergers and a global restructuring program.",
+      "Four years at Kellogg in Battle Creek, a global consumer foods company. He was Vice President, North America Financial Planning & Analysis, and Chief-of-Staff to North America President, for a business of about $9 billion, and before that Senior Director and Director, Corporate Development and Strategy.",
     roles: [
       {
         title:
@@ -183,7 +183,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2007",
     endDate: "2013",
     summary:
-      "Six years advising Fortune 500 companies, sovereign wealth funds, and private equity firms on strategy, mergers, and operational restructuring at Booz & Company, from New York City, New York and Dubai.",
+      "Six years at Booz & Company in New York and Dubai. He advised Fortune 500 companies, sovereign wealth funds, and private equity firms on strategy, mergers, and restructuring, as Senior Engagement Manager, Engagement Manager, and Strategy Associate in consumer and retail.",
     roles: [
       {
         title: "Senior Engagement Manager, Consumer and Retail",
@@ -231,7 +231,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2006",
     endDate: "2006",
     summary:
-      "One summer in business, sales, and operations at Google LLC in Mountain View, California, during Harvard Business School, rebuilding quality review and scoring so online sales operations could scale.",
+      "One summer at Google in Mountain View, during Harvard Business School. He was a Business, Sales and Operations Intern, rebuilding quality review and scoring so online sales operations could scale.",
     roles: [
       {
         title: "Business, Sales and Operations Intern",
@@ -255,7 +255,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1999",
     endDate: "2005",
     summary:
-      "Six years as a senior officer in the Indian Civil Services, in New Delhi, across the Ministries of Home Affairs and Telecom, from national selection through federal policy, elections, and finance.",
+      "Six years with the Government of India in New Delhi, as an officer of the Indian Civil Services. He was Assistant Director in the Ministry of Home Affairs, Assistant Chief Finance and Accounts Officer in the Ministry of Telecom, and, at the start, an Officer Trainee.",
     roles: [
       {
         title: "Assistant Director, Ministry of Home Affairs",
@@ -304,7 +304,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "1997",
     endDate: "1999",
     summary:
-      "Two years as a management trainee at Hindustan Unilever Limited, a global consumer goods company, in Mumbai, Maharashtra and Hyderabad, Telangana, rotating through marketing, sales, manufacturing, and finance.",
+      "Two years at Hindustan Unilever in Mumbai and Hyderabad, a global consumer goods company. He was a management trainee, rotating through marketing, sales, manufacturing, and finance.",
     roles: [
       {
         title: "Management Trainee",
