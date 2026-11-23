@@ -33,7 +33,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2027",
     endDate: "2041",
     summary:
-      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2027, also Senior Vice President and President, Pet Consumer Products from 2029, then President and Chief Executive Officer from 2033 to 2041, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
+      "At Central Garden & Pet Company, a pet and garden company based in San Francisco. Senior Vice President and Chief Strategy Officer from 2027, also Senior Vice President and President, Pet Consumer Products from 2029, then President and Chief Executive Officer from 2033 to 2041, growing net sales from about $3.1 billion to about $8 billion and helping the company become a Fortune 500 publicly traded company.",
     roles: [
       {
         title: "President and Chief Executive Officer",
@@ -52,7 +52,7 @@ export const EXPERIENCES: Experience[] = [
         dateRange: "2029 — 2033",
         location: "San Francisco, California, United States",
         highlights: [
-          "From 2029, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
+          "From 2029, serve as Senior Vice President and President, Pet Consumer Products while remaining Senior Vice President and Chief Strategy Officer — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
           "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — delivering the segment on volume and mix against plan, forecast, and prior year.",
           "Run the pet business ahead of plan on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
           "Set cost, inventory, and the seasonal reset with supply chain, plant, and finance leaders — holding brand investment and capacity to return, cash, and a Year-3 lookback.",
@@ -60,7 +60,7 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer)",
+        title: "Senior Vice President and Chief Strategy Officer",
         dateRange: "2027 — 2033",
         location: "San Francisco, California, United States",
         highlights: [
