@@ -33,7 +33,7 @@ export const EXPERIENCES: Experience[] = [
     startDate: "2027",
     endDate: "2041",
     summary:
-      "Fourteen years at Central Garden & Pet in Walnut Creek, a pet and garden company. He served as Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2027 to 2029, as Senior Vice President & President, Pet Consumer Products, and Head of Enterprise Strategy from 2029 to 2033, and as President and Chief Executive Officer from 2033 to 2041, growing the company from about $3.1 billion to about $8 billion and helping it become a Fortune 500 publicly traded company.",
+      "Fourteen years at Central Garden & Pet in Walnut Creek, a pet and garden company. He served as Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer) from 2027 to 2029, as Senior Vice President and President, Pet Consumer Products, and Head of Enterprise Strategy from 2029 to 2033, and as President and Chief Executive Officer from 2033 to 2041, growing the company from about $3.1 billion to about $8 billion and helping it become a Fortune 500 publicly traded company.",
     roles: [
       {
         title: "President and Chief Executive Officer",
@@ -48,11 +48,11 @@ export const EXPERIENCES: Experience[] = [
         ],
       },
       {
-        title: "Senior Vice President & President, Pet Consumer Products, and Head of Enterprise Strategy",
+        title: "Senior Vice President and President, Pet Consumer Products, and Head of Enterprise Strategy",
         dateRange: "2029 — 2033",
         location: "Walnut Creek, California, United States",
         highlights: [
-          "From 2029, serve as Senior Vice President & President, Pet Consumer Products, and Head of Enterprise Strategy — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
+          "From 2029, serve as Senior Vice President and President, Pet Consumer Products, and Head of Enterprise Strategy — Kaytee, Nylabone, and Aqueon — with the pet P&L, sales, and company strategy in one office.",
           "Lead sales and the commercial team for the pet aisle — price, distribution, trade, and the customer book — delivering the segment on volume and mix against plan, forecast, and prior year.",
           "Run the pet business ahead of plan on margin and cash, with productivity and mix into the brands that earn the shelf, and working capital that still covers every reset.",
           "Set cost, inventory, and the seasonal reset with supply chain, plant, and finance leaders — holding brand investment and capacity to return, cash, and a Year-3 lookback.",
@@ -67,7 +67,7 @@ export const EXPERIENCES: Experience[] = [
           "Lead enterprise strategy, capital allocation, and portfolio governance across Pet and Garden for Central Garden & Pet, a ~$3.1B company — Pennington, Kaytee, Nylabone, and Aqueon — with more than 95% of sales in the United States.",
           "Set the long-range plan and the investment cases with the CEO, CFO, and the Board, including William E. Brown, Chairman and founder — business cases, return thresholds, and a review cadence tied to volume, margin, and cash.",
           "Hold price, distribution, trade, and the retailer book to the plan with the segment presidents and commercial leaders — the garden reset and the pet aisle.",
-          "In 2029, move from this seat into Senior Vice President & President, Pet Consumer Products, and Head of Enterprise Strategy, so company strategy and the pet P&L close on the same volume, margin, and cash.",
+          "In 2029, move from this seat into Senior Vice President and President, Pet Consumer Products, and Head of Enterprise Strategy, so company strategy and the pet P&L close on the same volume, margin, and cash.",
           "Lead acquisitions, brand investment, and capacity from evaluation through execution — holding each case to return, cash, and a Year-3 lookback — through the end of this seat in 2029.",
         ],
       },

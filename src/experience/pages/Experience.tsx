@@ -11,7 +11,7 @@ const Experience: React.FC = () => {
           <SectionHeader
             eyebrow="Experience"
             title="Operating career"
-            description="President and Chief Executive Officer of Central Garden & Pet from 2033 to 2041, after Senior Vice President & President, Pet Consumer Products, and Head of Enterprise Strategy, and Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer). Before Central, roles in consumer packaged goods, agribusiness, and advisory."
+            description="President and Chief Executive Officer of Central Garden & Pet from 2033 to 2041, after Senior Vice President and President, Pet Consumer Products, and Head of Enterprise Strategy, and Senior Vice President, Strategic Growth & Investments (Chief Strategy Officer). Before Central, roles in consumer packaged goods, agribusiness, and advisory."
           />
           <div className="mt-10">
           <ol className="relative">
