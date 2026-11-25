@@ -73,9 +73,10 @@ const About: React.FC = () => {
                   In that seat he grew the company from about $3.1&nbsp;billion
                   to about $8&nbsp;billion and helped it become a Fortune 500
                   publicly traded company. Before that, from 2029 to 2033, he
-                  was Senior Vice President and President, Pet Consumer
-                  Products. He joined in 2027 as Senior Vice President and
-                  Chief Strategy Officer, and held that seat through 2033.
+                  was Senior Vice President &amp; President, Pet Consumer
+                  Products, and Head of Enterprise Strategy. He joined in 2027
+                  as Senior Vice President, Strategic Growth &amp; Investments
+                  (Chief Strategy Officer), and held that seat until 2029.
                 </motion.p>
                 <motion.p
                   initial={{ opacity: 0, y: 8 }}
